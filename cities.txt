@@ -1,0 +1,19999 @@
+NE	Gibbon
+
+NH	Manchester
+
+AZ	Maryvale
+
+WI	Appleton
+
+SC	Sunset
+
+AL	Elba
+
+FL	North Lauderdale
+
+TX	Batesville
+
+OH	Kent
+
+NJ	Freehold
+
+OR	Talent
+
+IA	Cedar Rapids
+
+MI	Grand Rapids
+
+NJ	Rockaway
+
+PA	Clarks Summit
+
+KS	Wichita
+
+FL	Miami
+
+GA	Brooklet
+
+CO	Ridgway
+
+CA	Costa Mesa
+
+CA	Jurupa
+
+VA	Suffolk
+
+NE	Lincoln
+
+MO	Chesterfield
+
+IA	Camanche
+
+NY	Waterloo
+
+MO	Farmington
+
+CA	San Leandro
+
+CA	Westwood
+
+AL	Florence
+
+NY	Medina
+
+CA	El Camino
+
+MI	Allegan
+
+AL	Haleyville
+
+CA	Redding
+
+MT	Libby
+
+MA	Boston
+
+GA	Canton
+
+CA	Downey
+
+OH	Parkman
+
+TX	Galena Park
+
+NJ	Bernardsville
+
+UT	Eagle Mountain
+
+FL	Naples
+
+TX	Junction
+
+OR	Idanha
+
+MI	Novi
+
+WA	Seattle
+
+MO	Grain Valley
+
+NY	Wading River
+
+MI	Lapeer
+
+MN	Becker
+
+CA	Sylmar
+
+ME	Machias
+
+IL	Crest Hill
+
+KY	Louisville
+
+NY	Bronx
+
+CA	Newbury Park
+
+NE	Kearney
+
+IL	Ingleside
+
+SC	Greenville
+
+IA	Oskaloosa
+
+KY	Newport
+
+MT	Three Forks
+
+CA	Glen Ellen
+
+IL	Plano
+
+NC	Elizabethtown
+
+MD	Annapolis Junction
+
+MN	Coon Rapids
+
+PA	McKeesport
+
+KS	Leawood
+
+CA	San Francisco
+
+NJ	Woodbine
+
+CA	Vallejo
+
+IN	Huntington
+
+VA	Collinsville
+
+IL	Oakland
+
+MN	Burnsville
+
+CA	Woodland Hills
+
+GA	Dunwoody
+
+PA	Pleasant Gap
+
+CA	Placerville
+
+MI	Monroe
+
+TX	Canyon Lake
+
+KY	Campbellsville
+
+AZ	Scottsdale
+
+NY	Town of Chili
+
+MN	Buhl
+
+CO	Brighton
+
+MA	Malden
+
+IA	Sidney
+
+MT	Columbia Falls
+
+NV	Fernley
+
+PA	New Brighton
+
+MD	Baltimore
+
+CT	Moosup
+
+CO	Cripple Creek
+
+CA	Tracy
+
+VA	Reston
+
+CA	Paramount
+
+NJ	Voorhees
+
+ME	Fairfield
+
+PA	Concordville
+
+NE	Omaha
+
+OH	Canton
+
+WI	Menomonie
+
+SD	Deadwood
+
+FL	Lake Alfred
+
+IL	Paw Paw
+
+PA	Tidioute
+
+PA	Charleroi
+
+NJ	Sayreville
+
+MN	Mahtomedi
+
+CA	Half Moon Bay
+
+PA	Throop
+
+UT	Salt Lake City
+
+PA	King of Prussia
+
+CT	Portland
+
+PA	Strasburg
+
+TX	Austin
+
+OH	Bellville
+
+TX	George West
+
+CA	San Diego
+
+LA	Robert
+
+IN	Indianapolis
+
+DE	Dover
+
+IN	Syracuse
+
+MI	Dowagiac
+
+MO	Blue Springs
+
+TX	Jacinto City
+
+MN	Bloomington
+
+TN	Knoxville
+
+MN	Rosemount
+
+AZ	Kingman
+
+NH	Auburn
+
+LA	Pineville
+
+IL	South Holland
+
+NY	Schenectady
+
+NY	John F. Kennedy Airport
+
+CA	Downey
+
+GA	Carrollton
+
+WI	Reeseville
+
+VA	Bluefield
+
+CA	Sherman Oaks
+
+WI	Winneconne
+
+VA	Berryville
+
+TX	Pasadena
+
+MT	Missoula
+
+IL	Deerfield
+
+OH	Cincinnati
+
+MN	Faribault
+
+IL	Loves Park
+
+CT	Winsted
+
+PA	Easton
+
+OR	Portland
+
+VT	Shelburne
+
+PA	Reading
+
+ID	Mountain Home
+
+NH	Rumney
+
+KY	Cadiz
+
+NV	Las Vegas
+
+KY	Lexington
+
+CA	Sacramento
+
+KS	Shawnee
+
+CO	Poncha Springs
+
+TN	Lynchburg
+
+TX	San Angelo
+
+MO	Cuba
+
+WV	Charleston
+
+UT	Springville
+
+NJ	Orange
+
+LA	Keithville
+
+MA	Methuen
+
+GA	Atlanta
+
+AZ	Tucson
+
+IL	Oakland
+
+SC	Charleston
+
+MI	Grand Rapids
+
+CA	West Sacramento
+
+ME	Old Town
+
+NC	Rose Hill
+
+CA	East Palo Alto
+
+UT	Delta
+
+TN	Memphis
+
+CT	New Hartford
+
+KS	Topeka
+
+AL	Bay Minette
+
+NC	McLeansville
+
+ID	Nampa
+
+NV	Las Vegas
+
+TX	Lubbock
+
+GA	Reynolds
+
+MA	Beverly
+
+SC	Charleston
+
+CA	Aliso Viejo
+
+NJ	Township of Deptford
+
+WV	Huntington
+
+IL	Bradley
+
+KY	Edgewood
+
+NY	Albany
+
+KS	Newton
+
+MN	Minneapolis
+
+PA	Orwigsburg
+
+NC	Charlotte
+
+NY	New York
+
+VA	Arlington
+
+SC	Newberry
+
+MD	Davidsonville
+
+MD	Saint Inigoes Shores
+
+NV	Las Vegas
+
+NV	Sparks
+
+CA	West Sacramento
+
+FL	Tampa
+
+AZ	Parker
+
+NY	Wayland
+
+NJ	Stratford
+
+WI	Milwaukee
+
+TX	Austin
+
+MA	Raynham
+
+MN	Apple Valley
+
+NJ	West Deptford
+
+CA	Milpitas
+
+CA	El Sereno
+
+CT	Monroe
+
+CA	Rialto
+
+NY	Rochester
+
+NY	New Windsor
+
+IL	Melrose Park
+
+CA	Pomona
+
+KS	Wamego
+
+WA	Benton City
+
+NY	New York
+
+NA	NA
+
+TX	Kingwood
+
+MA	Salisbury
+
+NY	Warwick
+
+CA	Los Angeles
+
+GA	North Atlanta
+
+PA	York
+
+FL	Miami
+
+AZ	Phoenix
+
+KS	Greenwich
+
+WI	Pewaukee
+
+IA	Des Moines
+
+IL	Hodgkins
+
+CA	Carlsbad
+
+NA	NA
+
+MI	Rapid City
+
+ME	Falmouth
+
+NY	Schenectady
+
+CA	Soledad
+
+OH	Columbus
+
+CA	Newport
+
+SC	Batesburg
+
+TX	Garden Ridge
+
+WA	Forks
+
+NY	Amenia
+
+OH	Batavia
+
+CT	Dayville
+
+OK	Oklahoma City
+
+NY	West Seneca
+
+PA	Sellersville
+
+FL	Matlacha
+
+TX	Tomball
+
+WI	West Allis
+
+RI	Cranston
+
+MO	Marshfield
+
+FL	Orlando
+
+NJ	Township of Warren
+
+MN	Shoreview
+
+TX	Amarillo
+
+TN	Nashville-Davidson
+
+KY	Catlettsburg
+
+TX	Conroe
+
+NY	Forest Hills
+
+CA	Encino
+
+MA	Boston
+
+CA	Oakland
+
+OH	Woodmere
+
+PA	Paradise
+
+TX	Roanoke
+
+PA	Curwensville
+
+OH	Toledo
+
+MN	Minnetonka
+
+PA	Olyphant
+
+NV	Ely
+
+NJ	Lake Hiawatha
+
+WI	Green Bay
+
+OH	Massillon
+
+MA	Holyoke
+
+TX	Collin
+
+MN	North Oaks
+
+NJ	Pedricktown
+
+MD	Baltimore
+
+GA	Marietta
+
+SD	Sioux Falls
+
+SD	Summerset
+
+VA	Richmond
+
+IA	Bloomfield
+
+TX	Irving
+
+OK	Tulsa
+
+TN	Drummonds
+
+NY	Mohegan Lake
+
+NJ	Montclair
+
+OR	Idanha
+
+OH	Amanda
+
+MD	Baltimore
+
+NY	Albany
+
+OK	Oklahoma City
+
+IL	Aurora
+
+AL	Meridianville
+
+MT	Missoula
+
+AL	Cherokee
+
+TX	College Station
+
+TN	Cleveland
+
+RI	Providence
+
+MI	Ann Arbor
+
+KS	Hesston
+
+CA	Irvine
+
+IL	Alexis
+
+TX	Trinidad
+
+TX	Round Rock
+
+FL	Gainesville
+
+NY	Brooklyn
+
+WI	Salem
+
+CA	Los Cerritos
+
+NE	La Vista
+
+NY	Seneca Falls
+
+IL	Rolling Meadows
+
+MA	Worcester
+
+CA	Fort Irwin
+
+AZ	Queen Creek
+
+MI	Grand Rapids
+
+PA	Selinsgrove
+
+MO	Potosi
+
+NJ	New Providence
+
+WI	Appleton
+
+ME	Bar Harbor
+
+OH	Parkman
+
+UT	Vernal
+
+TX	Pharr
+
+VA	Elkton
+
+MN	Eagan
+
+NC	Charlotte
+
+TX	Socorro
+
+CA	San Jose
+
+NJ	Millstone
+
+VA	Tysons Corner
+
+MD	White Plains
+
+CA	Morgan Hill
+
+MA	Hanson
+
+OH	Plain City
+
+VA	Keeling
+
+LA	West Monroe
+
+FL	Cocoa
+
+MA	Stoughton
+
+PA	Fredericksburg
+
+WA	Parkland
+
+SC	Charleston
+
+TX	San Elizario
+
+NE	Henderson
+
+VA	Falls Church
+
+CA	Kit Carson
+
+OK	Tecumseh
+
+HI	Kapaa
+
+MO	Bridgeton
+
+PA	New Florence
+
+CA	Colusa
+
+RI	Providence
+
+IL	Fairbury
+
+MO	Mexico
+
+TN	White Bluff
+
+CA	Atherton
+
+TX	Austin
+
+NY	Suffern
+
+NY	Catskill
+
+WA	Bremerton
+
+PA	Township of Marple
+
+PA	Sarver
+
+CA	Mentone
+
+WI	Waterford
+
+FL	Okeechobee
+
+IL	Hamilton
+
+MN	Byron
+
+TX	Fort Worth
+
+WI	Plain
+
+NY	New York
+
+NJ	Seaville
+
+WI	Juneau
+
+VA	Milford
+
+KY	Dawson Springs
+
+CA	Fairfield
+
+NE	Campbell
+
+NE	Omaha
+
+MA	Canton
+
+NY	East Islip
+
+MI	Marlette
+
+CT	Northford
+
+NY	Vestal
+
+PA	New Castle
+
+PA	Danboro
+
+NY	Mineola
+
+VA	Fort Belvoir
+
+NJ	Plainfield
+
+PA	Adamstown
+
+OH	Midvale
+
+OR	Hillsboro
+
+MN	Grand Rapids
+
+WA	Steilacoom
+
+LA	Pineville
+
+OH	Gallipolis
+
+SC	Greenville
+
+NC	Charlotte
+
+OR	Gold Beach
+
+GA	Marietta
+
+WV	Parkersburg
+
+TX	Mc Gregor
+
+OK	Elmore City
+
+UT	Heber City
+
+OH	Lima
+
+FL	Big Pine Key
+
+NY	Stormville
+
+CA	North Highlands
+
+MI	Utica
+
+MN	Wyoming
+
+MI	Detroit
+
+FL	Miami
+
+IL	Thornton
+
+OK	Moore
+
+CA	Ontario
+
+VT	Sheldon
+
+WI	Hancock
+
+TN	Hendersonville
+
+PA	Scott Township
+
+NE	Bayard
+
+NY	Cedarhurst
+
+PA	Smithton
+
+NE	Tekamah
+
+CA	Hillcrest
+
+NJ	Wall
+
+AL	Pell City
+
+CA	Fountain Valley
+
+ME	Hiram
+
+NY	Arkwright
+
+VA	Vienna
+
+FL	Orlando
+
+MS	Olive Branch
+
+OH	Youngstown
+
+LA	Broussard
+
+SC	Berea
+
+PA	Franklin
+
+FL	Hollywood
+
+TX	Pleasanton
+
+TX	Austin
+
+NV	Las Vegas
+
+NY	Fresh Meadows
+
+CA	Morena
+
+WI	Appleton
+
+OH	Valley View
+
+NY	Buffalo
+
+MO	Lexington
+
+NY	Elmhurst
+
+MS	Bruce
+
+CO	Pueblo West
+
+NC	Roseboro
+
+CA	Montclair
+
+GA	Clarkston
+
+NC	Waynesville
+
+MI	Rochester Hills
+
+OH	Willoughby
+
+UT	Tremonton
+
+MI	Milford
+
+SC	Ridgeland
+
+NJ	Little York
+
+FL	Saint Johns
+
+MA	Littleton
+
+SD	Brandon
+
+MO	Kansas City
+
+AR	Wynne
+
+VA	Virginia Beach
+
+IL	Richton Park
+
+IN	Lafayette
+
+SC	Aiken
+
+IL	Springfield
+
+NC	Raleigh
+
+AR	Magnolia
+
+CA	Chatsworth
+
+IA	Bloomfield
+
+NY	New Windsor
+
+IN	Goshen
+
+NY	Coram
+
+DC	Washington
+
+PA	Chester
+
+MA	Needham
+
+NY	Claverack
+
+TX	Mabank
+
+FL	Tampa Bay
+
+TX	Austin
+
+MI	Plainwell
+
+IN	Evansville
+
+PA	Boswell
+
+NY	Farmingville
+
+AZ	Tucson
+
+IL	Joliet
+
+TX	McKinney
+
+CA	South Pasadena
+
+ME	Westbrook
+
+MN	Plymouth
+
+IL	Palatine
+
+NJ	Dumont
+
+NM	Radium Springs
+
+MA	Hopedale
+
+FL	Oldsmar
+
+UT	Salt Lake City
+
+SC	Clinton
+
+MO	Malden
+
+PA	West Pittston
+
+AL	Safford
+
+NH	Keene
+
+CA	Rialto
+
+LA	Marrero
+
+PA	Atlasburg
+
+MA	Marshfield
+
+AK	Anchorage
+
+FL	South Miami
+
+TX	Addison
+
+MD	Baltimore
+
+TX	League City
+
+CA	San Francisco Bay Area
+
+IN	Fort Wayne
+
+TN	Whitehaven
+
+NC	Cary
+
+AL	Huntsville
+
+NJ	Union City
+
+KY	Crestwood
+
+MI	Troy
+
+NC	Connellys Springs
+
+WA	Lynwood Center
+
+MI	Schoolcraft
+
+TX	Dallas
+
+NJ	Newton
+
+MN	Olivia
+
+CA	Redwood City
+
+PA	West Chester
+
+CA	Los Angeles
+
+CA	San Leandro
+
+MI	Detroit
+
+FL	Saint Petersburg
+
+AZ	Phoenix
+
+CA	Willits
+
+MN	Forest Lake
+
+AR	Farmington
+
+MI	Kalamazoo
+
+PA	Franklin
+
+TN	White Pine
+
+MO	Cape Girardeau
+
+NE	Bayard
+
+TX	Westlake
+
+IL	Greenfield
+
+LA	Sorrento
+
+TN	Ardmore
+
+CA	Los Angeles
+
+FL	Martin
+
+NY	Catskill
+
+CA	Otay Mesa
+
+PA	Mertztown
+
+CA	Lake Elsinore
+
+PA	Tidioute
+
+AR	Mena
+
+VA	Haysi
+
+PA	North Wales
+
+PA	Moosic
+
+NY	New York
+
+CT	Chaplin
+
+NJ	Clarksboro
+
+NY	Port Gibson
+
+OH	Akron
+
+IA	Burlington
+
+AL	Athens
+
+WV	Walker
+
+NY	Liberty
+
+ID	Twin Falls
+
+MI	Troy
+
+MN	Edina
+
+TX	Grand Prairie
+
+SC	Marlborough
+
+MA	Hyde Park
+
+FL	DeBary
+
+FL	Blountstown
+
+PA	Barnesville
+
+VT	Bennington
+
+TX	Greenville
+
+PA	Yardley
+
+KS	Newton
+
+WA	Seattle
+
+WA	Issaquah
+
+FL	Orlando
+
+NY	Bronxville
+
+MN	Luverne
+
+VA	Rawlings
+
+PA	Zelienople
+
+CA	Irvine
+
+NY	Bethel
+
+LA	Maurepas
+
+MO	Taylor
+
+CA	Santa Clara
+
+IL	Schaumburg
+
+NY	Geneva
+
+OH	Vincent
+
+AZ	Glendale Luke AFB
+
+CA	Willow Glen
+
+VA	Clintwood
+
+MI	Grand Blanc
+
+CA	Albany
+
+ID	Rathdrum
+
+AL	Brundidge
+
+NJ	Manahawkin
+
+OH	Warrensville Heights
+
+DC	Washington
+
+AL	Opelika
+
+MI	Muskegon
+
+MI	Manchester
+
+PA	Hermitage
+
+KY	Louisville
+
+MA	Cambridge
+
+MI	Grand Rapids
+
+PA	Donegal
+
+MO	Desloge
+
+MI	Troy
+
+IN	Ashley
+
+CA	Porter Ranch
+
+UT	Saratoga Springs
+
+LA	Lafayette
+
+FL	Mount Dora
+
+CA	Fresno
+
+TN	McMinnville
+
+MN	Paynesville
+
+FL	Jensen Beach
+
+FL	Orlando
+
+KY	Trenton
+
+NY	Albany
+
+OH	Beaverdam
+
+MA	Boston
+
+TX	West Odessa
+
+NE	Verdigre
+
+NY	Huntington
+
+FL	Hollywood
+
+NJ	Newark
+
+NV	Nellis AFB
+
+FL	Miramar
+
+VA	Yorktown
+
+HI	Keaau
+
+CA	Temecula
+
+CT	Old Lyme
+
+MO	St. Louis
+
+NY	Bethel
+
+IA	Rock Valley
+
+FL	Palm City
+
+FL	Orlando
+
+PA	Avondale
+
+FL	Saint Petersburg
+
+IL	McHenry
+
+WV	Nutter Fort
+
+UT	Tremonton
+
+GA	Marietta
+
+TX	Seaman
+
+IA	Des Moines
+
+MN	Minneapolis
+
+MA	Burlington
+
+MI	Ida
+
+OR	Chenoweth
+
+FL	Key Largo
+
+CA	Carlsbad
+
+CA	Ridgecrest
+
+TX	Bartlett
+
+MN	Albertville
+
+CA	Vista
+
+WA	Seattle
+
+WI	Brown Deer
+
+OR	Lake Oswego
+
+AL	Mobile
+
+OH	Lima
+
+CO	Salida
+
+IL	Palatine
+
+NC	Black Mountain
+
+NA	NA
+
+OH	Massillon
+
+UT	Sugar House
+
+IL	Wheeling
+
+ME	South Freeport
+
+WV	Wellsburg
+
+NJ	Morris Plains
+
+OH	Eastlake
+
+MO	Richmond Heights
+
+WV	Eleanor
+
+MS	Shelby
+
+AL	Mobile
+
+WA	Marysville
+
+FL	Miami
+
+CA	Sacramento
+
+OH	Willoughby
+
+UT	South Jordan
+
+NH	Lincoln
+
+CA	Jackson
+
+WI	Ashwaubenon
+
+CA	Tahoe City
+
+PA	Versailles
+
+WI	Madison
+
+TN	Memphis
+
+CA	Miramar
+
+CA	Walnut Creek
+
+OH	Canton
+
+MD	Ocean City
+
+HI	Honolulu
+
+PA	King of Prussia
+
+IL	Palatine
+
+AZ	Rio Rico
+
+MA	Worcester
+
+CA	Tustin
+
+IN	Uniondale
+
+NJ	Township of Brick
+
+AZ	Glendale
+
+IL	Highland
+
+CA	Hollister
+
+IL	Schaumburg
+
+CA	Sunnyvale
+
+OH	Canton
+
+WI	Vesper
+
+LA	Alexandria
+
+SC	Moncks Corner
+
+MI	Allen Park
+
+WA	Tukwila
+
+KY	Somerset
+
+UT	Salt Lake City
+
+IL	Burr Ridge
+
+MN	Edina
+
+CA	San Diego
+
+TX	San Antonio
+
+MI	South Lyon
+
+KS	Riley
+
+FL	High Springs
+
+IL	Libertyville
+
+FL	Fort Lauderdale Beach
+
+FL	Alva
+
+MN	Minneapolis
+
+VA	Ruther Glen
+
+IL	Belleville
+
+IL	Rockford
+
+AL	Eufaula
+
+FL	Clearwater
+
+KY	Irvine
+
+TX	Sweeny
+
+WA	Issaquah
+
+VA	Alexandria
+
+OR	Troutdale
+
+IL	Chicago
+
+NE	Lincoln
+
+VA	Manakin Sabot
+
+TX	New Braunfels
+
+GA	Columbus
+
+WI	Mercer
+
+CA	Murrieta
+
+NJ	Hope
+
+WI	Belgium
+
+CA	Fresno
+
+NH	Windham
+
+NY	West Sayville
+
+FL	Ormond Beach
+
+NJ	Elmwood Park
+
+PA	Enola
+
+MA	Salem
+
+LA	Schriever
+
+PA	Phoenixville
+
+PA	Turtle Creek
+
+CT	Hartford
+
+NY	Hunts Point
+
+AR	Danville
+
+VA	Alexandria
+
+LA	New Orleans
+
+SC	Walterboro
+
+OH	Mason
+
+VA	Richmond
+
+WA	Ocean Shores
+
+LA	New Iberia
+
+PA	Ligonier
+
+NY	New York
+
+IN	Union Mills
+
+IN	Loogootee
+
+IL	Sterling
+
+TX	Austin
+
+WA	Everett
+
+AZ	Mesa
+
+OR	Lake Oswego
+
+TX	Flower Mound
+
+TX	Austin
+
+NY	Queens
+
+WI	Delafield
+
+IN	Portage
+
+MA	Attleboro
+
+CA	Cerritos
+
+MT	Bozeman
+
+SC	Pawleys Island
+
+GA	Ellenwood
+
+GA	Atlanta
+
+MA	East Longmeadow
+
+NH	Swanzey
+
+PA	Cornwall
+
+IA	Sully
+
+SC	Tega Cay
+
+CA	San Francisco Bay Area
+
+NY	Jamestown
+
+NJ	Eatontown
+
+IL	Carol Stream
+
+GA	Smyrna
+
+OH	Hubbard
+
+VA	Vienna
+
+OH	Valley City
+
+GA	Atlanta
+
+AL	Moulton
+
+OH	West Lake
+
+IA	Buffalo
+
+NY	Cold Spring
+
+TN	Spencer
+
+IL	Cutler
+
+SC	Charleston
+
+OH	Peninsula
+
+IL	Markham
+
+NY	Bronx
+
+KS	Kansas City
+
+AZ	Phoenix
+
+IN	Indianapolis
+
+NY	Syracuse
+
+VA	Newport News
+
+OH	Monroeville
+
+CA	Monterey Bay
+
+MA	Bourne
+
+VA	Evington
+
+ME	Freeport
+
+MA	Berkley
+
+NC	Fayetteville
+
+VA	Mechanicsville
+
+MD	White Plains
+
+NC	Jefferson
+
+TX	New Braunfels
+
+PA	Malvern
+
+PA	Hunker
+
+WI	Juneau
+
+CA	San Mateo
+
+OH	Middleburg Heights
+
+CT	Somers
+
+OK	Woodward
+
+PA	Orwigsburg
+
+HI	Hawai‚Äòian Islands
+
+IA	Grimes
+
+LA	Thibodaux
+
+WI	Vesper
+
+MN	Balaton
+
+PA	Philadelphia
+
+FL	Green Cove Springs
+
+PA	Pittsburgh
+
+OH	Beavercreek
+
+WI	Verona
+
+MI	Dearborn
+
+NJ	Fort Dix
+
+PA	Equinunk
+
+NC	Nashville
+
+IN	Highland
+
+NY	New York
+
+IL	Wonder Lake
+
+NY	Greenwich Village
+
+IL	Elk Grove Village
+
+MD	Clarksburg
+
+MO	Cape Girardeau
+
+KY	Paducah
+
+MA	Newburyport
+
+WA	Seattle
+
+IL	Des Plaines
+
+MA	Charlton
+
+MA	North Andover
+
+NC	Morganton
+
+OH	Columbus
+
+CA	Sacramento
+
+NY	West Hempstead
+
+TX	Houston
+
+MA	Osterville
+
+OH	Bedford
+
+PA	Kreamer
+
+CO	Denver
+
+CA	Shasta Lake
+
+GA	Thomaston
+
+MI	Burton
+
+TX	Corinth
+
+VA	Lorton
+
+WI	Prairie du Chien
+
+RI	Lincoln
+
+LA	Lafayette
+
+OH	Delta
+
+NJ	Lakewood
+
+PA	Canonsburg
+
+FL	Fleming Island
+
+CA	San Francisco
+
+MI	Saline
+
+NY	Old Bethpage
+
+NJ	Jersey City
+
+NH	Suncook
+
+VT	Milton
+
+NJ	Ramsey
+
+TX	Keller
+
+NJ	Somerset
+
+MI	Bloomfield
+
+IN	Whiting
+
+LA	Cecilia
+
+OH	Green
+
+IN	Valparaiso
+
+KY	Mayfield
+
+PA	West Newton
+
+SC	Ward
+
+OH	Akron
+
+IL	Quincy
+
+PA	Collingdale
+
+GA	Atlanta
+
+TX	Longview
+
+KY	Paducah
+
+MI	Wixom
+
+MS	Tupelo
+
+IL	Justice
+
+FL	West Palm Beach
+
+CA	Bonsall
+
+NY	New Lebanon
+
+PA	Orwigsburg
+
+CA	Irvine
+
+NY	Manhasset
+
+OR	Portland
+
+NY	Irvington
+
+NC	Fuquay-Varina
+
+NJ	Cranford
+
+OH	Akron
+
+WA	Northgate
+
+MN	Monticello
+
+IA	Janesville
+
+NJ	East Brunswick
+
+MA	North Reading
+
+IN	Hammond
+
+NM	Albuquerque
+
+MN	Eden Prairie
+
+MN	Fairmont
+
+WA	Lynnwood
+
+OH	Hubbard
+
+MA	Topsfield
+
+NJ	Washington Township
+
+IL	Crest Hill
+
+WV	Wheeling
+
+LA	Dubberly
+
+CA	San Diego
+
+MN	Saint Paul
+
+MO	Harrisonville
+
+FL	Orlando
+
+CT	Coventry
+
+VA	Arlington
+
+IL	Glen Ellyn
+
+AL	Laceys Spring
+
+CA	West Sacramento
+
+AL	Woodstock
+
+AR	Calico Rock
+
+CA	Alum Rock
+
+PA	Wayne
+
+PA	Pittsburgh
+
+NE	Sidney
+
+CA	San Francisco
+
+TX	Dallas
+
+CA	Los Angeles
+
+OK	Wynnewood
+
+SC	Sunset
+
+MN	Duluth
+
+CA	Laguna Hills
+
+NC	Charlotte
+
+CA	Sun Valley
+
+OH	Valley City
+
+ME	Pownal
+
+NC	Charlotte
+
+DC	Washington
+
+NY	New York
+
+FL	Deltona
+
+MN	Balaton
+
+MD	Crofton
+
+FL	Pinellas Peninsula
+
+IL	Washington
+
+AZ	Phoenix
+
+PA	Wexford
+
+IN	Nevada Mills
+
+NY	Jackson Heights
+
+NJ	High Bridge
+
+PA	Pittsburgh
+
+VA	Gloucester
+
+IL	Chicago
+
+WI	Milwaukee
+
+OH	Nelsonville
+
+VA	Langley AFB
+
+VA	Virginia Beach
+
+PA	Richlandtown
+
+MO	Bronaugh
+
+CA	Stanford
+
+NY	Horseheads
+
+MA	Marstons Mills
+
+GA	Savannah
+
+PA	Scenery Hill
+
+MO	Park Hills
+
+MI	Byron Center
+
+VA	Harrisonburg
+
+PA	Upper Darby
+
+TX	Amarillo
+
+MN	Hermantown
+
+PA	Sheffield
+
+WI	Milwaukee
+
+CA	San Diego
+
+NC	Charlotte
+
+NY	Cornwall
+
+CA	Topanga
+
+OH	Mayfield Village
+
+CT	Essex
+
+LA	Bermuda
+
+TX	Mesquite
+
+TX	Ballinger
+
+TX	Houston
+
+IN	Ashley
+
+TX	Whitewright
+
+CA	Menlo Park
+
+IA	Ankeny
+
+LA	Baton Rouge
+
+TX	Calallen
+
+TX	Marshall Springs
+
+CA	Westlake Village
+
+CA	Tracy
+
+FL	Saint Augustine
+
+PA	Dauphin
+
+IL	Naperville
+
+KS	Garnett
+
+OH	Reynoldsburg
+
+CA	Livermore
+
+NC	Williamston
+
+PA	Conestoga
+
+IL	Du Quoin
+
+SC	Greenville
+
+MS	Madison
+
+CA	Granada Hills
+
+SD	Sioux Falls
+
+NC	Fourth Ward
+
+TX	Daingerfield
+
+VA	King George
+
+FL	Tampa
+
+NJ	Kenilworth
+
+MI	Milford
+
+CA	Palmdale
+
+CA	Rancho Palos Verdes
+
+WA	Vancouver
+
+OH	Wadsworth
+
+MO	Kahoka
+
+OH	Dayton
+
+IN	Fishers
+
+NY	New York
+
+CA	Santa Fe Springs
+
+FL	Cutler Bay
+
+CO	Littleton
+
+PA	Morton
+
+KS	Kansas City
+
+NY	Grammercy Park
+
+NV	City of Las Vegas
+
+AL	Crossville
+
+AZ	Phoenix
+
+OH	Fairborn
+
+IL	Morton Grove
+
+NJ	Ledgewood
+
+OH	Grandview Heights
+
+FL	Miami
+
+IL	Peru
+
+AK	Anchorage
+
+IA	Chariton
+
+OR	Fairview
+
+GA	Stone Mountain
+
+IL	Hanover Park
+
+AL	Athens
+
+VA	Bassett
+
+CA	Rocklin
+
+HI	Kekaha
+
+IA	Grimes
+
+CA	Calipatria
+
+NY	Mount Tremper
+
+TN	Jonesborough
+
+TN	Greenbrier
+
+OR	Tualatin
+
+MD	Catonsville
+
+AZ	Bapchule
+
+NE	Gering
+
+MN	Baxter
+
+PA	Delmont
+
+CO	Denver
+
+OH	Columbus
+
+NJ	Somerville
+
+NM	Albuquerque
+
+NC	Durham
+
+IL	University Park
+
+IL	Deer Grove
+
+RI	North Providence
+
+PA	Harrisburg
+
+MO	Taylor
+
+MA	Boston
+
+CA	San Mateo
+
+IL	Skokie
+
+TX	China Grove
+
+MI	Grand Rapids
+
+NY	Akron
+
+NJ	Hainesport
+
+NY	Pearl River
+
+OH	Gahanna
+
+TN	Nashville
+
+AR	Rogers
+
+TX	Hallettsville
+
+MN	Becker
+
+NA	NA
+
+NA	NA
+
+TN	Taft
+
+FL	Hallandale Beach
+
+MI	Lakeview
+
+CA	Suisun
+
+CA	Los Angeles
+
+IA	Des Moines
+
+AZ	Litchfield
+
+IL	Schiller Park
+
+FL	The Hammocks
+
+CA	Antioch
+
+WI	Endeavor
+
+TX	Conroe
+
+NE	La Vista
+
+GA	Macon
+
+AR	Sherwood
+
+PA	Gaines
+
+MN	Baudette
+
+CA	Fresno
+
+AR	Danville
+
+LA	Erwinville
+
+GA	Cataula
+
+NH	North Hampton
+
+VA	Spotsylvania
+
+WI	Delavan
+
+MA	Wilmington
+
+IA	Edgewood
+
+OH	Powell
+
+NJ	Township of Randolph
+
+MN	Saint Paul
+
+TX	Dilley
+
+WI	Prairie du Chien
+
+CA	Sherman Oaks
+
+TX	Round Rock
+
+CA	Carpinteria
+
+HI	Honolulu
+
+MI	Vicksburg
+
+IN	Bremen
+
+IA	Clear Lake
+
+MN	Northfield
+
+MI	Port Huron
+
+WI	Irma
+
+NH	Goffstown
+
+CO	Steamboat Springs
+
+TN	Chattanooga
+
+NJ	Princeton
+
+TX	Stanton
+
+OH	Raymond
+
+MN	Saginaw
+
+NJ	Parsippany
+
+MN	Minneapolis
+
+VA	Fairfax
+
+SC	Ladson
+
+TX	Lake Jackson
+
+WI	Marinette
+
+MD	Hanover
+
+WI	Waterford
+
+IL	Dakota
+
+FL	Sebring
+
+NY	Albany
+
+NJ	Freehold
+
+HI	Kailua-Kona
+
+NJ	Eatontown
+
+OR	Gladstone
+
+PA	West Middlesex
+
+FL	Lutz
+
+NE	Lincoln
+
+FL	Micanopy
+
+AL	Columbia
+
+NA	NA
+
+PA	Blue Bell
+
+OH	Somerset
+
+NC	Rose Hill
+
+NH	Newfields
+
+NY	West Islip
+
+HI	Waikƒ´kƒ´
+
+LA	Pineville
+
+IA	Sully
+
+NM	Raton
+
+TN	Chattanooga
+
+TX	Irving
+
+CA	San Fernando Valley
+
+WA	Seattle
+
+ME	York Harbor
+
+VA	Williamsburg
+
+MO	Columbia
+
+PA	Catasauqua
+
+FL	Summerfield
+
+NJ	Englewood
+
+MI	Fairview
+
+DE	Newark
+
+IL	Channahon
+
+MO	Newtown
+
+DE	Lewes and Rehoboth Hundred
+
+KY	Hindman
+
+FL	Miami
+
+GA	Savannah
+
+TX	Plano
+
+MA	Cataumet
+
+IN	Shoals
+
+NC	Pisgah Forest
+
+TX	Austin
+
+CA	Los Angeles
+
+DC	Washington
+
+VA	Dumfries
+
+OH	Mason
+
+KY	Prospect
+
+CA	Topanga
+
+VA	Alton
+
+GA	Dublin
+
+MA	Westwood
+
+NY	New York
+
+CA	Sonoma
+
+TX	Kemp
+
+MI	Ann Arbor
+
+IA	Lawler
+
+NC	Burnsville
+
+AL	Abbeville
+
+NC	Nags Head
+
+OK	Tinker AFB
+
+NH	Hampton
+
+PA	Shippensburg
+
+NJ	Township of Logan
+
+FL	Mims
+
+NC	Raleigh
+
+CO	Pueblo West
+
+AZ	Tucson
+
+OH	Akron
+
+LA	Jeanerette
+
+WI	Manitowoc
+
+OR	Seaside
+
+CA	Brentwood
+
+NC	Charlotte
+
+CA	San Anselmo
+
+FL	Riviera Beach
+
+OH	North Ridgeville
+
+NY	New York
+
+PA	Elysburg
+
+UT	Sandy
+
+TX	Tyler
+
+NY	Centereach
+
+OH	Millersburg
+
+NY	Whitney Point
+
+MD	Annapolis Junction
+
+IL	Calumet Park
+
+OK	Oklahoma City
+
+GA	New Holland
+
+TN	Columbia
+
+PA	Shrewsbury
+
+VA	Falls Church
+
+PA	Clearfield
+
+AZ	Phoenix
+
+CA	Rio Oso
+
+CA	Los Angeles
+
+MI	Portage
+
+SC	Greenville
+
+MD	Gaithersburg
+
+OR	Tangent
+
+LA	Metairie
+
+IL	McCook
+
+CA	San Diego
+
+KY	Erlanger
+
+NC	Marion
+
+TX	McKinney
+
+TN	Cordova
+
+NC	Raleigh
+
+PA	Horsham
+
+MN	Walker
+
+MA	Springfield
+
+NJ	Moonachie
+
+GA	Alapaha
+
+CO	Edwards
+
+MD	Odenton
+
+AZ	San Luis
+
+IL	Libertyville
+
+CA	Moreno Valley
+
+MA	Hingham
+
+MO	Ellisville
+
+TX	Mesquite
+
+NJ	Ocean Grove
+
+MN	Minneapolis
+
+PA	Royersford
+
+OH	Lewis Center
+
+FL	Indian Lake Estates
+
+VA	Draper
+
+TX	Dallas
+
+TN	Troy
+
+IL	Indian Head Park
+
+TX	San Antonio
+
+MA	Salisbury
+
+TX	Pearland
+
+CO	Greenwood Village
+
+NY	Cheektowaga
+
+CO	Englewood
+
+MA	Northborough
+
+NY	Paul Smiths
+
+CT	Rocky Hill
+
+NJ	Springfield
+
+MI	Kalamazoo
+
+TN	Goodlettsville
+
+OH	Dayton
+
+NY	College Point
+
+MI	Hickory Corners
+
+PA	Oxford
+
+PA	Philipsburg
+
+NM	San Pedro
+
+NY	Frankfort
+
+TX	San Antonio
+
+WI	Richland Center
+
+NY	Penfield
+
+CT	Groton
+
+MA	Southbridge
+
+CA	Tahoe City
+
+KS	Niotaze
+
+NJ	Short Hills
+
+IA	Pomeroy
+
+NY	Yaphank
+
+TX	San Marcos
+
+TX	San Antonio
+
+TX	Lampasas
+
+TX	San Marcos
+
+MN	Roseville
+
+CA	Newport Beach
+
+CA	Gardena
+
+TX	Alvarado
+
+LA	Bastrop
+
+OR	Four Corners
+
+FL	Cape Haze
+
+LA	Kentwood
+
+VA	Charlottesville
+
+FL	Orlando
+
+CA	Sacramento
+
+MI	Lakeside
+
+NY	Bellvale
+
+TX	Pantego
+
+MN	Montrose
+
+MI	Livingston
+
+NJ	Newton
+
+PA	Lancaster
+
+OH	Hudson
+
+MI	Fremont
+
+NY	Mineola
+
+SC	Blackville
+
+SC	Isle of Palms
+
+FL	Tampa
+
+IL	Chicago
+
+OK	Holdenville
+
+PA	Harrisburg
+
+VA	Ashland
+
+UT	Santaquin
+
+MI	Saline
+
+OH	Wooster
+
+MI	Grand Rapids
+
+WI	Ripon
+
+CA	Westmont
+
+IL	Aviston
+
+OK	Edmond
+
+PA	Hershey
+
+DE	Harbeson
+
+CA	Los Angeles
+
+DC	Tenleytown
+
+CA	Livermore
+
+MO	Southwest City
+
+CA	Mira Loma
+
+PA	Philadelphia
+
+FL	Fort White
+
+OH	Columbus
+
+NH	Fremont
+
+NJ	Swedesboro
+
+FL	Miami Beach
+
+WA	Tumwater
+
+NJ	Dunellen
+
+KY	Horse Cave
+
+FL	Miami
+
+MI	Saint Clair Shores
+
+NY	Bethpage
+
+RI	Charlestown
+
+OK	Heavener
+
+VA	Winchester
+
+WA	Redmond
+
+NC	Maggie Valley
+
+TX	Summerwood
+
+IN	Indianapolis
+
+MO	Marshall
+
+NY	Schenectady
+
+FL	Palm Beach
+
+FL	Miami Gardens
+
+AL	Huntsville
+
+NY	Rochester
+
+TX	Longview
+
+NJ	Carteret
+
+IL	Xenia
+
+NH	Manchester
+
+MA	Dalton
+
+OR	Portland
+
+LA	Franklin
+
+PA	Nazareth
+
+CA	San Joaquin
+
+NJ	Township of Burlington
+
+IA	Waukee
+
+FL	Orlando
+
+IL	Saint Charles
+
+CA	Lodi
+
+TX	Plano
+
+NY	New York
+
+VA	Franconia
+
+WY	Newcastle
+
+AK	Skagway
+
+NY	Briarcliff Manor
+
+DC	Washington
+
+PA	Sayre
+
+WI	Menomonee Falls
+
+IL	Streator
+
+PA	Lewisburg
+
+NY	Town of Chili
+
+UT	Murray
+
+PA	Telford
+
+WI	Sparta
+
+MI	North Street
+
+CA	San Francisco Bay Area
+
+PA	Mount Lebanon
+
+WI	Marinette
+
+AR	Jonesboro
+
+CA	Los Angeles
+
+TX	Austin
+
+IL	Chicago
+
+IA	Des Moines
+
+ID	Spirit Lake
+
+MI	Lansing
+
+CA	Tustin
+
+CA	Olivehurst
+
+WV	Athens
+
+MD	Glen Burnie
+
+PA	Graysville
+
+ND	Minot
+
+MD	Baltimore
+
+TN	Drummonds
+
+MA	Lexington
+
+VA	Fort Eustis
+
+NY	Westmoreland
+
+NY	Wellsville
+
+CA	Granada Hills
+
+AZ	Fountain Hills
+
+NE	Fremont
+
+LA	Scott
+
+FL	Fort Walton Beach
+
+NY	Staten Island
+
+FL	Royal Palm Beach
+
+OH	Galion
+
+AZ	Buckeye
+
+NJ	Stockton
+
+NC	Charlotte
+
+NC	Eure
+
+OH	Midvale
+
+MA	Lexington
+
+IL	Chicago
+
+TX	Fort Worth
+
+IL	Elk Grove Village
+
+IL	Alsip
+
+MA	Boston
+
+PA	Butler
+
+PA	White Haven
+
+MI	Lansing
+
+WA	Sultan
+
+NJ	Rosemont
+
+TX	Batesville
+
+PA	Rector
+
+PA	Easton
+
+NC	Raleigh-Durham
+
+OH	Canton
+
+MN	Saint Paul
+
+CA	Hollister
+
+AR	Harrison
+
+OK	Pauls Valley
+
+CT	Killingly
+
+MD	Aberdeen
+
+FL	Medley
+
+VA	Saint Stephens
+
+IA	Burlington
+
+FL	Deerfield Beach
+
+MN	Blooming Prairie
+
+PA	Houston
+
+PA	Township of Cheltenham
+
+IN	West Lafayette
+
+TX	Kilgore
+
+KS	Mulvane
+
+NC	Forest
+
+SC	Charleston
+
+MN	Minneapolis
+
+OH	Barnesville
+
+PA	Damascus
+
+TX	San Antonio
+
+KY	Lexington
+
+CA	Los Angeles
+
+CA	Stockton
+
+NY	Diamond Point
+
+MO	Brentwood
+
+NY	Long Island
+
+ME	Biddeford
+
+MO	Farmington
+
+OH	Heath
+
+ME	Limerick
+
+TX	Houston
+
+OH	Bryan
+
+AR	Junction City
+
+FL	Riviera Beach
+
+NC	Knightdale
+
+AZ	Tempe
+
+KS	Wichita
+
+PA	Clarks Summit
+
+NJ	Linwood
+
+PA	Trevorton
+
+GU	Barrigada
+
+VT	Shoreham
+
+TX	Goodfellow AFB
+
+MI	Kalamazoo
+
+PA	Stroudsburg
+
+NY	Brentwood
+
+NJ	New Brunswick
+
+CT	New Haven
+
+WY	Rafter J Ranch
+
+NY	Camillus
+
+UT	Moab
+
+CA	Point Loma
+
+MN	Minneapolis-Saint Paul
+
+TN	Soddy-Daisy
+
+UT	Logan
+
+NC	Fort Bragg
+
+NC	Weaverville
+
+FL	Miami
+
+CA	Saratoga
+
+SC	Anderson
+
+TN	Smyrna
+
+IL	Mossville
+
+IA	North Liberty
+
+IA	Humboldt
+
+CO	Windsor
+
+CO	Westminster
+
+GA	Ellenwood
+
+IN	Indianapolis
+
+OR	Deer Island
+
+CO	Mountain Village
+
+MI	Saint Clair Shores
+
+WI	Portage
+
+AL	Tuskegee
+
+MN	Saint Josephs
+
+DC	Washington
+
+NC	Durham
+
+PA	Philadelphia
+
+TX	San Antonio
+
+FL	Pembroke
+
+NJ	Warrenville
+
+TN	Knoxville
+
+AL	Jasper
+
+VA	Gloucester Point
+
+MI	Farmington
+
+MN	Falcon Heights
+
+MA	Springfield
+
+IN	Indianapolis
+
+NY	Geneva
+
+PA	Middletown
+
+PA	Bethlehem
+
+WV	Poca
+
+WI	Waukesha
+
+LA	Manchac
+
+CA	Van Nuys
+
+NH	Rye
+
+CA	Grass Valley
+
+SD	Huron
+
+CT	Mystic
+
+IA	Malvern
+
+WI	Black River Falls
+
+AL	Luverne
+
+DC	Washington
+
+NJ	Morganville
+
+PA	East Stroudsburg
+
+FL	Coral Springs
+
+OH	Dublin
+
+FL	Chipley
+
+CA	Sacramento
+
+PR	Arecibo
+
+MO	Doniphan
+
+SC	Marlborough
+
+IL	Loves Park
+
+RI	Lincoln
+
+IN	Koontz Lake
+
+MD	Crofton
+
+PA	Elizabeth
+
+NY	Massapequa Park
+
+CO	Peterson AFB
+
+OH	Columbus
+
+NV	Mesquite
+
+PA	Hidden Valley
+
+NC	Cramerton
+
+CO	Fort Collins
+
+NH	Bedford
+
+MN	Brainerd
+
+KS	Lenexa
+
+TX	Allen
+
+PA	Clearfield
+
+TX	Pearland
+
+MI	South Lyon
+
+NY	Williamsville
+
+MA	East Bridgewater
+
+MI	Saline
+
+TN	Talbott
+
+MI	Plymouth
+
+MI	Alma
+
+MO	Sedalia
+
+NC	Hays
+
+FL	Altamonte Springs
+
+CA	Los Angeles
+
+OH	South Salem
+
+GA	Jasper
+
+MA	Barnstable
+
+ME	Hiram
+
+IN	Munster
+
+VA	Roanoke
+
+ME	Blue Hill
+
+PA	Middleburg
+
+MI	Lansing
+
+MD	Brooklyn
+
+WI	Pewaukee
+
+CA	San Francisco
+
+VA	Ashburn
+
+NY	Webster
+
+WI	Burlington
+
+ME	Skowhegan
+
+CA	San Jose
+
+IN	Milan
+
+TX	Grapevine
+
+OK	Tulsa
+
+MO	Saint Charles
+
+FL	Lake City
+
+CA	Santa Ana
+
+GA	Atlanta
+
+MN	Eden Prairie
+
+IN	Honduras
+
+MN	Oak Grove
+
+FL	Tallahassee
+
+GA	Atlanta
+
+IN	Terre Haute
+
+MA	Danvers
+
+TX	Dallas
+
+SC	Iva
+
+OH	Lima
+
+CA	Van Nuys
+
+NY	Guilderland Center
+
+MN	Luverne
+
+MI	Ypsilanti
+
+KY	Wickliffe
+
+MN	Greely
+
+SC	Indian Land
+
+NY	Manlius
+
+NE	Taylor
+
+TX	San Antonio
+
+IL	Marseilles
+
+NY	New York
+
+TN	Hendersonville
+
+NY	Nyack
+
+GA	Alpharetta
+
+MS	Ellisville
+
+IN	Mishawaka
+
+CA	East Palo Alto
+
+KS	Wichita
+
+MN	Minneapolis
+
+CA	San Ramon
+
+NJ	Newton
+
+CO	Colorado Springs
+
+IL	Teutopolis
+
+CA	San Diego
+
+IN	Greenwood
+
+ME	Ellsworth
+
+OK	Poteau
+
+IA	Williamsburg
+
+MN	Medina
+
+VA	Richmond
+
+WA	Bothell
+
+VA	Pennington Gap
+
+MD	Aberdeen
+
+CA	Calistoga
+
+CA	Sacramento
+
+TN	North Knoxville
+
+FL	Port Saint Lucie
+
+CA	Walnut
+
+TN	Tullahoma
+
+GA	Sandy Springs
+
+WI	Middleton
+
+GA	Alpharetta
+
+CA	San Rafael
+
+WI	West Bend
+
+AZ	Maryvale
+
+FL	Palm Springs
+
+PA	Hummels Wharf
+
+PA	Hunker
+
+VA	Scottsville
+
+GA	Locust Grove
+
+NY	Armonk
+
+CA	Montrose
+
+WI	Marshfield
+
+TX	Longview
+
+CA	Ivanhoe
+
+IA	Clive
+
+UT	Salt Lake City
+
+MO	St. Louis
+
+NY	Times Square
+
+NJ	Maywood
+
+MI	Burton
+
+FL	Orlando
+
+MS	University
+
+CA	Willits
+
+CA	Fremont
+
+OH	Toledo
+
+AZ	Mesa
+
+CA	Los Alamitos
+
+PA	Canonsburg
+
+MA	Acton
+
+FL	Tampa
+
+FL	Jacksonville
+
+CT	Old Greenwich
+
+MI	Lansing
+
+TX	Tyler
+
+NJ	Bayonne
+
+IA	Lenox
+
+MO	Mehlville
+
+GA	Kingsland
+
+TX	Fort Worth
+
+PA	Newtown Square
+
+PA	Smithfield
+
+MI	Watervliet
+
+CA	Westlake Village
+
+CO	Gunnison
+
+NA	NA
+
+NY	Frankfort
+
+GA	Atlanta
+
+TX	Bowie
+
+TX	Floresville
+
+IL	Barrington
+
+OH	West Jefferson
+
+CT	New London
+
+TX	San Antonio
+
+MS	Petal
+
+VA	Mitchells
+
+CA	Wildomar
+
+WA	North Bend
+
+TX	Corsicana
+
+AL	Point Clear
+
+PA	York
+
+IL	Libertyville
+
+GA	Austell
+
+WA	Bellingham
+
+PA	Fayette City
+
+CA	Redwood City
+
+PA	Newville
+
+WA	Manson
+
+NV	Fallon
+
+GA	Atlanta
+
+TX	Garland
+
+MA	Wilmington
+
+NY	Bensonhurst
+
+PA	Middleburg
+
+IA	Des Moines
+
+AR	Little Rock
+
+NC	Charlotte
+
+ME	Westbrook
+
+FL	Coral Gables
+
+TX	McAllen
+
+NE	Deshler
+
+OH	Lebanon
+
+MS	Booneville
+
+OH	Cincinnati
+
+PA	Yeadon
+
+PA	Lower Gwynedd
+
+MI	Macomb
+
+PA	Scranton
+
+OK	Tulsa
+
+GA	Douglasville
+
+PA	Allentown
+
+ME	Sanford
+
+MA	N Chelmsford
+
+CT	Simsbury
+
+WI	Wausau
+
+DE	Dover
+
+WA	Everson
+
+NY	Gates
+
+SC	Blackstock
+
+NY	Montgomery
+
+RI	Middletown
+
+TX	Dickinson
+
+TN	McDonald
+
+WV	Ripley
+
+MA	Dedham
+
+NJ	Glen Rock
+
+HI	Honolulu
+
+NJ	Lafayette
+
+SC	Newberry
+
+IL	Hines
+
+FL	Vero Beach
+
+UT	Lehi
+
+MS	Leakesville
+
+IL	Hebron
+
+NY	Manhattan
+
+CO	Gunnison
+
+AK	Kaktovik
+
+IN	Garrett
+
+IA	Rock Valley
+
+SC	North Charleston
+
+FL	Jacksonville
+
+GA	Cartersville
+
+NV	Creech AFB
+
+GA	Atlanta
+
+NJ	Edison
+
+IA	Reinbeck
+
+FL	Weston
+
+MN	Monticello
+
+SC	Greenville
+
+TX	Fort Worth
+
+NA	NA
+
+FL	Micanopy
+
+VA	Waynesboro
+
+CA	Penn Valley
+
+FL	Eustis
+
+TX	Houston
+
+PA	Gibsonia
+
+NY	Westchester
+
+IL	Dixon
+
+NY	New York
+
+MO	Overland
+
+CA	Los Angeles
+
+DC	Washington
+
+FL	Palm Beach
+
+WV	Clarksburg
+
+PA	Lenhartsville
+
+DE	Newport
+
+CA	Northridge
+
+WI	Glenwood City
+
+CO	Centennial
+
+OH	Byesville
+
+MN	Crystal
+
+DE	Milford
+
+TN	Hixson
+
+MN	Spicer
+
+MI	Shelby Twp
+
+MA	Cambridge
+
+IL	Marion
+
+NC	Sherrills Ford
+
+NY	Palmyra
+
+OH	Stow
+
+CT	Stamford
+
+CA	Pasadena
+
+KY	Union
+
+IN	Liberty
+
+CO	Denver
+
+ID	Idaho Falls
+
+AL	Point Clear
+
+CA	Yolo
+
+CO	Platteville
+
+MI	Ann Arbor
+
+NJ	North Bergen
+
+FL	Tampa
+
+NY	Thornwood
+
+CA	San Francisco
+
+CA	Corona
+
+PA	McKeesport
+
+TX	San Antonio
+
+NC	Charlotte
+
+TX	Bastrop
+
+FL	Jacksonville
+
+OH	Warsaw
+
+NY	Wyandanch
+
+WV	Sutton
+
+HI	Lahaina
+
+FL	Deerfield Beach
+
+FL	Stuart
+
+TN	Brentwood
+
+IL	Marengo
+
+CA	Los Angeles
+
+MN	Belle Plaine
+
+CA	San Francisco
+
+NY	Rockaway Park
+
+TX	Cedar Park
+
+MA	West Townsend
+
+MS	D'Iberville
+
+CA	Manhattan Beach
+
+IL	Hillside
+
+OH	Groveport
+
+CA	Sacramento
+
+FL	Orlando
+
+MI	Shelby Charter Township
+
+CA	Eden
+
+OR	Cannon Beach
+
+MI	Carson City
+
+CA	Mountain View
+
+UT	Salt Lake City
+
+NY	Ozone Park
+
+IL	Roselle
+
+MI	Ionia
+
+NY	Yonkers
+
+CA	Huntington Beach
+
+WI	Tigerton
+
+CA	San Marcos
+
+FL	Sky Lake
+
+GA	Bonaire
+
+OK	Oklahoma City
+
+MD	Edgewood
+
+FL	Pompano Beach
+
+NY	Brooklyn
+
+CA	Carmel-by-the-Sea
+
+CA	San Bruno
+
+MO	Chaffee
+
+CO	Denver
+
+CA	Alameda
+
+SC	Rock Hill
+
+ME	Randolph
+
+TX	Irving
+
+MA	Princeton
+
+TN	Ethridge
+
+FL	Patrick Afb
+
+OH	N Canton
+
+CA	Santa Clara
+
+MA	Hopkinton
+
+PA	West Point
+
+MA	West Boylston
+
+CA	San Jose
+
+AZ	Phoenix
+
+NH	Keene
+
+OH	Plain City
+
+TN	Hixson
+
+MI	Ann Arbor
+
+GA	Watkinsville
+
+NJ	South Plainfield
+
+NY	Cortland
+
+WI	Baldwin
+
+MN	Austin
+
+WI	Ashland
+
+MA	Westfield
+
+VA	Lovettsville
+
+MD	North Beach
+
+TX	Austin
+
+KY	Lexington
+
+CA	Gustine
+
+MA	Boston
+
+NY	Brighton Beach
+
+NC	Hendersonville
+
+ME	Waterville
+
+GA	Savannah
+
+IL	Sangamon
+
+VA	Riner
+
+FL	Punta Gorda
+
+FL	Plant City
+
+VA	Halifax
+
+VT	Bethel
+
+CA	Twentynine Palms
+
+PA	North Wales
+
+NC	West End
+
+NV	Mesquite
+
+MI	Quinnesec
+
+IN	Goshen
+
+NY	New York
+
+NY	Trumansburg
+
+NV	Las Vegas
+
+MI	Charter Township of Orion
+
+CA	Gardena
+
+OR	Portland
+
+MI	Lansing
+
+MI	Novi
+
+NY	Levittown
+
+DC	Washington
+
+VA	Gretna
+
+HI	Honolulu
+
+NY	Hudson Falls
+
+TX	Mount Pleasant
+
+VA	Sweet Briar
+
+IN	Fairland
+
+WV	Inwood
+
+MN	Owatonna
+
+TN	Nashville
+
+CA	San Bernardino
+
+FL	Tampa
+
+GA	Atlanta
+
+GA	Savannah
+
+MD	Greenbelt
+
+NC	Jacksonville
+
+MI	Pontiac
+
+IA	Jewell
+
+CA	Lennox
+
+WA	Kirkland
+
+NV	Creech AFB
+
+IL	Montgomery
+
+PA	Friedens
+
+IA	Braddyville
+
+AR	El Dorado
+
+VA	Williamsburg
+
+MT	Billings
+
+IL	Springfield
+
+VA	Reston
+
+NE	Macy
+
+GA	Watkinsville
+
+TX	Austin
+
+TX	Lewisville
+
+KY	Greensburg
+
+PA	Dallas
+
+NC	Saint Pauls
+
+FL	Lake Worth
+
+IL	Hoffman Estates
+
+DC	Washington
+
+MA	Sharon
+
+IL	Christopher
+
+PA	Lenhartsville
+
+NC	Greensboro
+
+OH	Columbus
+
+NY	Massapequa Park
+
+IL	Cutler
+
+KS	Russell
+
+CA	Redlands
+
+PA	Philadelphia
+
+GA	Nahunta
+
+WI	Oconto
+
+NY	Poughquag
+
+OH	Bradford
+
+OH	Dayton
+
+OR	Gresham
+
+MA	W Yarmouth
+
+CA	Anaheim
+
+IA	Mason City
+
+LA	Central
+
+ME	Old Orchard Beach
+
+MD	Canton
+
+CA	Gardena
+
+IL	Lake Bluff
+
+MS	Clarksdale
+
+MA	Cambridge
+
+HI	Kailua-Kona
+
+SC	Hilton Head Island
+
+IN	Georgetown
+
+WA	Ferndale
+
+SC	Ridgeville
+
+CA	Torrance
+
+AK	Kodiak
+
+RI	Hope Valley
+
+AZ	Phoenix
+
+OH	North Canton
+
+VA	Richmond
+
+TX	Rockwall
+
+CA	San Diego
+
+MI	Beverly Hills
+
+IA	Des Moines
+
+NJ	Newark
+
+CA	Santa Rosa
+
+AL	Columbia
+
+WI	Shawano
+
+OH	Toledo
+
+NY	Ithaca
+
+PA	Spring Church
+
+CA	Winchester
+
+AZ	Phoenix
+
+UT	Hanksville
+
+MT	Bozeman
+
+WI	Kimberly
+
+GA	Calhoun
+
+WI	Milwaukee
+
+NE	Madison
+
+MO	Jefferson City
+
+FL	Crystal River
+
+OH	Middlefield
+
+OH	Columbus
+
+FL	Winter Park
+
+IA	Ankeny
+
+VA	McLean
+
+OK	Glenpool
+
+MD	Annapolis Junction
+
+NA	NA
+
+NY	Pomona
+
+TX	Shavano Park
+
+GA	Savannah
+
+TX	Las Lulas
+
+DC	Washington
+
+TX	White Deer
+
+CA	Anza
+
+OH	Westville
+
+AR	Maumelle Station
+
+NM	Taos
+
+FL	Gainesville
+
+IN	Evanston
+
+FL	Lakeland
+
+AZ	Chandler
+
+CA	Los Angeles
+
+MN	Pemberton
+
+IL	Fairbury
+
+MS	Carriere
+
+MD	Clinton
+
+NJ	Linden
+
+PA	Valencia
+
+IL	Springfield
+
+IL	Lincolnshire
+
+PA	Greensburg
+
+NJ	Mickleton
+
+NH	Walpole
+
+PA	Primos
+
+TX	Highland Village
+
+IL	Northbrook
+
+IA	Chariton
+
+NY	Mohawk
+
+NJ	Warrenville
+
+AL	Alexander City
+
+CO	Broomfield
+
+WI	Glendale
+
+NC	Asheville
+
+IL	Utica
+
+IL	Swansea
+
+KY	Crestview Hills
+
+IN	Francisco
+
+VA	Disputanta
+
+FL	Naples
+
+NY	Island Park
+
+GA	Flowery Branch
+
+GA	Clermont
+
+OK	Coweta
+
+NY	Binghamton
+
+VA	Mathews
+
+IL	Glenview
+
+NC	Connellys Springs
+
+KY	Union
+
+MA	Boston
+
+OK	El Reno
+
+MI	Flint
+
+NC	Middlesex
+
+CA	Signal Hill
+
+WI	Mayville
+
+TX	Arlington
+
+AL	Cook Springs
+
+IN	Lapel
+
+FL	Tampa
+
+AL	Birmingham
+
+NY	Le Roy
+
+OK	Perkins
+
+CA	San Diego
+
+MS	Petal
+
+CO	Lone Tree
+
+MN	Hanover
+
+MD	Hughesville
+
+FL	Fleming Island
+
+CA	San Fernando Valley
+
+NA	NA
+
+MA	Boston
+
+PA	Marianna
+
+CA	Alameda
+
+OR	Portland
+
+PA	Royersford
+
+TX	Frisco
+
+CA	Foster City
+
+MI	Waterford
+
+AZ	Phoenix
+
+UT	West Bountiful
+
+OH	Akron
+
+OH	Pandora
+
+TX	Carrollton
+
+CA	San Francisco
+
+KY	Louisville
+
+CA	Suisun City
+
+ID	Jerome
+
+PA	Irwin
+
+SC	Eastover
+
+MO	Kansas City
+
+PA	Hyde
+
+NY	South Cairo
+
+TX	Navasota
+
+AZ	Litchfield Park
+
+NJ	Orange
+
+OH	Dover
+
+PA	Weatherly
+
+MO	Cape Girardeau
+
+CA	Vallejo
+
+KS	Copeland
+
+PA	New Kensington
+
+TX	Plano
+
+OK	Moore
+
+NY	Cazenovia
+
+PA	Intercourse
+
+MN	Plymouth
+
+NY	Cobleskill
+
+NV	Minden
+
+WI	Onalaska
+
+PA	Franklin
+
+MD	Woodbine
+
+RI	Providence
+
+AR	Mountain View
+
+IL	Melrose Park
+
+NJ	Margate City
+
+OH	Cincinnati
+
+PA	Schuylkill Haven
+
+TX	Sunset Valley
+
+CA	Los Angeles
+
+WA	Seattle
+
+OH	Woodmere
+
+GA	Decatur
+
+IL	Aviston
+
+AR	Fordyce
+
+NC	Mooresville
+
+PA	Yatesville
+
+FL	Sorrento
+
+TX	Austin
+
+MI	Spring Arbor
+
+VA	Fishersville
+
+CA	San Luis Obispo
+
+AL	Cullman
+
+TX	Houston
+
+NY	West Islip
+
+CA	Pleasanton
+
+TX	Lake Granbury
+
+IN	Sellersburg
+
+NY	Middle Village
+
+KS	Caney
+
+MI	Kalamazoo
+
+NY	Queens
+
+PA	Colmar
+
+CO	Fort Collins
+
+TX	Missouri City
+
+WA	Monroe
+
+CO	Broomfield
+
+CO	Carbondale
+
+OH	Wilmington
+
+SC	Easley
+
+MA	Danvers
+
+OH	Township of Liberty
+
+IL	Mahomet
+
+MO	Exeter
+
+NJ	Jersey City
+
+CA	Los Angeles
+
+TX	Fort Worth
+
+AR	Clinton
+
+MI	Monroe
+
+WI	Valders
+
+TX	El Paso
+
+NH	Keene
+
+WI	Holmen
+
+MI	Blanchard
+
+CA	Morongo Valley
+
+OH	Vincent
+
+OH	Carroll
+
+AZ	Sun City
+
+NJ	Newark
+
+NY	New York
+
+MI	Detroit
+
+FL	Jacksonville
+
+OK	Lawton
+
+FL	Bradenton
+
+CA	East Palo Alto
+
+MD	Frederick
+
+OH	Beachwood
+
+NM	Albuquerque
+
+CA	Los Angeles
+
+PA	Glenshaw
+
+PA	Harrisburg
+
+NJ	Township of Moorestown
+
+CA	Union City
+
+CA	Walnut
+
+CA	Hopland
+
+CA	Corona del Mar
+
+RI	Wakefield
+
+OR	McMinnville
+
+NJ	Ship Bottom
+
+ME	Windham
+
+MI	New Baltimore
+
+NC	Washington
+
+FL	Cocoa
+
+MN	Minneapolis
+
+OK	Sapulpa
+
+MD	Joppa
+
+TX	Alvin
+
+MI	Saint Louis
+
+RI	Cumberland
+
+NY	New York
+
+OK	Stilwell
+
+MD	White Hall
+
+NM	Santa Teresa
+
+CA	Valencia
+
+AK	Allakaket
+
+TX	Jarrell
+
+PA	Pittsburgh
+
+VA	Culpeper
+
+OK	Tulsa
+
+PA	Breinigsville
+
+MA	Worcester
+
+MI	Blissfield
+
+MN	Berning Mill
+
+CO	Aurora
+
+IN	Winona Lake
+
+WI	Plum City
+
+MS	Jackson
+
+TX	Missouri City
+
+NY	Armonk
+
+NY	Keene Valley
+
+PA	Dallastown
+
+PA	Ross Township
+
+MO	Blue Springs
+
+WI	Adams
+
+MO	St. Louis
+
+PA	Minersville
+
+NC	Everetts
+
+MA	Lynnfield
+
+CA	Industry
+
+WI	Owen
+
+TN	Chattanooga
+
+MI	Middleville
+
+CA	Petaluma
+
+WI	Madison
+
+NC	Severn
+
+TX	Cypress
+
+FL	South Miami
+
+CT	Berlin
+
+AR	Mount Ida
+
+OK	Noble
+
+NH	New London
+
+CT	Essex
+
+FL	Miami Beach Botanical Garden
+
+IL	Saint Charles
+
+NY	New York
+
+FL	Port Charlotte
+
+TX	Kilgore
+
+KS	Claflin
+
+CA	Los Angeles
+
+FL	Oxford
+
+CA	Carlsbad
+
+NY	Corfu
+
+OH	Salem
+
+AZ	Bullhead City
+
+MI	Petoskey
+
+CA	San Francisco
+
+NV	Las Vegas
+
+MI	Oxford
+
+MN	Glenwood
+
+FL	Hialeah
+
+GA	Atlanta
+
+IN	Albion
+
+MI	Plymouth
+
+WI	Janesville
+
+MI	Bloomfield Hills
+
+CA	Fresno
+
+TX	Bedford
+
+WI	Chippewa Falls
+
+NJ	Spring Lake
+
+TX	Irving
+
+PA	Scenery Hill
+
+IL	Dixon
+
+TX	Cleburne
+
+OH	Wilmington
+
+AZ	Phoenix
+
+CA	Fresno
+
+MA	South Easton
+
+CA	San Diego
+
+WI	Delafield
+
+VA	Oakton
+
+NC	Henderson
+
+MI	Lansing
+
+TX	Hempstead
+
+MD	Oxon Hill
+
+TX	Midland
+
+NY	Long Island City
+
+NY	Chestertown
+
+AR	Newport
+
+TN	Sweetwater
+
+MS	Shelby
+
+IN	Lake Station
+
+WI	Saint Germain
+
+MO	Waverly
+
+TX	Richardson
+
+NY	New York
+
+GA	Port Wentworth
+
+MI	Wyandotte
+
+MI	Highland Park
+
+OK	Fort Sill
+
+FL	Cape Coral
+
+WI	Holmen
+
+MI	Chesterfield
+
+NC	Pleasant Gardens
+
+MS	Verona
+
+NA	NA
+
+NM	Santa Fe
+
+CT	Southington
+
+NY	Rome
+
+NY	New York
+
+ME	Presque Isle
+
+MS	Flowood
+
+NC	Elkin
+
+CO	Silt
+
+AL	Childersburg
+
+TX	Hamlin
+
+PA	White Haven
+
+CO	Denver
+
+WA	Kirkland
+
+NV	Las Vegas
+
+NY	Tupper Lake
+
+FL	Brandon
+
+KY	Louisville
+
+LA	Jonesboro
+
+MI	Mears
+
+CO	Denver
+
+WV	Augusta
+
+CA	San Diego
+
+OK	Devol
+
+GA	Savannah
+
+MO	Town and Country
+
+SC	Orangeburg
+
+AR	Forrest City
+
+NJ	North Caldwell
+
+VA	Gainesville
+
+OR	Lebanon
+
+NJ	Mountainside
+
+NA	NA
+
+CA	San Fernando Valley
+
+IA	Storm Lake
+
+PA	Horsham
+
+TX	Midland
+
+PA	Rector
+
+IL	Waukegan
+
+MD	Clarksburg
+
+SC	Summerville
+
+FL	Fort Myers
+
+TX	Burleson
+
+MO	Earth City
+
+MN	Saint Paul
+
+FL	Orlando
+
+MA	Boston
+
+NJ	Deerfield
+
+WI	Emerald
+
+OH	Dayton
+
+TX	Valley View
+
+HI	O‚Äòahu
+
+NY	Mount Kisco
+
+WI	Lakewood
+
+GA	Byron
+
+OK	Crescent
+
+FL	Miami
+
+OH	Bay Village
+
+OR	White City
+
+IL	Dixon
+
+WI	Cross Plains
+
+NY	Athens
+
+NJ	Hoboken
+
+WA	Yakima
+
+OH	Stone Creek
+
+TX	Beaumont
+
+MI	Bingham Farms
+
+NM	Albuquerque
+
+CA	Crockett
+
+GA	Atlanta
+
+WI	Menomonee Falls
+
+OH	Ashland
+
+IN	Lowell
+
+OR	Beaverton
+
+MA	Concord
+
+NY	Fulton
+
+CT	Niantic
+
+NY	Berkshire
+
+WY	Kaycee
+
+MN	Crosby
+
+IL	Chicago
+
+FL	Key Biscayne
+
+TX	Fort Bliss
+
+ME	Bridgton
+
+VA	Culpeper
+
+WI	Wrightstown
+
+IN	Rochester
+
+OH	Waverly
+
+OH	Paulding
+
+OR	Turner
+
+PA	Chadds Ford
+
+UT	Mount Pleasant
+
+WI	Somerset
+
+NH	Concord
+
+MI	Grand Haven
+
+MO	St. Louis
+
+GA	Griffin
+
+NA	NA
+
+MN	Gaylord
+
+NY	New York
+
+NC	Greenville
+
+WV	New Haven
+
+TX	Humble
+
+CA	Santa Fe Springs
+
+FL	Clearwater
+
+WI	Milwaukee
+
+NJ	Ho-Ho-Kus
+
+AR	Little Rock AFB
+
+NE	Auburn
+
+NJ	Short Hills
+
+NY	Utica
+
+AZ	Glendale
+
+TX	Austin
+
+OR	Fairview
+
+FL	Ellenton
+
+PA	Willow Street
+
+TX	The Colony
+
+MI	Warren
+
+CA	San Dimas
+
+MA	Wellesley Hills
+
+NC	Winston-Salem
+
+WV	Triadelphia
+
+CA	Hillcrest
+
+MA	Norton
+
+MI	Grand Rapids
+
+LA	Morgan City
+
+AZ	Tempe
+
+NY	Angola
+
+TX	Lindale
+
+NJ	Wrightstown
+
+IL	Hartford
+
+PA	Lahaska
+
+NY	New York
+
+FL	Parrish
+
+OR	Bend
+
+OH	Fairborn
+
+PA	Intercourse
+
+RI	Providence
+
+TX	Georgetown
+
+CO	Denver
+
+OK	Miami
+
+FL	Naples
+
+OH	Cincinnati
+
+TX	Lakeway
+
+AZ	Vail
+
+KY	Glasgow
+
+OK	Guthrie
+
+AL	Birmingham
+
+OR	Portland
+
+FL	Doral
+
+FL	Port Saint Joe
+
+NH	Center Harbor
+
+MI	Coopersville
+
+TX	Adkins
+
+IL	Chicago
+
+MI	Detroit
+
+IA	Des Moines
+
+CA	El Segundo
+
+TX	Anderson
+
+NM	Radium Springs
+
+WV	Naoma
+
+SD	Harrisburg
+
+NC	Biscoe
+
+MO	Tipton
+
+MO	Columbia
+
+OH	Port Clinton
+
+OR	Portland
+
+FL	Largo
+
+TX	Houston
+
+CA	San Diego
+
+MA	South Hadley
+
+CA	Costa Mesa
+
+MO	St. Louis
+
+TX	Forest Hill
+
+PA	Linesville
+
+TX	Dallas
+
+IL	Vernon Hills
+
+LA	Shreveport
+
+NC	Rural Hall
+
+AZ	Show Low
+
+NY	Perry
+
+MI	Centreville
+
+LA	Gonzales
+
+MA	Lenox
+
+MD	Towson Estates
+
+PA	Damascus
+
+MA	Gilbertville
+
+PA	Wilkes-Barre
+
+NY	Far Rockaway
+
+IN	Elkhart
+
+WV	Smithburg
+
+NC	Salisbury
+
+PA	West Middlesex
+
+MI	Warren
+
+CA	San Jose
+
+MA	Burlington
+
+FL	Miami
+
+TN	East Ridge
+
+MN	Blaine
+
+FL	Doral
+
+CA	Los Angeles
+
+CA	Inglewood
+
+NE	Crofton
+
+CA	Compton
+
+MI	Marne
+
+FL	Eustis
+
+TX	Mount Pleasant
+
+VA	Arlington
+
+NJ	Lake Hiawatha
+
+VA	Leesburg
+
+DE	New Castle
+
+IN	Farmersburg
+
+CA	Chula Vista
+
+PA	Warfordsburg
+
+NJ	Pennsauken
+
+NJ	South River
+
+WA	Everson
+
+MI	Columbiaville
+
+PA	Rhawnhurst
+
+KY	Fort Knox
+
+MI	Mayville
+
+ME	Hermon
+
+PA	Lock Haven
+
+IL	Chicago
+
+NY	East Hills
+
+WI	Stevens Point
+
+OH	Fairfield
+
+TX	Dallas
+
+FL	Orlando
+
+CT	Cromwell
+
+FL	Allapattah
+
+PA	East Falls
+
+MI	Buchanan
+
+AL	Leeds
+
+DC	Washington
+
+CA	Downey
+
+FL	Fort Pierce
+
+GA	Vidalia
+
+NJ	Egg Harbor City
+
+MS	Carthage
+
+NC	Rutherfordton
+
+WV	Morgantown
+
+FL	Marco Island
+
+TX	Fritch
+
+FL	Navarre Beach
+
+WA	Wenatchee
+
+CA	Clearlake
+
+NY	Owego
+
+NY	Glen Cove
+
+PA	Delaware Water Gap
+
+MI	Grand Rapids
+
+CA	Inland Empire
+
+PA	Towanda
+
+MI	Brown City
+
+NC	Charlotte
+
+IL	Le Roy
+
+CA	Los Angeles
+
+PA	Export
+
+TX	Southlake
+
+MI	Saginaw
+
+MD	Baltimore
+
+MD	New Mexico
+
+KS	Sedan
+
+NH	Plymouth
+
+RI	South Kingstown
+
+SC	Florence
+
+CA	Fremont
+
+IN	Greentown
+
+FL	Tampa
+
+PA	Brookville
+
+TN	Mount Pleasant
+
+NE	Lavista
+
+FL	Saint Pete Beach
+
+TX	Lubbock
+
+MD	Linthicum Heights
+
+UT	Tooele
+
+WI	Cambria
+
+ME	Portland
+
+IL	Bensenville
+
+NC	Middlesex
+
+OR	Lebanon
+
+NV	Las Vegas
+
+GA	Buckhead
+
+IL	Carol Stream
+
+MO	Rolla
+
+IL	Mount Vernon
+
+MS	Tupelo
+
+MD	Gwynn Oak
+
+FL	Winter Haven
+
+KS	Wichita
+
+TN	Chattanooga
+
+CO	Loveland
+
+NY	Calverton
+
+VA	Roanoke
+
+NJ	Atlantic Highlands
+
+CA	Gardena
+
+OH	Ashville
+
+OR	Hillsboro
+
+TX	Richmond
+
+CT	New Haven
+
+TX	Northside
+
+MN	Worthington
+
+VT	Berlin
+
+NY	Smithtown
+
+PA	Pittsburgh
+
+NC	Fayetteville
+
+MD	Rockville
+
+NY	Tuckahoe
+
+TN	Bellevue
+
+NM	Santa Fe
+
+NY	Astoria
+
+SC	Kiawah Island
+
+OH	Warrensville
+
+TX	Humble
+
+OK	Devol
+
+MI	Grandville
+
+WI	Kewaskum
+
+NC	Southern Pines
+
+MO	Kahoka
+
+GA	Valdosta
+
+GA	Gainesville
+
+OH	Toledo
+
+SC	Greer
+
+CA	Redlands
+
+NY	Bronx
+
+SC	Richburg
+
+CT	Berlin
+
+OK	Jennings
+
+IL	Carlinville
+
+CA	San Diego
+
+CT	Cos Cob
+
+CA	Silicon Valley
+
+MD	Hyattsville
+
+TX	Houston
+
+FL	Ruskin
+
+WI	Plymouth
+
+NE	Omaha
+
+LA	Keithville
+
+MI	Bessemer
+
+TX	Dallas-Fort Worth
+
+NC	Belews Creek
+
+MI	Cascade
+
+NJ	Piscataway
+
+FL	Hialeah
+
+NY	Jamaica
+
+MI	Port Huron
+
+CA	Los Angeles
+
+NY	New York
+
+OH	Alexandria
+
+NY	Owego
+
+CA	Patterson
+
+CT	Windsor Locks
+
+CA	Julian
+
+SC	Fountain Inn
+
+CT	Stamford
+
+WI	Pleasant Prairie
+
+VA	Hampton
+
+GA	Southeast
+
+FL	Tallahassee
+
+KS	Ottawa
+
+UT	Santaquin
+
+IL	Orland Park
+
+TX	Nash
+
+IL	Chatham
+
+TX	Calallen
+
+KY	Goshen
+
+OH	Wilberforce
+
+OK	Henryetta
+
+LA	Lutcher
+
+MN	Mendota Heights
+
+OH	Jackson
+
+NY	New York
+
+VI	Kingshill
+
+NY	New York
+
+OH	Toledo
+
+PA	Pocono Summit
+
+FL	Pembroke
+
+AL	Lawrence
+
+FL	Jacksonville
+
+NC	Raleigh
+
+WA	Seattle
+
+IL	Genoa
+
+OH	Cincinnati
+
+PA	Kingston
+
+WI	Madison
+
+MO	Kansas City
+
+NY	New York
+
+MD	Edgewater
+
+NY	Greenville
+
+OK	Oklahoma City
+
+MI	Traverse City
+
+PA	Black Lick
+
+GA	Atlanta
+
+MA	Salisbury
+
+FL	Dunnellon
+
+CA	Huntington Beach
+
+PA	Mifflinburg
+
+MI	Grawn
+
+TX	San Antonio
+
+PA	Cheltenham
+
+WV	Buckhannon
+
+TN	Kingsport
+
+VA	Fairfax
+
+TX	Newton
+
+MN	Chisholm
+
+CA	Redlands
+
+PA	Newtown
+
+KS	Parsons
+
+MI	Wixom
+
+IN	Greenwood
+
+IL	Wheeling
+
+TX	Dallas
+
+NJ	Wildwood
+
+PA	Shadyside
+
+DC	Washington
+
+OR	Klamath Falls
+
+TX	Houston
+
+MN	Isanti
+
+OH	Dayton
+
+MN	Sauk Rapids
+
+WA	Ferndale
+
+VA	Midland
+
+FL	Tampa
+
+CA	Sacramento
+
+CA	Irvine
+
+MO	St. Louis
+
+CO	Denver
+
+OR	Hillsboro
+
+FL	Jupiter
+
+IL	Fairfield
+
+CA	Glen Ellen
+
+NY	Cortland
+
+IL	Vernon Hills
+
+TN	Hartsville
+
+TX	Tarrant
+
+CA	Lancaster
+
+WI	Green Bay
+
+ME	Kennebunkport
+
+KS	Kingman
+
+WV	Williamson
+
+TX	Dallas
+
+UT	Ogden
+
+LA	Sherwood
+
+TX	Houston
+
+FL	Auburndale
+
+CA	Hayward
+
+VT	Castleton
+
+NY	Brooklyn
+
+CA	Santa Rosa
+
+WI	Menasha
+
+IN	Fort Wayne
+
+MN	Ham Lake
+
+MI	Hubbell
+
+NV	Las Vegas
+
+PA	Union Dale
+
+VA	Henrico
+
+MT	Belgrade
+
+PA	Monongahela
+
+VA	Rustburg
+
+TX	Westlake
+
+TN	Nashville
+
+NY	Johnstown
+
+NC	Hendersonville
+
+MA	Attleboro
+
+NY	Jericho
+
+NY	Massapequa
+
+PA	Evansburg
+
+WV	Chapmanville
+
+NV	Henderson
+
+FL	Fort Pierce South
+
+TX	Beeville
+
+IL	Carpentersville
+
+AL	Decatur
+
+KS	Abilene
+
+WA	Lynnwood
+
+PA	Reading
+
+CO	Greeley
+
+WI	Sun Prairie
+
+NE	West Point
+
+NC	Angier
+
+DC	Washington
+
+NC	Benson
+
+CA	Lakewood
+
+IA	Manning
+
+NJ	Pennsauken
+
+PA	Philadelphia
+
+SD	Aberdeen
+
+TX	Cedar Hill
+
+WI	Appleton
+
+PA	Forest Hills
+
+CA	Los Angeles
+
+LA	Chalmette
+
+MI	Three Rivers
+
+TX	New Braunfels
+
+AL	Russellville
+
+NH	Orford
+
+FL	Hudson
+
+PA	Greensburg
+
+WV	Summersville
+
+GA	Columbus
+
+WI	Beloit
+
+CA	Imperial Beach
+
+OH	Toledo
+
+VT	Colchester
+
+GA	Evans
+
+AK	Anchorage
+
+MI	Montague
+
+OH	Dayton
+
+UT	West Salt Lake
+
+CA	San Clemente
+
+PA	Newville
+
+TX	Richardson
+
+CA	San Marcos
+
+PA	Upper St. Clair
+
+GA	Commerce
+
+WI	Lomira
+
+WI	Richfield
+
+CA	Fairfield
+
+CA	Newark
+
+NV	Las Vegas
+
+GA	Johns Creek
+
+OH	Deersville
+
+NY	Albany
+
+MA	North Billerica
+
+NC	Havelock
+
+AL	Birmingham
+
+IL	Schaumburg
+
+TX	Goodfellow AFB
+
+NC	Hubert
+
+MN	North Saint Paul
+
+NC	Durham
+
+CA	San Marcos
+
+OR	Tualatin
+
+MI	Ferndale
+
+MD	Catonsville
+
+TX	Baytown
+
+NY	East Greenbush
+
+KS	Mission
+
+MI	Harper Woods
+
+MO	Kennett
+
+FL	Spring Hill
+
+IL	Chicago
+
+CA	Palo Alto
+
+CA	Costa Mesa
+
+DC	Washington
+
+PA	Atlasburg
+
+MD	Catonsville
+
+WV	Saint George
+
+MD	Gaithersburg
+
+CA	Martinez
+
+SC	Okatie
+
+GA	Ball Ground
+
+DE	Bear
+
+OH	Cleveland
+
+OH	Akron
+
+PA	Ancient Oaks
+
+ME	Corinna
+
+WA	Edmonds
+
+NE	Lincoln
+
+CA	Redwood City
+
+CA	Cerritos
+
+CA	Sacramento
+
+OH	Heath
+
+OH	Cincinnati
+
+MI	Flint
+
+TN	Bulls Gap
+
+VA	Lynchburg
+
+WI	Saint Germain
+
+CA	Glendale
+
+OK	Chickasha
+
+PA	Pottsgrove
+
+IL	Chicago
+
+WI	Arbor Vitae
+
+NE	South Sioux City
+
+MO	Carthage
+
+AZ	Tucson
+
+WA	Kalama
+
+KY	Bowling Green
+
+MO	Kansas City
+
+CA	Conejo Valley
+
+TX	Houston
+
+NH	Plymouth
+
+CO	Fowler
+
+NC	Browns Summit
+
+MD	Clarksburg
+
+KS	Herington
+
+KY	Louisville
+
+TX	Irving
+
+GA	Peachtree City
+
+AZ	Scottsdale
+
+FL	Davenport
+
+MN	West Saint Paul
+
+NC	Washington
+
+TX	Kaufman
+
+IN	Mc Cordsville
+
+OH	Marion
+
+OH	Toledo
+
+CA	Campbell
+
+DE	Wilmington
+
+VA	Richmond
+
+GA	Columbus
+
+VA	Tappahannock
+
+PA	New Columbia
+
+CA	Vacaville
+
+NC	Pikeville
+
+CA	Lawndale
+
+VA	Sterling
+
+CT	Clinton
+
+TN	Memphis
+
+SC	Mount Pleasant
+
+NJ	Mount Laurel
+
+MI	Grand Rapids
+
+TX	Poteet
+
+MA	Pocasset
+
+RI	Chepachet
+
+CO	Oak Creek
+
+CA	San Diego
+
+CA	Van Nuys
+
+AL	Monroeville
+
+KY	Robards
+
+FL	Macclenny
+
+OH	Bethel
+
+NH	Hampton
+
+GA	Atlanta
+
+VT	Vergennes
+
+NY	Montgomery
+
+OH	Cincinnati
+
+ID	Meridian
+
+ID	Idaho Falls
+
+AR	Junction City
+
+CA	San Jose
+
+NY	Berkshire
+
+IN	New Albany
+
+NC	Casar
+
+IA	Wellman
+
+OH	Streetsboro
+
+AZ	Fort Mohave
+
+NY	Elizabethtown
+
+TX	Pleasanton
+
+MD	Cumberland
+
+DC	Washington
+
+PA	Philadelphia
+
+CA	Gardena
+
+FL	Port Saint Lucie-River Park
+
+MD	Poolesville
+
+MA	Greenfield
+
+CA	Santa Barbara
+
+CA	Castaic
+
+NJ	West Windsor
+
+SC	Ridgeville
+
+WI	Cashton
+
+FL	Coral Springs
+
+PA	Ford City
+
+NC	Huntersville
+
+NJ	Bridgewater
+
+WI	Eau Claire
+
+IL	Ingleside
+
+NJ	Freehold
+
+TX	Austin
+
+GA	Atlanta
+
+TX	Rockwall
+
+AZ	Tucson
+
+LA	Oak Grove
+
+NJ	River Edge
+
+NC	Connelly Springs
+
+TX	Grand Prairie
+
+MN	Cottage Grove
+
+NY	Stormville
+
+CO	Peterson AFB
+
+LA	Marksville
+
+NC	Wake Forest
+
+WY	Gillette
+
+WA	Tri-Cities
+
+MI	Alpena
+
+OH	Englewood
+
+NY	Melville
+
+IL	Pekin
+
+WI	Weston
+
+NY	Melville
+
+CA	Pacifica
+
+MN	Litchfield
+
+MI	Cascade
+
+AR	Rogers
+
+WI	Kiel
+
+TX	Hedwig Village
+
+OH	Loveland
+
+MN	South Saint Paul
+
+AL	Huntsville
+
+PA	Portage
+
+MO	Owensville
+
+OH	Lordstown
+
+SC	Liberty
+
+NC	Summerfield
+
+IN	Batesville
+
+IL	Chicago
+
+TX	Dallas
+
+IN	Lafayette
+
+IL	Hartford
+
+IN	Mishawaka
+
+CT	Wilton
+
+TX	Irving
+
+IN	Hammond
+
+MI	DeWitt
+
+KS	Wichita
+
+NC	Beulaville
+
+CO	Fort Lupton
+
+TX	Irving
+
+FL	Interlachen
+
+CO	Snowmass
+
+PA	Shippenville
+
+MI	Grand Rapids
+
+OR	Portland
+
+NY	Woodhaven
+
+PA	Linesville
+
+NY	Middletown
+
+FL	Saint Petersburg
+
+OH	Ottawa
+
+MA	West Boylston
+
+TN	Hixson
+
+MD	Freeland
+
+WI	Fitchburg
+
+OH	Columbia
+
+PA	Trevose
+
+NJ	Oak Ridge
+
+MN	Two Harbors
+
+AZ	Sedona
+
+ID	Garden City
+
+IL	Vernon Hills
+
+MA	Woburn
+
+KY	Crestview Hills
+
+CA	Irvine
+
+AL	Saraland
+
+AR	Booneville
+
+MN	Inver Grove Heights
+
+NJ	Westmont
+
+NY	Alfred
+
+SD	Sioux Falls
+
+NY	Middle Island
+
+TX	DFW Airport
+
+FL	Groveland
+
+MO	New London
+
+IN	New Castle
+
+IL	Sullivan
+
+PA	Gratz
+
+PA	Pittsburgh
+
+FL	Crystal River
+
+TX	San Antonio
+
+CO	Milliken
+
+KS	Olathe
+
+CT	Rocky Hill
+
+NJ	Township of Warren
+
+OH	Fremont
+
+PA	Philadelphia
+
+AZ	Litchfield
+
+PA	Chester
+
+TX	Austin
+
+AL	Moulton
+
+MI	Manistique
+
+TN	Sevierville
+
+MS	Gallman
+
+TN	Brentwood
+
+FL	Cape Coral
+
+CO	Superior
+
+IL	South Barrington
+
+CT	Putnam
+
+TX	Ingram
+
+ND	Thompson
+
+SC	Columbia
+
+KY	Greenup
+
+TX	Rotan
+
+NY	Little Neck
+
+WI	Sauk City
+
+MN	Elk River
+
+MO	Warrensburg
+
+SC	Florence
+
+TX	Farmersville
+
+NM	Lordsburg
+
+KY	Hanson
+
+FL	Ocala
+
+TX	Houston
+
+SC	Horry
+
+AL	Eight Mile
+
+NC	Statesville
+
+NC	Hendersonville
+
+VA	Ferrum
+
+TX	Allen
+
+PA	Moosic
+
+GA	Bloomingdale
+
+FL	Brooksville
+
+NJ	Absecon
+
+TX	Sugar Land
+
+NY	Selkirk
+
+IN	Veedersburg
+
+MI	Bloomfield Hills
+
+CA	Visalia
+
+MS	Clinton
+
+MA	West Boylston
+
+NC	Penders Crossroads
+
+MS	Hattiesburg
+
+OK	Oklahoma City
+
+NJ	Hackensack
+
+SC	Anderson
+
+CA	Palm Desert
+
+WI	Wausau
+
+KS	Roeland Park
+
+IL	Barrington
+
+OK	Howe
+
+PA	New Kensington
+
+AL	Vestavia
+
+TN	Sneedville
+
+WA	University Place
+
+IN	Howe
+
+CA	Thousand Oaks
+
+NY	Liberty
+
+NC	Durham
+
+MI	Lansing
+
+OH	Danville
+
+NY	East Harlem
+
+MN	Hermantown
+
+ME	Lyman
+
+VA	Winchester
+
+CA	Livingston
+
+NC	Wilmington Beach
+
+FL	Vero Beach
+
+VT	West Fairlee
+
+IN	Lake Station
+
+CO	Fort Morgan
+
+MI	Ludington
+
+NJ	Sea Girt
+
+NJ	Fords
+
+CA	Hanford
+
+VT	Rutland
+
+MN	Afton
+
+MA	Westfield
+
+MA	Somerset
+
+WA	San Juan Islands
+
+WI	Mukwonago
+
+IA	DeWitt
+
+NC	Cameron
+
+TN	McKenzie
+
+CT	Windsor Locks
+
+GA	Atlanta
+
+ID	Idaho Falls
+
+ID	Ririe
+
+WY	Sheridan
+
+NJ	Princeton
+
+NY	Derby
+
+IL	Wheaton
+
+AR	England
+
+NC	Hubert
+
+FL	Nokomis
+
+GA	Savannah
+
+NC	Hillsborough
+
+CA	San Diego
+
+MI	West Olive
+
+OH	Carlisle
+
+WI	Baraboo
+
+PA	Luzerne
+
+MI	Shelby Twp
+
+VA	Reston
+
+UT	Saint George
+
+PA	Blawnox
+
+FL	Greenacres
+
+KY	Uniontown
+
+MA	Scituate
+
+CA	Los Angeles
+
+RI	Narragansett
+
+NY	The Vly
+
+NY	New York
+
+MA	Boston
+
+MI	Ferndale
+
+CA	Joshua Tree
+
+PA	Crafton
+
+TN	Memphis
+
+VT	Brandon
+
+OH	Belpre
+
+NC	Kitty Hawk
+
+IN	DeMotte
+
+OR	Corvallis
+
+WA	Yakima
+
+AZ	Cave Creek
+
+IA	Newell
+
+MO	St. Louis
+
+NJ	Somerset
+
+UT	Salt Lake City
+
+CO	Yuma
+
+NJ	Fredon
+
+WA	Kent
+
+NY	New York
+
+MD	Woodlawn
+
+HI	Kaimuki
+
+KY	Uniontown
+
+VA	Herndon
+
+MN	Balaton
+
+MA	Marlborough
+
+CA	Ontario
+
+FL	Ocala
+
+CA	Irvine
+
+NY	Sagaponack
+
+NJ	New Providence
+
+WI	Houlton
+
+CA	Montclair
+
+UT	Orem
+
+WV	New Haven
+
+KY	Louisville
+
+NY	New York
+
+TX	Grand Prairie
+
+MI	Okemos
+
+MO	Kennett
+
+OH	Fort Recovery
+
+CA	Peninsula
+
+PA	Trevorton
+
+VA	Hallsboro
+
+NA	NA
+
+ID	Star
+
+CA	Hidden Valley Lake
+
+IA	Des Moines
+
+ND	Dickey
+
+MI	Lake Linden
+
+MA	Northampton
+
+IA	Bettendorf
+
+TX	Austin
+
+NA	NA
+
+GA	Millen
+
+VT	Bellows Falls
+
+LA	Plaquemine
+
+MI	Chesterfield
+
+NJ	Stratford
+
+PA	University City
+
+NJ	Burlington
+
+NC	Fayetteville
+
+IN	Indianapolis
+
+PA	Hamlin
+
+AR	Mansfield
+
+CA	Beverly Hills
+
+AK	Skagway
+
+IA	Des Moines
+
+WI	Arpin
+
+CA	Temecula
+
+OH	Gahanna
+
+LA	Baton Rouge
+
+IL	Lincolnshire
+
+VA	Williamsburg
+
+CA	East Palo Alto
+
+IN	Cedar Lake
+
+NY	Brooklyn
+
+IA	Rock Rapids
+
+GA	Roswell
+
+IL	Chicago
+
+TX	Spicewood
+
+NH	Newington
+
+WA	Seattle
+
+OH	Bethel
+
+WI	Lomira
+
+MI	Kalamazoo
+
+MS	Gulfport
+
+IL	Chicago
+
+IN	La Porte
+
+CA	Pioneertown
+
+CT	Watertown
+
+AK	Elmendorf AFB
+
+WA	Bellevue
+
+GA	Morrow
+
+PA	Elysburg
+
+GA	Savannah
+
+IN	Michigan City
+
+ME	Freeport
+
+FL	Orlando
+
+NY	Hunts Point
+
+MT	Clancy
+
+VA	Tysons Corner
+
+PA	Wilkes-Barre Township
+
+MD	Silver Spring
+
+PA	Huntingdon
+
+AL	Birmingham
+
+CO	Longmont
+
+MI	West Branch
+
+CA	Los Angeles
+
+CA	La Quinta
+
+WI	Howard
+
+MO	Des Peres
+
+SC	Greenville
+
+VA	Spotsylvania
+
+VA	Colonial Williamsburg
+
+CO	Milliken
+
+MS	Rolling Fork
+
+AZ	Scottsdale
+
+MN	Mounds View
+
+OK	Oklahoma City
+
+MO	Excelsior Springs
+
+NC	Franklinville
+
+PA	Doylestown
+
+IL	Skokie
+
+TX	DeSoto
+
+PA	Middleburg
+
+CT	Ansonia
+
+MA	Marblehead
+
+SC	Columbia
+
+MI	Ann Arbor
+
+IA	Coralville
+
+PA	Hershey
+
+NJ	Princeton
+
+NY	Corinth
+
+TX	Fort Worth
+
+TX	McAllen
+
+WI	Brodhead
+
+AZ	Phoenix
+
+TN	Antioch
+
+MN	Warroad
+
+CA	Anaheim
+
+CA	Pasadena
+
+WI	Omro
+
+SD	Aberdeen
+
+CO	Watkins
+
+IA	Durant
+
+MN	Maple Grove
+
+WA	Gig Harbor
+
+TX	Fort Worth
+
+NC	North Carolina Zoological Park
+
+MA	Wilbraham
+
+OR	Medford
+
+OH	Blue Ash
+
+IA	Clear Lake
+
+AZ	Bullhead City
+
+KS	Clay Center
+
+ID	Twin Falls
+
+TX	Houston
+
+MA	West Springfield
+
+KS	Independence
+
+NY	Cazenovia
+
+CA	San Ramon
+
+MD	Perryman
+
+IN	Westfield
+
+PA	Glenshaw
+
+GA	Griffin
+
+IL	Chicago
+
+FL	Bradenton
+
+MI	Grosse Pointe Woods
+
+AL	Athens
+
+HI	Wailea
+
+OH	Dayton
+
+IL	Freeport
+
+WV	Martinsburg
+
+MD	Oakland
+
+OH	Columbus
+
+WV	Welch
+
+WI	Chippewa Falls
+
+CA	Thermalito
+
+NH	Swanzey
+
+KY	Harrodsburg
+
+MI	Spring Lake
+
+MI	South Haven
+
+CO	Steamboat Springs
+
+OK	Oklahoma City
+
+WI	Menomonee Falls
+
+NY	Carle Place
+
+OH	Springdale
+
+CA	Los Angeles
+
+FL	Venus
+
+MI	Fowlerville
+
+TX	Houston
+
+TX	Abilene
+
+KS	Mission
+
+NY	Mount Sinai
+
+CA	Redlands
+
+IL	Chicago
+
+GA	Dacula
+
+MD	Jessup
+
+OH	Coolville
+
+MN	Spring Lake Park
+
+IN	Mishawaka
+
+MI	Highland Park
+
+CA	Newberry Springs
+
+CA	Thousand Oaks
+
+MI	Fraser
+
+MA	Bedford
+
+TX	Houston
+
+NJ	Plainfield
+
+IA	Fort Madison
+
+NE	Omaha
+
+TX	Killeen
+
+TX	Catarina
+
+VA	Norfolk
+
+NJ	Fort Lee
+
+IA	Wellman
+
+NY	Bennington
+
+AZ	Tucson
+
+AR	Fayetteville
+
+CA	Marina del Rey
+
+HI	Kahului
+
+OH	Centerville
+
+GA	Columbus
+
+TX	Canton
+
+GA	Jekyll Island
+
+NE	Omaha
+
+CA	Glen Ellen
+
+MI	Lansing
+
+MN	Dodge Center
+
+TX	Needville
+
+OH	Tallmadge
+
+ME	Gray
+
+PA	Pitcairn
+
+MI	DeWitt
+
+PA	North Wales
+
+CA	Huntington Beach
+
+OH	Saint Paris
+
+CA	Los Angeles
+
+FL	Green Cove Springs
+
+TN	Franklin
+
+MO	Weston
+
+OR	Tillamook
+
+IL	Shabbona
+
+MI	Manistee
+
+MN	Minneapolis
+
+NY	Lackawanna
+
+PA	Green Tree
+
+ND	Dickinson
+
+WA	Ohop Valley
+
+PA	Shenandoah
+
+FL	Tampa
+
+NY	North Salem
+
+NY	Riverhead
+
+PA	Malvern
+
+IA	Sully
+
+KS	Wichita
+
+NY	Medina
+
+MD	Annapolis
+
+NY	Queens
+
+NH	Hooksett
+
+AZ	Gold Canyon
+
+MI	New Hudson
+
+IL	Northfield
+
+OH	Wheelersburg
+
+WA	Seattle
+
+NC	Washington
+
+MO	St. Louis
+
+NJ	Hoboken
+
+NY	Marcy
+
+MD	North Bethesda
+
+WA	Vancouver
+
+WI	Antigo
+
+TX	Carrollton
+
+OH	Steubenville
+
+MN	Champlin
+
+DC	Washington
+
+NY	Hurleyville
+
+WI	Belgium
+
+TN	Nashville
+
+OK	Edmond
+
+NH	Center Harbor
+
+NE	Riverton
+
+OH	Columbus
+
+NC	Charlotte
+
+NJ	Livingston
+
+CA	Sunnyvale
+
+FL	Ponte Vedra
+
+NC	Rutherfordton
+
+WI	Oshkosh
+
+NY	Long Island
+
+TN	Nashville
+
+NV	Henderson
+
+IL	River Grove
+
+NY	Westchester
+
+CT	Vernon Rockville
+
+MI	Mayville
+
+SC	Garden City
+
+NY	Kingston
+
+AR	North Little Rock
+
+MI	Alma
+
+IL	Hebron
+
+MT	Helena
+
+FL	Saint Petersburg
+
+WI	Oregon
+
+CA	Copperopolis
+
+MI	East Leroy
+
+VA	Warrenton
+
+CA	San Francisco
+
+MS	Como
+
+TX	Palestine
+
+FL	North Palm Beach
+
+PA	Conneaut Lake
+
+MO	Bowling Green
+
+OH	Aurora
+
+TX	Plano
+
+MA	Somerset
+
+FL	Pembroke
+
+CT	Windsor
+
+PA	Bethlehem
+
+FL	Mount Dora
+
+NJ	Long Beach Island
+
+TX	Waxahachie
+
+MN	Aitkin
+
+NA	NA
+
+AZ	Glendale
+
+TX	Houston
+
+TN	Piperton
+
+UT	Hyde Park
+
+KS	Lawrence
+
+CO	Durango
+
+CA	Corcoran
+
+KY	Zandale
+
+CT	Southington
+
+NC	Raleigh
+
+NC	Willow Spring
+
+TX	Bixby
+
+MN	Minneapolis
+
+WI	Madison
+
+ME	South Bristol
+
+NY	Brooklyn
+
+VA	Norfolk
+
+WV	Bradley
+
+NJ	Montville
+
+IA	Osceola
+
+NH	Auburn
+
+CA	Sherman Oaks
+
+FL	Fort Walton Beach
+
+NJ	Edgewater Park
+
+OK	Sulphur
+
+NC	Charlotte
+
+NJ	Glen Rock
+
+WV	West Virginia Central Junction
+
+FL	Jacksonville
+
+IL	Oak Lawn
+
+FL	The Hammocks
+
+OR	Tualatin
+
+TX	San Angelo
+
+FL	Miami
+
+WA	Mukilteo
+
+CA	Sacramento
+
+OR	Clackamas
+
+TX	San Antonio
+
+FL	Fort Myers
+
+OH	Cleveland
+
+TX	China Grove
+
+TX	Texarkana
+
+MA	South Deerfield
+
+WA	Kalama
+
+CT	Fairfield
+
+WI	Adams
+
+CA	Visalia
+
+NV	Boulder City
+
+KS	Spring Hill
+
+MS	Batesville
+
+GA	Smyrna
+
+TN	Memphis
+
+NY	Staten Island
+
+PA	Harborcreek
+
+TX	Almeda
+
+NH	Newmarket
+
+MI	Lansing
+
+NJ	Parsippany
+
+GA	Alpharetta
+
+WY	Jackson
+
+GA	Crabapple
+
+MI	Hancock
+
+CA	Clayton
+
+MA	Springfield
+
+OK	Geary
+
+VA	Chantilly
+
+WA	Bothell
+
+TX	Austin
+
+OH	Springfield
+
+NJ	Atco
+
+WA	Smokey Point
+
+MO	Queen City
+
+VA	Poquoson
+
+AZ	Apache Junction
+
+FL	Winter Park
+
+CA	Pixley
+
+MA	Peabody
+
+KS	Baileyville
+
+AZ	Globe
+
+MN	Eagan
+
+NC	Lillington
+
+NE	Snyder
+
+IA	Bondurant
+
+MI	Prairieville
+
+PA	Beaver
+
+OK	Oklahoma City
+
+FL	The Hammocks
+
+NY	Glen Head
+
+TN	Henderson
+
+NY	Binghamton
+
+OH	Fairview Park
+
+KY	Lagrange
+
+PA	Ardmore
+
+FL	Sarasota
+
+GA	Peachtree City
+
+FL	Lakeland
+
+NC	Concord
+
+FL	Palatka
+
+MO	Neosho
+
+MN	Inver Grove Heights
+
+MI	Holland
+
+CO	Colorado Springs
+
+SC	Myrtle Beach
+
+WI	Mishicot
+
+VA	Elkton
+
+UT	Moab
+
+RI	Providence
+
+LA	Ponchatoula
+
+NJ	Township of Delran
+
+VA	South Hill
+
+AZ	Scottsdale
+
+CO	Evans
+
+NE	North Platte
+
+WA	Vancouver
+
+OK	Poteau
+
+IN	Portage
+
+CO	Eaton
+
+MO	Lone Jack
+
+AL	Guntersville
+
+MO	Chesterfield
+
+ID	Garden City
+
+NY	East Meadow
+
+AL	Prattville
+
+OH	Batavia
+
+NY	Flushing
+
+CO	Watkins
+
+VA	Hamilton
+
+VA	Richmond
+
+NY	Finger Lakes
+
+KS	Valley Center
+
+SC	Mauldin
+
+NY	Hempstead
+
+WI	Dakota
+
+CA	Parlier
+
+MN	Loretto
+
+MA	Dartmouth
+
+AL	Decatur
+
+PA	Shippenville
+
+LA	Bastrop
+
+PA	Bendersville
+
+IL	Paw Paw
+
+TX	Lackland AFB
+
+GA	Union City
+
+WA	Seattle
+
+MS	Tupelo
+
+TX	Grand Prairie
+
+NY	Sherburne
+
+GA	White
+
+TX	Harlingen
+
+CT	Newtown
+
+KS	Shawnee
+
+ME	Ashland
+
+UT	Washington
+
+PA	Bridgeport
+
+KY	Florence
+
+NH	Rumney
+
+MI	Grawn
+
+FL	Alva
+
+SC	Bethune
+
+ME	Cumberland
+
+MI	Detroit
+
+UT	Holladay
+
+PA	Cranberry
+
+FL	West Palm Beach
+
+TX	Spring Branch
+
+NY	Haverstraw
+
+CO	Snowmass Village
+
+GA	Sylvester
+
+NY	Selden
+
+FL	South Pasadena
+
+NH	Salem
+
+NC	Eden
+
+FL	Estero
+
+GA	Cedar Springs
+
+TX	Mount Pleasant
+
+MI	Ironwood
+
+OR	Tualatin
+
+LA	Bossier City
+
+WI	La Crosse
+
+AZ	Tempe
+
+MO	House Springs
+
+PA	Portersville
+
+GA	Washington
+
+GA	Peachtree City
+
+IN	Garrett
+
+TN	Chattanooga
+
+CA	Fontana
+
+OK	Oklahoma City
+
+VA	Virginia Beach
+
+CA	Woodland Hills
+
+CT	Essex
+
+WA	Walla Walla
+
+OH	Batavia
+
+TX	Tyler
+
+NJ	Pennsauken
+
+IL	Woodstock
+
+CA	Dublin
+
+FL	Daytona Beach
+
+NE	Omaha
+
+GA	Tallapoosa
+
+IL	Decatur
+
+NY	Central Valley
+
+GA	North Druid Hills
+
+MS	Cleveland
+
+NV	Las Vegas
+
+IA	Clarinda
+
+KS	Wichita
+
+FL	Oviedo
+
+NY	Dundee
+
+NC	Gibson
+
+VA	Virginia Beach
+
+TX	Jourdanton
+
+TN	Sale Creek
+
+IN	Avilla
+
+PA	Karns City
+
+AZ	Phoenix
+
+IL	Lake Zurich
+
+FL	Bushnell
+
+UT	Orem
+
+VA	Middleburg
+
+NJ	Township of Howell
+
+IL	Kankakee
+
+MD	Damascus
+
+NJ	Woodcliff Lake
+
+NE	Grand Island
+
+NC	Stokesdale
+
+CT	Clinton
+
+PA	Pleasant Unity
+
+IL	Norridge
+
+NY	Oneida
+
+TX	Plano
+
+OH	Findlay
+
+NY	Syracuse
+
+NY	Maspeth
+
+WI	Athens
+
+CA	Lancaster
+
+PA	Marienville
+
+NY	Staten Island
+
+NJ	Linwood
+
+PA	West Sunbury
+
+FL	Miami Beach
+
+IN	Mansfield
+
+VA	Norfolk
+
+MN	Elk River
+
+FL	Bristol
+
+NY	Clay
+
+VA	Alexandria
+
+NJ	Edgewater
+
+MI	Auburn Hills
+
+NC	Rose Hill
+
+VA	Forest
+
+AZ	Green Valley
+
+CA	Van Nuys
+
+MA	Fall River
+
+KS	Hoisington
+
+CA	Santa Monica
+
+WA	Waterville
+
+NY	Batavia
+
+CA	San Francisco
+
+MT	Circle
+
+AR	Fayetteville
+
+NJ	Basking Ridge
+
+NC	Winston-Salem
+
+CO	La Salle
+
+OH	Worthington
+
+TN	Martin
+
+WI	Waukesha
+
+MO	De Soto
+
+MN	Hugo
+
+NY	Copiague
+
+WI	Gresham
+
+KS	Fowler
+
+IL	Chicago
+
+TX	Irving
+
+FL	Miami Beach Botanical Garden
+
+NC	Charlotte
+
+PA	Media
+
+CT	Windham
+
+FL	Vero Beach
+
+CA	Woodside
+
+NC	Elizabethtown
+
+NH	Manchester
+
+NY	East Northport
+
+OH	Waynesburg
+
+DE	Felton
+
+MA	New Bedford
+
+ND	Dickinson
+
+OR	Eugene
+
+GA	Carrollton
+
+MD	Rockville
+
+NC	Arden
+
+VA	Fairfax
+
+IN	Greenwood
+
+DC	Washington
+
+IL	Elk Grove
+
+CA	Marina del Rey
+
+CA	Monterey
+
+KS	Tecumseh
+
+CA	San Francisco Bay Area
+
+NY	Brooklyn
+
+NC	Winston-Salem
+
+WI	Oneida
+
+OK	Shawnee
+
+OR	Portland
+
+GA	Douglasville
+
+WI	Prairie du Chien
+
+PR	Cupey
+
+OH	Dayton
+
+OK	Tecumseh
+
+NY	Wappingers Falls
+
+CA	Lennox
+
+ID	Kellogg
+
+IN	Indianapolis
+
+HI	Honolulu
+
+NE	Hickman
+
+GA	Millen
+
+OH	Hillsboro
+
+CO	Carbondale
+
+MS	Oxford
+
+IL	Justice
+
+MA	Berkley
+
+IN	Indianapolis
+
+PA	Mercer
+
+TN	Maryville
+
+MN	Woodbury
+
+OH	Deersville
+
+IL	Maywood
+
+NJ	Princeton
+
+NY	Henrietta
+
+MI	Hudsonville
+
+MI	Bloomfield
+
+OR	Albany
+
+IL	Aurora
+
+OH	Ashville
+
+NE	Lincoln
+
+MS	Carriere
+
+AL	Birmingham
+
+NY	Garden City Park
+
+NC	Monroe
+
+NY	Brooklyn
+
+GA	Alpharetta
+
+IN	Bremen
+
+NY	Greenfield Center
+
+CA	Jackson
+
+NY	Loudonville
+
+MI	Mears
+
+OK	Muskogee
+
+SD	Rapid City
+
+WI	Bancroft
+
+MA	Quincy
+
+GA	Sandy Springs
+
+OK	Oklahoma City
+
+NJ	Township of South Brunswick
+
+KY	Hickory
+
+MI	Grand Rapids
+
+WV	Mount Clare
+
+NY	New York
+
+LA	Pierre Part
+
+CA	Fullerton
+
+NC	Greensboro
+
+ME	Hiram
+
+OH	Hebron
+
+OK	Kingston
+
+IL	Albion
+
+MI	Pleasant Ridge
+
+NY	Thiells
+
+FL	Destin
+
+MO	Weldon Springs
+
+NY	Long Beach
+
+IL	Beach Park
+
+CA	Calistoga
+
+FL	Melbourne
+
+AR	El Dorado
+
+WI	Rhinelander
+
+HI	Waikƒ´kƒ´
+
+CA	Ukiah
+
+FL	Deland
+
+CA	San Diego
+
+OH	Sebring
+
+WA	Seattle
+
+CA	Marin City
+
+IA	Nevada
+
+TX	Lakeway
+
+NY	New York
+
+TX	Lubbock
+
+IN	Francisco
+
+VA	McLean
+
+IL	Elk Grove Village
+
+NJ	Southampton
+
+CA	Palo Alto
+
+OH	Mentor
+
+RI	Providence
+
+MO	Vandalia
+
+TX	Kyle
+
+NC	Halifax
+
+CO	Florissant
+
+AZ	Tempe
+
+CA	Yountville
+
+CA	San Diego
+
+CA	Chico
+
+NC	Pleasant Garden
+
+TX	Plano
+
+CA	San Lorenzo
+
+CO	Kremmling
+
+CT	Middletown
+
+IL	Normal
+
+MD	Potomac
+
+WI	Milwaukee
+
+OH	University of Dayton
+
+MN	Bloomington
+
+OH	Troy
+
+NH	Walpole
+
+CA	San Diego
+
+TN	Midway
+
+TN	Nashville
+
+IL	Grayville
+
+HI	Honolulu
+
+OK	Owasso
+
+AL	Lafayette
+
+SC	Kingstree
+
+FL	Miami
+
+CA	Tustin
+
+UT	Orem
+
+DC	Washington
+
+OH	Warren
+
+TX	Fair Oaks Ranch
+
+VA	Oceana
+
+NJ	Dover
+
+TN	Whitehaven
+
+TX	McLean
+
+TN	Nashville
+
+IL	Crystal Lake
+
+FL	Tampa
+
+KS	Quinby
+
+MD	Chestertown
+
+MO	Jefferson City
+
+CT	Quaker Hill
+
+VA	Ashland
+
+IL	Charleston
+
+CA	Larkspur
+
+LA	Bermuda
+
+GA	Atlanta
+
+OR	Eugene
+
+IL	Illinois Park
+
+PA	Lansdale
+
+IN	Wolcott
+
+IL	Oregon
+
+IL	Flora
+
+MI	Royal Oak
+
+TN	Manchester
+
+MI	Detroit
+
+CA	Antelope
+
+MI	Lapeer
+
+IN	Whitestown
+
+NJ	Cedar Knolls
+
+MN	Grand Marais
+
+VA	Clintwood
+
+OH	Millbury
+
+CA	Norwalk
+
+NV	Las Vegas
+
+OH	Oakley
+
+NY	Buffalo
+
+GA	Brunswick
+
+UT	Springville
+
+FL	Largo
+
+NY	Potsdam
+
+GA	Atlanta
+
+NC	Willow Spring
+
+NM	Albuquerque
+
+OH	Genoa
+
+MD	Oxon Hill
+
+WA	Poulsbo
+
+TX	Chappell Hill
+
+GA	Atlanta
+
+NY	Seneca Falls
+
+NJ	Perth Amboy
+
+CA	Long Beach
+
+NY	Albany
+
+OH	Wilmington
+
+NY	Brooklyn
+
+MD	Linkwood
+
+TN	Cordova
+
+IL	Franklin Park
+
+PA	Pittsburgh
+
+NC	Drexel
+
+SC	Anderson
+
+GA	Athens
+
+AZ	Gilbert
+
+NY	New York
+
+PA	Carmichaels
+
+NY	Mattituck
+
+PA	Imperial
+
+TX	Irving
+
+FL	Kissimmee
+
+FL	Orlando
+
+CA	San Ramon
+
+CA	Los Angeles
+
+CO	Loveland
+
+ND	Grand Forks
+
+CA	Trabuco Canyon
+
+AL	Mobile
+
+AL	Hamilton
+
+VA	Fairfax Station
+
+GA	Savannah
+
+NC	Kannapolis
+
+IL	Chicago
+
+FL	Fort Lauderdale
+
+OH	Creston
+
+OH	Toledo
+
+MA	Newton
+
+MI	Grand Rapids
+
+AL	Troy
+
+TX	Selma
+
+IN	South Bend
+
+NJ	Neptune City
+
+NY	Jeffersonville
+
+MN	Saint Paul
+
+CO	Gardner
+
+CA	Murrieta
+
+GA	College Park
+
+UT	Eagle Mountain
+
+OH	Tiffin
+
+NJ	Mount Holly
+
+MD	Annapolis
+
+ME	Cumberland Center
+
+NJ	Township of West Windsor
+
+ME	Ogunquit
+
+NY	New York
+
+NC	Fort Bragg
+
+AZ	Paradise Valley
+
+IL	Godfrey
+
+FL	Auburndale
+
+DC	Washington
+
+TX	Eastland
+
+CA	Temecula
+
+CA	Long Beach
+
+FL	Hurlburt Field
+
+GA	Roswell
+
+CA	Acampo
+
+NC	Charlotte
+
+IL	Schaumburg
+
+MI	Sheridan
+
+MO	Raymore
+
+KY	Villa Hills
+
+AL	Athens
+
+NJ	South Plainfield
+
+IN	Brazil
+
+OR	Wolf Creek
+
+NJ	Clifton
+
+CT	Stonington
+
+NE	Omaha
+
+VA	Woodstock
+
+KS	Goodland
+
+MO	Marble Hill
+
+NC	Windsor
+
+IL	Mount Prospect
+
+OH	Ashville
+
+NJ	Whippany
+
+NJ	Rahway
+
+NJ	North Caldwell
+
+CT	New Haven
+
+MI	Dundee
+
+FL	Jacksonville
+
+FL	Big Pine Key
+
+WI	Wausaukee
+
+CA	Cypress
+
+ME	Livermore Falls
+
+FL	South Florida
+
+AL	Auburn
+
+OH	Powell
+
+MA	Ludlow
+
+WV	Hinton
+
+CA	Gustine
+
+CA	Orcutt
+
+MN	Virginia
+
+OH	Plymouth
+
+MI	Kimball
+
+NV	Zephyr Cove
+
+WI	Pardeeville
+
+HI	Ulupalakua
+
+FL	Clearwater
+
+SC	Lugoff
+
+MO	Warrenton
+
+PA	Bethlehem
+
+WA	Redmond
+
+VA	Fort Belvoir
+
+NY	Bethpage
+
+CT	Killingly
+
+SC	Pageland
+
+IN	Cedar Lake
+
+WI	Siren
+
+MN	Center City
+
+AZ	Gila Bend
+
+NY	Shirley
+
+CA	Modesto
+
+IA	Washington
+
+KS	Overland Park
+
+OH	Cincinnati
+
+NE	Syracuse
+
+CA	West Hollywood
+
+MN	Zumbro Falls
+
+HI	Kƒ´hei
+
+AL	Mountain Brook
+
+MI	Kinderhook
+
+NJ	Lakewood
+
+CA	Rancho Cucamonga
+
+NH	Salem
+
+VA	Richmond
+
+WA	Mukilteo
+
+WI	Mercer
+
+NC	Wilkesboro
+
+CA	El Centro
+
+PA	Jim Thorpe
+
+NJ	Englewood Cliffs
+
+MI	Mount Clemens
+
+KS	Spearville
+
+NY	Endicott
+
+OH	Painesville
+
+RI	Lincoln
+
+NJ	Westwood
+
+VA	Radford
+
+SC	Winnsboro
+
+TN	Oneida
+
+CA	Herlong
+
+HI	‚ÄòEwa Beach
+
+IL	Chicago
+
+WA	Seattle
+
+CO	Breckenridge
+
+WI	Columbus
+
+MS	New Albany
+
+WI	Withee
+
+TX	Farmersville
+
+IL	Chicago
+
+MA	Boston
+
+OH	Northwood
+
+IA	Cedar Rapids
+
+TX	Needville
+
+CA	Shaver Lake
+
+MA	Stow
+
+WA	Tacoma
+
+IA	Muscatine
+
+OH	Dalton
+
+PA	Greenville
+
+MI	Avoca
+
+NY	Queens
+
+AL	Montgomery
+
+CA	Compton
+
+TX	Almeda
+
+NJ	Edison
+
+TX	Kingsland
+
+WI	Delafield
+
+CA	Shasta Lake
+
+OK	Tulsa
+
+NV	Ely
+
+KY	Lexington
+
+OR	Gervais
+
+CA	Torrance
+
+NY	Milton
+
+MA	Quincy
+
+PA	Parkesburg
+
+SC	Laurens
+
+FL	Cape Haze
+
+SC	Clinton
+
+NJ	Cliffwood
+
+TN	Antioch
+
+TN	Nashville
+
+NC	Balsam
+
+MN	Northfield
+
+TN	Nashville
+
+IA	Chariton
+
+IA	New Sharon
+
+NC	McAdenville
+
+OH	Moscow
+
+GA	Warner Robins
+
+NY	Peru
+
+WA	Seattle
+
+NY	Brooklyn
+
+WI	Waukesha
+
+WV	Hamlin
+
+MD	Waldorf
+
+AR	Bearden
+
+MN	Breckenridge
+
+PA	Charleroi
+
+IL	Swansea
+
+KY	Lebanon Junction
+
+CA	Wilmington
+
+MI	Waterford
+
+IA	Larchwood
+
+LA	Lafayette
+
+IA	Maquoketa
+
+IN	Grabill
+
+IN	Fremont
+
+NH	Windham
+
+NY	Tupper Lake
+
+FL	Tallahassee
+
+FL	Lake Monroe
+
+CA	Irvine
+
+NJ	New Vernon
+
+OH	Obetz
+
+NY	Mount Vernon
+
+MN	Comfrey
+
+NC	Mocksville
+
+NY	Peconic
+
+NC	Fayetteville
+
+TX	Austin
+
+NJ	Lawrenceville
+
+AR	Heber Springs
+
+WI	Clinton
+
+WV	Harman
+
+OR	Island City
+
+NY	New York
+
+PA	Philadelphia
+
+AL	Orange Beach
+
+GA	Atlanta
+
+MN	Howard Lake
+
+TN	Wartburg
+
+MI	Detroit
+
+PA	Bakerstown
+
+WI	Waterloo
+
+NC	Carolina Beach
+
+MI	Prairieville
+
+NJ	Elizabeth
+
+TX	McCamey
+
+MI	Kalamazoo
+
+MN	Thief River Falls
+
+UT	Heber City
+
+UT	Logan
+
+NY	White Plains
+
+MN	Minneapolis
+
+IL	Hardin
+
+TX	Richardson
+
+NJ	Jersey City
+
+NE	Whitney
+
+CA	Chula Vista
+
+NY	Oakland Gardens
+
+NJ	Toms River
+
+TN	Dayton
+
+OH	Somerset
+
+VA	South Riding
+
+NJ	Freehold
+
+IL	Des Plaines
+
+CA	Sunnyvale
+
+TX	Goodfellow AFB
+
+MO	Kansas City
+
+WA	Graham
+
+VA	Richmond
+
+IL	Fairfield
+
+MN	Andover
+
+TX	La Porte
+
+MA	Brookline
+
+CO	Denver
+
+CO	Evergreen
+
+PA	Linglestown
+
+AR	Berryville
+
+VA	Leesburg
+
+CA	Loma Linda
+
+PA	Mount Union
+
+FL	Tallahassee
+
+AR	Greenwood
+
+AZ	Tucson
+
+CA	San Francisco Bay Area
+
+MO	Cape Girardeau
+
+FL	Pompano Beach
+
+OH	Columbus
+
+MD	Laurel
+
+MI	Big Rapids
+
+KS	Smith Center
+
+AK	Skagway
+
+AZ	Tempe
+
+TX	Seminole
+
+KS	Olathe
+
+MA	Westfield
+
+PA	Orwigsburg
+
+GA	Pretoria
+
+TX	Burton
+
+NM	Alamogordo
+
+PA	Bally
+
+NV	Las Vegas
+
+PA	Ashland
+
+PA	Pottsville
+
+AR	West Memphis
+
+NY	Buffalo
+
+ME	Windham
+
+IL	Lisle
+
+CA	Laguna
+
+IN	Gary
+
+GA	Marietta
+
+KS	Greensburg
+
+NM	San Lorenzo
+
+TX	Alief
+
+OH	Fremont
+
+MI	New Buffalo
+
+WI	Rhinelander
+
+CA	Los Angeles
+
+NY	Stormville
+
+CA	Roseville
+
+CA	Northridge
+
+MO	Cape Girardeau
+
+GA	Midway
+
+WI	Laona
+
+FL	Pine Castle
+
+CO	Windsor
+
+TX	San Antonio
+
+MD	Timonium
+
+SC	Cheraw
+
+MD	Pasadena
+
+CA	Norco
+
+CA	N Hollywood
+
+MO	Kingdom City
+
+KS	Junction City
+
+PA	Leetsdale
+
+MI	Farmington Hills
+
+CA	Hemet
+
+GA	Cedartown
+
+MO	Strasburg
+
+HI	Honolulu
+
+NH	North Hampton
+
+CA	Castro Valley
+
+MS	Morton
+
+FL	Weston
+
+NY	Brooklyn
+
+CT	Willimantic
+
+OR	Canby
+
+NJ	Marlboro
+
+MN	Eden Prairie
+
+NY	New York
+
+AL	Mobile
+
+PA	Westwood Heights
+
+AZ	Bowie
+
+CO	Denver
+
+PA	Telford
+
+CA	Union City
+
+GA	Arlington
+
+AZ	Maryvale
+
+WA	Seattle
+
+IL	Chicago
+
+MI	Grand Rapids
+
+TX	Bedford
+
+KS	Newton
+
+NA	NA
+
+PA	Peckville
+
+VA	Charlottesville
+
+TX	Lubbock
+
+NY	Brooklyn
+
+OH	Cincinnati
+
+IN	Salem
+
+VT	Townshend
+
+FL	Miami
+
+IA	Sioux City
+
+NA	NA
+
+MA	Becket
+
+VT	Berlin
+
+KS	Lewis
+
+VA	Falls Church
+
+TN	North Knoxville
+
+CA	San Quentin
+
+VA	Barboursville
+
+TN	Spencer
+
+CA	San Francisco
+
+CA	Inland Empire
+
+MI	Holland
+
+CA	Brea
+
+PA	King of Prussia
+
+TX	Aldine
+
+AZ	Phoenix
+
+TX	San Marcos
+
+AZ	Sierra Vista
+
+CA	Daly City
+
+MD	Indian Head
+
+MO	Gladstone
+
+NJ	Phillipsburg
+
+ME	Bangor
+
+PA	Delaware Water Gap
+
+FL	Homestead
+
+MA	Plymouth
+
+WA	Union Gap
+
+MS	Yazoo City
+
+PA	East Falls
+
+CA	Calipatria
+
+NY	New York
+
+NC	Greensboro
+
+ME	Princeton
+
+AK	Anchorage
+
+TX	Orla
+
+OH	Cleveland
+
+PA	Mount Lebanon
+
+SC	Fountain Inn
+
+KS	Leavenworth
+
+MN	Waconia
+
+OR	Beaverton
+
+OH	Akron
+
+DC	Chevy Chase
+
+MI	Levering
+
+GA	Brooklet
+
+OH	Wapakoneta
+
+NJ	Glen Gardner
+
+WI	DeForest
+
+SC	Tamassee
+
+TX	Porter
+
+GA	Cartersville
+
+FL	Westchester
+
+MA	Southampton
+
+MA	Beverly
+
+VA	Gainesville
+
+WI	Trevor
+
+TX	Cypress
+
+CT	New Milford
+
+GA	Warrenton
+
+IL	Waukegan
+
+VA	Hampton Roads
+
+IL	Momence
+
+IA	Denison
+
+CA	Lockeford
+
+NY	Lake Grove
+
+CA	East Bay
+
+AL	McCalla
+
+WA	Federal Way
+
+MA	Cambridge
+
+TX	McAllen
+
+MD	Patuxent
+
+PA	Indiana
+
+CA	Fresno
+
+NC	Charlotte
+
+MO	St. Louis
+
+NC	Charlotte
+
+NY	Long Beach
+
+CA	San Diego
+
+TX	Kerrville
+
+WI	Chippewa Falls
+
+MO	Lockwood
+
+PA	Philadelphia
+
+PA	Kennedy Township
+
+OK	Okeene
+
+MA	Chestnut Hill
+
+CA	Dublin
+
+WV	Williamstown
+
+CA	Kern
+
+WI	Wisconsin Rapids
+
+MA	South Walpole
+
+IL	Mundelein
+
+PA	Folsom
+
+VA	Richmond
+
+AZ	Gold Canyon
+
+NJ	Marlboro
+
+WA	Mount Vernon
+
+SC	Anderson
+
+OH	Beach City
+
+CA	Gardena
+
+AK	Noorvik
+
+TX	Laredo
+
+TX	Waco
+
+WY	Newcastle
+
+MN	Roseville
+
+MO	Versailles
+
+MA	Bedford
+
+FL	Gainesville
+
+ME	Westbrook
+
+CA	Chino
+
+GA	Cumming
+
+OR	Canby
+
+MD	Baltimore
+
+ID	Sugar City
+
+MO	Unionville
+
+TX	Dallas-Fort Worth
+
+MI	Plymouth
+
+IN	Indianapolis
+
+VA	Mount Jackson
+
+NV	Nellis AFB
+
+UT	Dugway Proving Ground
+
+SC	N Charleston
+
+NJ	Bridgewater
+
+MN	Minneapolis
+
+CA	Burlingame
+
+OH	Lebanon
+
+IN	Kokomo
+
+AL	Tuscumbia
+
+UT	Brigham City
+
+TX	Puerto Rico
+
+NY	North Salem
+
+PA	Mill Grove
+
+TN	Fairview
+
+PA	Bainbridge
+
+AL	Linden
+
+DE	Bridgeville
+
+IA	Des Moines
+
+OH	North Baltimore
+
+WI	Boscobel
+
+PA	York
+
+NY	Liverpool
+
+OH	Dublin
+
+IN	Gary
+
+MA	Sommerville
+
+NY	Bloomfield
+
+NY	Bronx
+
+FL	Spring Hill
+
+FL	Naples
+
+IL	Lake
+
+NJ	Township of Delran
+
+FL	Clewiston
+
+LA	Laplace
+
+UT	Salt Lake City
+
+OH	Toledo
+
+MN	Saint Paul
+
+GA	Norcross
+
+PA	Thorndale
+
+CA	Hayward
+
+PA	Glenmoore
+
+TX	Rusk
+
+NY	Palmyra
+
+AL	Troy
+
+MA	Needham Heights
+
+IN	Marion
+
+AR	Fort Smith
+
+OK	Durant
+
+ME	Windham
+
+MI	Auburn Hills
+
+PA	Indiana
+
+CA	Los Angeles
+
+OH	Dublin
+
+TX	Houston
+
+FL	Amelia Island
+
+IL	Elmwood Park
+
+CA	Pasadena
+
+UT	Salt Lake City
+
+OH	Cleveland
+
+ND	Galesburg
+
+IN	Shipshewana
+
+MD	Salisbury
+
+PA	Harrisville
+
+PA	Glen Rock
+
+KS	Newton
+
+OH	Cambridge
+
+MO	Holts Summit
+
+VA	Norfolk
+
+CA	Oakland
+
+KY	Robards
+
+CA	Corning
+
+CA	Nevada City
+
+OH	Solon
+
+MA	Westborough
+
+NY	Locust Valley
+
+ME	Fairfield
+
+OR	Roseburg
+
+KS	Louisburg
+
+TX	San Marcos
+
+GA	Southeast
+
+ME	Westbrook
+
+NC	Little Switzerland
+
+MO	Fenton
+
+MI	Sterling Heights
+
+TN	Gates
+
+TX	Dallas-Fort Worth
+
+MN	Annandale
+
+NA	NA
+
+NY	Albany
+
+MI	Shelby Charter Township
+
+NY	New York
+
+GA	Peachtree City
+
+CA	New Cuyama
+
+MI	Holly
+
+CA	West Covina
+
+RI	Warwick
+
+PA	Pittsburgh
+
+PA	Edwardsville
+
+PA	Tidioute
+
+CA	Hoopa Valley
+
+CO	Breckenridge
+
+PA	Christiana
+
+NC	Charlotte
+
+CA	San Francisco
+
+FL	Mims
+
+VA	Wise
+
+KY	Rural
+
+MD	California
+
+NJ	Spotswood
+
+MI	Kinderhook
+
+VT	Ascutney
+
+VA	Carrollton
+
+WA	Bremerton
+
+AL	Birmingham
+
+OH	Marion
+
+FL	Oviedo
+
+OH	Painesville
+
+FL	Daytona Beach
+
+CA	Del Mar
+
+OH	Columbus
+
+NY	Monticello
+
+TX	Greenville
+
+FL	Lake Alfred
+
+TX	Catarina
+
+KY	Silver Grove
+
+MD	Deep Creek
+
+PA	Cheltenham
+
+AL	Slocomb
+
+TX	Laredo
+
+VA	Hanover
+
+CA	Madera
+
+MD	Lavale
+
+FL	Parkland
+
+FL	Miami
+
+NJ	Columbus
+
+WA	Tacoma
+
+TX	Fort Worth
+
+TX	Austin
+
+AL	Tuscumbia
+
+SC	Greer
+
+TX	Coppell
+
+IL	Crest Hill
+
+CA	Palo Alto
+
+DE	Selbyville
+
+CA	Los Altos
+
+NY	New York
+
+IL	Lake Zurich
+
+OH	Cleveland
+
+FL	Miami
+
+WI	Kohler
+
+MA	Blandford
+
+HI	Honolulu
+
+IL	Cherry Valley
+
+MO	Southwest City
+
+MO	Lee's Summit
+
+FL	Aventura
+
+NY	Harlem
+
+PA	Strafford
+
+NC	Durham
+
+IN	Indianapolis
+
+IN	Madison
+
+FL	Lakeland
+
+FL	Fort Myers
+
+IL	Niles
+
+IL	Port Byron
+
+IL	Chicago
+
+TX	Amarillo
+
+MA	Boston
+
+KY	Benton
+
+NJ	Emerson
+
+WA	Kent
+
+AZ	Avondale
+
+MI	Canton
+
+CA	Sunnyvale
+
+PA	Dallastown
+
+OK	Kingston
+
+AL	Safford
+
+IA	West Branch
+
+NH	Exeter
+
+MA	Boston
+
+CA	Carson
+
+MD	Nottingham
+
+MD	Frederick
+
+KS	Leavenworth
+
+FL	Jacksonville
+
+IL	Springfield
+
+MI	Algonac
+
+NM	Santa Teresa
+
+MT	Miles City
+
+KS	Wellington
+
+OR	Portland
+
+WI	Luck
+
+TN	Jasper
+
+MA	Woburn
+
+ID	Rupert
+
+MN	Minnesota Lake
+
+IN	Centerville
+
+AL	Columbia
+
+WI	Somers
+
+NJ	Milltown
+
+IN	Knox
+
+NC	Durham
+
+NE	Valentine
+
+MA	Cambridge
+
+OH	Columbus
+
+OH	Nelsonville
+
+IL	Champaign
+
+MD	Brooklyn Park
+
+CT	Weston
+
+NY	Jamaica
+
+CA	Mira Mesa
+
+OH	Mount Orab
+
+KY	Shively
+
+MO	Platte City
+
+GA	Tucker
+
+MN	Hastings
+
+NC	Greensboro
+
+FL	Wildwood
+
+KY	Catlettsburg
+
+UT	Coalville
+
+PA	Waterford
+
+TX	Lubbock
+
+NV	Las Vegas
+
+KY	Calvert City
+
+MN	Madison Lake
+
+CT	Bethlehem
+
+NC	Ahoskie
+
+WA	Mount Vernon
+
+CT	Washington
+
+MI	Saginaw
+
+MD	Brooklandville
+
+FL	Orange Park
+
+GA	Atlanta
+
+CA	Los Angeles
+
+MN	Goodhue
+
+WA	Royal City
+
+ME	Portland
+
+NA	NA
+
+ME	South Paris
+
+MA	Newton Upper Falls
+
+NC	Fletcher
+
+WI	Milwaukee
+
+KS	Westwood
+
+MA	Boston
+
+NC	Dallas
+
+CT	Durham
+
+LA	Natchitoches
+
+AL	Tallassee
+
+NY	Port Jefferson
+
+NC	Myers Park
+
+NY	New York
+
+MI	Grand Rapids
+
+FL	Punta Gorda
+
+MI	Metamora
+
+PA	Folsom
+
+IL	Naperville
+
+IA	Clear Lake
+
+OH	Mentor
+
+IN	Inwood
+
+NC	Charlotte
+
+CA	Ontario
+
+IL	Berwyn
+
+NY	Hamlin
+
+TX	Rockdale
+
+ME	Freeport
+
+TX	Houston
+
+NJ	Elmer
+
+TX	Coppell
+
+NY	Queens
+
+MD	Brooklyn Park
+
+MN	Kasota
+
+MA	Littleton
+
+NJ	Ocean City
+
+NY	Delmar
+
+NC	Winston-Salem
+
+NY	Brooklyn
+
+NY	Brooklyn
+
+VA	Midlothian
+
+MI	Ann Arbor
+
+TN	Kingsport
+
+GA	Atlanta
+
+SD	Beresford
+
+TX	Waxahachie
+
+PA	Allentown/Bethlehem/Easton
+
+PA	Harrisburg
+
+IA	Cedar Rapids
+
+CA	Little Tokyo
+
+WV	Morgantown
+
+IN	Evansville
+
+WI	Ettrick
+
+FL	Baker
+
+OH	Cincinnati
+
+FL	Palm Bay
+
+CA	Suisun City
+
+AR	Bearden
+
+MA	Medford
+
+UT	Salt Lake City
+
+SC	Summerville
+
+AZ	El Mirage
+
+MD	Annapolis
+
+PA	Wynnewood
+
+CA	Clio
+
+AZ	Tucson
+
+MI	Hudson
+
+AL	Gardendale
+
+TN	Carthage
+
+AL	Birmingham
+
+SC	Rock Hill
+
+NJ	Atco
+
+NJ	Allenhurst
+
+IN	Arcadia
+
+NJ	Freehold
+
+GA	College Park
+
+WI	Kaukauna
+
+WV	Hamlin
+
+MI	Quincy
+
+TX	Conroe
+
+IL	Chicago
+
+IA	Fort Dodge
+
+PA	Bethel Park
+
+NJ	Township of Monroe
+
+FL	Orlando
+
+TN	Erin
+
+ND	Fargo
+
+TN	Nashville
+
+CO	Aurora
+
+IN	Avilla
+
+MD	Frederick
+
+PA	Uniontown
+
+GA	Atlanta
+
+CA	Antioch
+
+KS	Coldwater
+
+CA	Azusa
+
+KY	Bowling Green
+
+NY	Hunts Point
+
+ME	Presque Isle
+
+ID	Homedale
+
+UT	Orem
+
+WA	Sammamish
+
+IN	Jeffersonville
+
+MN	Minneapolis-Saint Paul
+
+IN	Rushville
+
+MI	Woodland
+
+MA	Worcester
+
+NC	Raleigh-Durham
+
+TX	Laredo
+
+NY	Penfield
+
+FL	Miami
+
+CA	Downey
+
+NJ	Newark
+
+NY	Getzville
+
+TX	Shamrock
+
+IN	Cumberland
+
+TX	Lufkin
+
+VA	Spotsylvania
+
+NY	Bronx
+
+PA	Pittsburgh
+
+PA	Huntingdon Valley
+
+CA	Apple Valley
+
+CA	Antioch
+
+TX	Lubbock
+
+WY	Torrington
+
+NH	Acworth
+
+FL	Jacksonville
+
+GA	Douglasville
+
+AZ	Phoenix
+
+MN	Rush City
+
+PA	Horsham
+
+CA	Ione
+
+NY	North Tonawanda
+
+CA	Live Oak
+
+TN	Lawrenceburg
+
+NC	Newton
+
+CA	Williams
+
+FL	Okeechobee
+
+FL	Longwood
+
+CA	Los Gatos
+
+IA	Ackworth
+
+AR	Mansfield
+
+KY	Louisville
+
+PA	Pleasant Hills
+
+ND	Mandan
+
+CT	Beacon Falls
+
+NY	Port Jefferson
+
+IL	Gillespie
+
+MS	Etta
+
+MS	Philadelphia
+
+CA	Roseville
+
+UT	Hyde Park
+
+CO	Colorado Springs
+
+NY	Bethpage
+
+MD	Bethesda
+
+NC	Charlotte
+
+CA	San Francisco Bay Area
+
+TX	Mount Vernon
+
+UT	Riverton
+
+GA	Gillsville
+
+MA	South Yarmouth
+
+NY	Bedford Hills
+
+VA	Amherst
+
+VT	Rutland
+
+WI	Jefferson
+
+IL	Millington
+
+TX	El Paso
+
+ME	Randolph
+
+MD	Crisfield
+
+IL	Bedford Park
+
+TX	Richland Hills
+
+CT	Portland
+
+NY	Greenlawn
+
+MO	Earth City
+
+RI	Newport
+
+DE	Wilmington
+
+GA	Franklin
+
+IN	Seymour
+
+IN	Indianapolis
+
+NY	Dobbs Ferry
+
+PA	Neshaminy
+
+CA	Los Angeles
+
+IN	Fairland
+
+PA	York Haven
+
+NY	Troy
+
+OH	Troy
+
+MA	Worcester
+
+MI	Clawson
+
+MN	Hermantown
+
+PA	Wexford
+
+NC	Raleigh-Durham
+
+NJ	Oradell
+
+NA	NA
+
+NJ	Little Silver
+
+TX	Amarillo
+
+TX	San Antonio
+
+IL	Spring Valley
+
+IL	Harvard
+
+PA	Ephrata
+
+UT	Lindon
+
+GA	Hinesville
+
+MA	Randolph
+
+OH	Tiffin
+
+WI	Prairie du Chien
+
+NJ	Bellmawr
+
+WI	Brookfield
+
+NC	Brookwood
+
+FL	Treasure Island Beach
+
+NY	Severance
+
+GA	Cumming
+
+WA	Moxee
+
+SC	Ware Shoals
+
+IL	Elgin
+
+WI	Iron Ridge
+
+TX	Houston
+
+NY	New York
+
+ME	Skowhegan
+
+MO	Jefferson City
+
+IA	Ames
+
+IL	Saint Charles
+
+IL	Dwight
+
+NY	Oriskany
+
+PA	Newville
+
+MI	New Baltimore
+
+NY	Levittown
+
+MS	Walls
+
+WI	Menasha
+
+FL	Coconut Creek
+
+CA	West Hollywood
+
+CO	Denver
+
+NY	Lake Grove
+
+CA	Del Mar
+
+TX	Austin
+
+TN	White Bluff
+
+MO	Moberly
+
+WI	Milwaukee
+
+FL	Coral Springs
+
+NY	West Hempstead
+
+RI	Providence
+
+PA	Southampton
+
+TN	Crossville
+
+VA	Clintwood
+
+IL	Lincoln Park
+
+CA	Apple Valley
+
+NJ	Linden
+
+CA	Gardena
+
+CA	Caruthers
+
+TX	Amarillo
+
+NY	Webster
+
+NJ	Saddle Brook
+
+CA	San Diego
+
+MN	Saint Paul
+
+NH	North Hampton
+
+GA	Atlanta
+
+AL	Geneva
+
+NV	Las Vegas
+
+NJ	Long Branch
+
+TX	Pearland
+
+CO	Lamar
+
+DE	Rehoboth Beach
+
+AL	Orange Beach
+
+IL	Franklin Park
+
+IA	Sioux City
+
+IA	Humboldt
+
+FL	Orlando
+
+CA	Lennox
+
+NJ	Allenhurst
+
+NY	Medford
+
+TX	Shoreacres
+
+IA	Ankeny
+
+IA	DeWitt
+
+IL	Dunning
+
+IL	Chicago
+
+IN	Union
+
+FL	Wesley Chapel
+
+CA	San Jose
+
+MN	Centerville
+
+VA	Galax
+
+NC	Woodfin
+
+OH	Dublin
+
+MS	West Point
+
+KS	Olathe
+
+CA	North Hollywood
+
+NJ	South Orange
+
+GA	Brunswick
+
+GA	Barnesville
+
+MD	Halethorpe
+
+MO	Fulton
+
+NC	Whitsett
+
+AZ	Elfrida
+
+NJ	Little York
+
+NY	Hawthorne
+
+TN	Bean Station
+
+UT	Daybreak
+
+FL	Saint Petersburg
+
+MA	Marlborough
+
+NJ	Princeton
+
+ND	Keene
+
+MD	Silver Spring
+
+IL	Gilberts
+
+MD	Hanover
+
+IL	Saline
+
+MI	Chesterfield
+
+GA	Columbus
+
+CA	Westchester
+
+IL	Amboy
+
+OR	Winston
+
+MI	Detroit
+
+CT	Unionville
+
+WI	Fredonia
+
+AL	Mobile
+
+KY	Whitesburg
+
+KS	Mulvane
+
+TX	Wickett
+
+KS	Ness City
+
+FL	Arcadia
+
+NH	Milford
+
+NY	Carmel
+
+CA	Turlock
+
+CA	San Francisco Bay Area
+
+DC	Washington
+
+CA	Toluca Lake
+
+MO	Troy
+
+CA	Fremont
+
+NC	Monroe
+
+CA	Oakland
+
+CA	Irvine
+
+GA	Marietta
+
+VA	Front Royal
+
+CA	Moss Landing
+
+NC	Raleigh
+
+FL	Alva
+
+OH	Sandusky
+
+WY	Cheyenne
+
+NH	Weare
+
+VA	Manassas
+
+WI	Crivitz
+
+IA	Des Moines
+
+NC	Welcome
+
+MI	Grand Rapids
+
+MI	Saginaw
+
+CA	Los Angeles
+
+NY	Orchard Park
+
+NH	Tamworth
+
+DE	Marydel
+
+NY	New York
+
+NJ	Manasquan
+
+MI	Lansing
+
+NE	Waterloo
+
+NY	Syracuse
+
+MA	Groton
+
+TX	Kingwood
+
+RI	Cumberland
+
+SC	Gaffney
+
+CA	Castro Valley
+
+PA	Norristown
+
+WA	Mukilteo
+
+GA	Carrollton
+
+CT	Rocky Hill
+
+MO	Republic
+
+WI	Menomonee Falls
+
+WV	Vienna
+
+NY	Purchase
+
+MN	Madison Lake
+
+CA	Jackson
+
+KS	Shawnee
+
+NJ	Gibbstown
+
+IN	Portage
+
+TX	Lago Vista
+
+TN	Bulls Gap
+
+NC	Charlotte
+
+IL	Lake Zurich
+
+SC	Aiken
+
+GA	Dahlonega
+
+NC	Canton
+
+CA	New Cuyama
+
+NJ	Mount Laurel
+
+AR	Lowell
+
+CA	Kenwood
+
+VT	Castleton
+
+NY	Chappaqua
+
+PA	Mount Joy
+
+WA	Walla Walla
+
+FL	Bradenton
+
+OH	Columbus
+
+ND	Fargo
+
+FL	Boca Raton
+
+MD	Boyds
+
+AL	Theodore
+
+IN	Whitestown
+
+PA	Mars
+
+NE	Kimball
+
+OK	Comanche
+
+TX	Houston
+
+IL	Bourbonnais
+
+OR	Gladstone
+
+NJ	Lumberton
+
+CA	Miramar
+
+UT	Herriman
+
+KY	Lexington
+
+OR	Salem
+
+NJ	Trenton
+
+NC	Winston-Salem
+
+NY	Freeville
+
+SC	Cayce
+
+MN	Minneapolis
+
+KS	Fort Riley
+
+TN	Greenbrier
+
+CA	Moorpark
+
+ID	Challis
+
+CA	Livermore
+
+MA	Ashburnham
+
+NY	Taberg
+
+CA	Salinas
+
+WI	Slinger
+
+LA	New Orleans
+
+CA	Orange
+
+IL	Rock Falls
+
+TX	Houston
+
+MD	Columbia
+
+IN	Goshen
+
+ME	Bridgton
+
+CA	Bakersfield
+
+NY	Jeffersonville
+
+AL	Florence
+
+MA	West Townsend
+
+OH	Pioneer
+
+OH	Dayton
+
+SC	McBee
+
+VA	Norfolk
+
+PA	Pleasant Gap
+
+FL	Lake Alfred
+
+OK	Tulsa
+
+CA	Santa Ana
+
+GA	Senoia
+
+MA	Amesbury
+
+MS	Canton
+
+TN	Davidson
+
+CA	San Carlos
+
+MI	Detroit
+
+NJ	Browns Mills
+
+UT	Kanab
+
+NJ	Holmdel
+
+SC	Charleston AFB
+
+KY	Clinton
+
+GA	Pretoria
+
+MI	Saint Ignace
+
+FL	Clarksville
+
+OH	Dublin
+
+NJ	Readington
+
+WA	Burlington
+
+NY	Rochester
+
+MN	Chaska
+
+CA	Alhambra
+
+ND	Thompson
+
+IL	Hoffman Estates
+
+NJ	Bergen
+
+WI	Oconto
+
+VA	Halifax
+
+WA	Omak
+
+FL	Miami
+
+OH	Kenwood
+
+CO	Pueblo West
+
+IA	Des Moines
+
+NC	Roxboro
+
+NJ	Chester
+
+ND	Bismarck
+
+GA	Morrow
+
+NC	Hickory
+
+TX	Humble
+
+FL	Miami
+
+AL	Calvert
+
+AR	Junction City
+
+IL	Shelbyville
+
+IA	West Union
+
+IA	Oelwein
+
+NY	Bergen
+
+AR	Calico Rock
+
+OH	Vandalia
+
+ME	Biddeford
+
+NE	Millard
+
+LA	Baton Rouge
+
+PA	Plymouth Meeting
+
+NV	Summerlin
+
+CA	Laguna
+
+WI	Madison
+
+VA	McLean
+
+GA	Jonesboro
+
+MI	Wixom
+
+RI	North Providence
+
+MN	Woodbury
+
+NY	Nesconset
+
+CA	Vallejo
+
+MN	Eagan
+
+FL	Coconut Creek
+
+IN	Culver
+
+MI	Marne
+
+IL	Chicago
+
+VA	Natural Bridge Station
+
+WA	Lake Forest Park
+
+NE	Blair
+
+CA	Foster City
+
+OH	Litchfield
+
+PA	Clifton Heights
+
+MN	Benson
+
+FL	Saint Augustine
+
+CA	Olympic Valley
+
+MO	Springfield
+
+PA	Freeport
+
+NY	Athens
+
+MA	West Wareham
+
+MD	Rockville
+
+GA	Blue Ridge
+
+AL	Oneonta
+
+NY	Maybrook
+
+IL	Chicago
+
+TX	Brownwood
+
+GA	Commerce
+
+AZ	Gilbert
+
+OR	Junction City
+
+CA	San Diego
+
+PA	Spring Mills
+
+RI	Coventry
+
+WV	Triadelphia
+
+AL	Guntersville
+
+NV	Las Vegas
+
+RI	Exeter
+
+OH	Dayton
+
+IL	Machesney Park
+
+PA	Chadds Ford
+
+NJ	Metuchen
+
+MO	Kansas City
+
+NY	Carthage
+
+MA	Groton
+
+VA	Korea
+
+CA	San Francisco
+
+MN	Sherburn
+
+OH	Massillon
+
+WV	Eleanor
+
+CA	Tracy
+
+IL	Rockford
+
+KY	Louisville
+
+WA	Everett
+
+NJ	Hackensack
+
+MA	Boston
+
+MA	Pittsfield
+
+RI	Providence
+
+MN	Saint James
+
+UT	Heber
+
+WI	Delafield
+
+CA	Palo Alto
+
+CA	Needles
+
+CA	Newark
+
+IA	Clarion
+
+NH	Nashua
+
+TX	Harker Heights
+
+NY	Severance
+
+CA	San Mateo
+
+CT	Yantic
+
+CA	Rancho Santa Fe
+
+WI	Brown Deer
+
+AZ	Sedona
+
+PA	Pittsburgh
+
+FL	Sarasota
+
+KY	Brandenburg
+
+MN	Center City
+
+DC	Washington
+
+TX	Dallas
+
+GA	Haddock
+
+TX	Allen
+
+PA	Dornsife
+
+MA	Newton
+
+CA	Milpitas
+
+VA	Richmond
+
+NJ	Morris Plains
+
+MA	Groton
+
+NC	Charlotte
+
+MO	Osage Beach
+
+UT	Salt Lake City
+
+TN	Oak Ridge
+
+PA	Tioga
+
+IL	Rochelle
+
+TX	McAllen
+
+OR	Tigard
+
+IL	Lake Zurich
+
+CA	San Jose
+
+IN	Winona Lake
+
+MS	Cleveland
+
+NJ	Hamilton
+
+PA	Shiremanstown
+
+CA	Cerritos
+
+IN	Sellersburg
+
+UT	Corinne
+
+NC	Sylva
+
+AL	Cherokee
+
+WI	Waukesha
+
+MN	Milaca
+
+NJ	Strathmore
+
+CO	Divide
+
+TX	Kingwood
+
+PA	Pittsburgh
+
+WA	Lynnwood
+
+OH	Brookville
+
+MD	Point of Rocks
+
+TX	Highlands
+
+IL	Niles
+
+NY	Warrensburg
+
+NY	Great Neck
+
+IL	Shiloh
+
+TX	White Oak
+
+FL	Dundee
+
+NY	Long Island City
+
+DE	New Castle
+
+NY	New York
+
+NC	Greensboro
+
+NY	Paul Smiths
+
+NV	Las Vegas
+
+AR	Mansfield
+
+MA	Amesbury
+
+NY	Fishkill
+
+TX	Lackland AFB
+
+MI	Ithaca
+
+GA	Riverdale
+
+MD	Clinton
+
+MD	Clinton
+
+UT	Uintah
+
+TX	Humble
+
+OH	Saint Henry
+
+ID	Arco
+
+CA	Weed
+
+MO	Affton
+
+WI	Madison
+
+ND	Fargo
+
+MS	Edwards
+
+PA	Milford
+
+TX	Kingsville
+
+NH	Newton
+
+WV	Martinsburg
+
+MN	East Chain
+
+TX	Rockport
+
+DC	Washington
+
+PA	Versailles
+
+CT	Killingly
+
+MO	Jefferson City
+
+OH	Cuyahoga Falls
+
+TX	Humble
+
+ME	Saco
+
+CA	Los Angeles
+
+IN	Paoli
+
+NY	Macedon
+
+CA	Rancho Cucamonga
+
+LA	Ponchatoula
+
+CA	Los Angeles
+
+NY	Bohemia
+
+HI	Honolulu
+
+OH	Portsmouth
+
+WI	Ashwaubenon
+
+IA	Cedar Rapids
+
+CA	Downey
+
+VA	Rocky Mount
+
+KS	Shawnee Mission
+
+PA	Ephrata
+
+PA	Butler
+
+TX	Austin
+
+FL	Sky Lake
+
+FL	ChampionsGate
+
+LA	Lake Charles
+
+PA	Palmerton
+
+AZ	Tucson
+
+WA	Pe Ell
+
+VA	Norfolk
+
+FL	North Lauderdale
+
+MI	Caledonia
+
+TN	Smithville
+
+CA	Lawndale
+
+NJ	North Brunswick
+
+PA	Leesport
+
+GA	Duluth
+
+PA	Versailles
+
+NY	Patterson
+
+VA	Rockville
+
+MS	Parchman
+
+NY	Oceanside
+
+WA	Enumclaw
+
+PA	Butler
+
+AR	Atkins
+
+CO	Evans
+
+OH	Bloomdale
+
+VA	Richmond
+
+KS	Emporia
+
+IL	River Grove
+
+UT	Park City
+
+NY	Perry
+
+NC	Mill Spring
+
+AL	Mobile
+
+PA	Brookville
+
+MS	Madison
+
+CA	Santa Ana
+
+MI	Bingham Farms
+
+TX	La Grange
+
+NY	Bronx
+
+NJ	Bayway
+
+NE	Omaha
+
+IA	West Liberty
+
+WY	Jackson
+
+AZ	Tempe
+
+NY	Northport
+
+IN	Schererville
+
+OH	Utica
+
+NJ	Blackwood
+
+IL	Joliet
+
+AZ	Lakeside
+
+FL	Sarasota
+
+OH	Bay Village
+
+MN	Winsted
+
+MO	Trimble
+
+TX	Houston
+
+NE	Papillion
+
+PA	Garnet Valley
+
+WI	Oshkosh
+
+IL	Bolingbrook
+
+IL	Highland
+
+FL	Middleburg
+
+CA	Fresno
+
+MA	Westfield
+
+MD	Gaithersburg
+
+WA	Alderwood
+
+NY	Trumansburg
+
+VT	Wilmington
+
+IL	Walnut
+
+CO	Buckley AFB
+
+NY	Yorktown Heights
+
+NJ	Lebanon
+
+IA	Ames
+
+CA	Woodland Hills
+
+IN	Rushville
+
+TX	Hallettsville
+
+ME	Bowdoin
+
+TX	Houston
+
+NC	Shelby
+
+AL	Barton
+
+TX	Houston
+
+NC	Rosman
+
+CT	Farmington
+
+GA	Winterville
+
+OH	Cincinnati
+
+NY	Trumansburg
+
+TN	Lakeland
+
+VA	Chester
+
+GA	Norcross
+
+MD	Westminster
+
+LA	Lafayette
+
+MD	Gaithersburg
+
+TN	Wartburg
+
+OH	Garfield Heights
+
+NY	Amenia
+
+FL	City of Sunrise
+
+WA	Kent
+
+GA	Atlanta
+
+KS	North Newton
+
+NY	Armonk
+
+TX	Houston
+
+NY	Harriman
+
+CA	Healdsburg
+
+CA	San Francisco Bay Area
+
+MN	Wilmont
+
+WI	Menomonee Falls
+
+OK	Hennessey
+
+CA	Costa Mesa
+
+MN	Edina
+
+PA	Freeport
+
+CA	Hawaiian Gardens
+
+VA	Leesburg
+
+MA	Woburn
+
+MA	Westwood
+
+NJ	West Caldwell
+
+PA	York
+
+MO	Springfield
+
+IN	Colfax
+
+MA	Boston
+
+KY	Florence
+
+CA	Delano
+
+IN	New Albany
+
+AL	Albertville
+
+PA	Turbotville
+
+MI	Tawas City
+
+MA	Wakefield
+
+AL	Montgomery
+
+NJ	Morganville
+
+IL	Harvard
+
+CA	Thousand Oaks
+
+TN	McKenzie
+
+NC	Arden
+
+NJ	Annandale
+
+WA	Newcastle
+
+VA	Forest Hills
+
+NY	West Hempstead
+
+WY	Lovell
+
+CA	Simi Valley
+
+IN	Winona Lake
+
+MA	Boxborough
+
+GA	Hazlehurst
+
+MI	Baroda
+
+AL	Steele
+
+FL	Palm Coast
+
+PA	Schuylkill
+
+MA	Bedford
+
+NJ	Green Knoll
+
+CA	Newark
+
+CA	La Jolla
+
+MI	Riverview
+
+UT	Logan
+
+OH	Cincinnati
+
+NY	Levittown
+
+TX	Grand Prairie
+
+LA	Arcadia
+
+WI	Madison
+
+MA	Natick
+
+OR	Roseburg
+
+PA	Collingdale
+
+CA	Fremont
+
+MA	Lakeville
+
+PA	Walnutport
+
+AL	Falconhead
+
+AZ	Navajo
+
+MO	Eolia
+
+AL	Anniston
+
+KY	Zandale
+
+WA	Selah
+
+NY	New York
+
+OR	Brookings
+
+MA	Newburyport
+
+IL	Swansea
+
+KY	Greenup
+
+VA	Norfolk
+
+NM	Santa Fe
+
+GA	Alpharetta
+
+CA	Lincoln
+
+NC	Pembroke
+
+SC	Piedmont
+
+SC	Hollywood
+
+NY	Jamaica
+
+CA	Bakersfield
+
+PA	Ridgway
+
+SC	Greenville
+
+MD	Hagerstown
+
+PA	Akron
+
+NY	Buffalo
+
+NY	Bayport
+
+NC	Manson
+
+NC	Marion
+
+NJ	Elizabeth
+
+GA	Ellabell
+
+CA	Hawthorne
+
+MS	McComb
+
+FL	Miramar Beach
+
+CA	Newport Beach
+
+MD	Arbutus
+
+HI	‚ÄòEwa Beach
+
+NC	Havelock
+
+NM	Corrales
+
+NY	Brooklyn
+
+CA	Los Angeles
+
+WY	Kaycee
+
+TX	Burleson
+
+NC	Bald Head Island
+
+NJ	West Freehold
+
+NY	Patchogue
+
+NY	Guilderland Center
+
+NY	Goshen
+
+MO	Lebanon
+
+NV	Las Vegas
+
+TN	Knoxville
+
+NJ	Port Reading
+
+NJ	Trenton
+
+TX	Sulphur Springs
+
+IL	Normal
+
+MO	Ballwin
+
+OK	Pocola
+
+HI	Hawai‚Äòi Kai
+
+NJ	Avenel
+
+TN	Nashville
+
+NC	Charlotte
+
+OR	Ontario
+
+GA	Summerville
+
+IN	Peru
+
+NY	Manhattan
+
+MA	Boston
+
+IL	DeKalb
+
+NY	Williamsville
+
+OR	Salem
+
+IL	Chicago
+
+OH	New Lexington
+
+PA	Shadyside
+
+NV	Carson City
+
+ME	Lewiston
+
+ME	Newport
+
+MI	Southgate
+
+NY	Goshen
+
+IN	Pendleton
+
+FL	Deerfield Beach
+
+IN	Gosport
+
+NJ	Basking Ridge
+
+CT	Andover
+
+MN	Glyndon
+
+TX	Arlington
+
+GA	Experiment
+
+HI	Kalihi
+
+CA	Santa Rosa
+
+IL	Palatine
+
+NJ	Smithville
+
+CA	Anaheim
+
+MN	Minneapolis
+
+NY	Pomona
+
+IA	Davenport
+
+TX	West Odessa
+
+UT	Salt Lake City
+
+MA	Indian Orchard
+
+WV	Athens
+
+OH	Martins Ferry
+
+MO	St. Louis
+
+NJ	Woodstown
+
+WA	Tacoma
+
+FL	Jacksonville
+
+TX	Diboll
+
+NC	Graham
+
+VA	Smithfield
+
+KY	Lebanon Junction
+
+PA	Wyoming Valley
+
+WA	Mukilteo
+
+KS	Overland Park
+
+NJ	Buena
+
+TX	Crandall
+
+CO	Falcon
+
+IL	Joliet
+
+WI	Gleason
+
+NV	McCarran
+
+IA	Fort Dodge
+
+MO	St. Louis
+
+PA	Paoli
+
+MO	Queen City
+
+MA	Dartmouth
+
+GA	Lawrenceville
+
+NY	Cattaraugus
+
+TX	Katy
+
+MA	Franklin
+
+NY	Sag Harbor
+
+NH	Belmont
+
+NY	Long Island-Queens
+
+CA	San Francisco
+
+NY	New York
+
+OK	Pauls Valley
+
+OH	Dayton
+
+MD	New Windsor
+
+IA	Sioux City
+
+KY	Tompkinsville
+
+CA	Eureka
+
+MA	Canton
+
+MI	Lansing
+
+FL	Sunrise
+
+ID	Homedale
+
+TX	Bryan
+
+AL	Pell City
+
+IL	Gilman
+
+CA	San Jose
+
+GA	Haddock
+
+OR	La Grande
+
+MN	Welch
+
+IA	Clive
+
+IL	Effingham
+
+CT	Quaker Hill
+
+TX	Sulphur Springs
+
+MI	National City
+
+TX	San Antonio
+
+OH	Cleveland Heights
+
+MI	Auburn Hills
+
+TX	Dallas-Fort Worth
+
+MT	Corvallis
+
+CA	Temple City
+
+OR	Gales Creek
+
+NY	Canajoharie
+
+MI	Jasper
+
+SC	Rock Hill
+
+KY	Lebanon
+
+MA	New Bedford
+
+IL	Sparta
+
+WA	Bellevue
+
+MN	Brooklyn Center
+
+WA	Kelso
+
+WI	South Wayne
+
+KY	Louisville
+
+MS	Wesson
+
+AL	Mobile
+
+DE	Camden
+
+RI	North Kingstown
+
+OK	Elmore City
+
+TX	Cedar Hill
+
+MO	Boonville
+
+TX	Santa Fe
+
+CA	Huntington Beach
+
+MN	Franklin
+
+PA	Conneaut Lake
+
+CA	Foster City
+
+NM	Santa Teresa
+
+WA	Trinidad
+
+MI	Sanford
+
+KY	Shively
+
+PA	Pittsburgh
+
+NH	Plymouth
+
+PA	Springfield
+
+NH	East Wakefield
+
+KS	North Newton
+
+NH	North Haverhill
+
+GA	Atlanta
+
+MI	Bloomingdale
+
+NY	Westbury
+
+GA	Suwanee
+
+WI	Madison
+
+CA	San Fernando Valley
+
+MA	Buzzards Bay
+
+MS	Guntown
+
+NC	Reidsville
+
+IN	North Manchester
+
+PA	West Chester
+
+SC	Myrtle Beach
+
+AZ	Phoenix
+
+NJ	Roseland
+
+MN	Columbia Heights
+
+IL	Rock Falls
+
+CO	Fort Collins
+
+MI	Lansing
+
+TX	Houston
+
+IL	North Chicago
+
+TX	Frisco
+
+NC	Cherokee
+
+NY	Bronx
+
+MA	Athol
+
+NY	Stamford
+
+IA	Cedar Rapids
+
+TX	Sealy
+
+NY	Keene Valley
+
+CT	Wallingford
+
+CA	Apple Valley
+
+CA	Aliso Viejo
+
+AL	Florence
+
+NY	Whitestone
+
+VA	Richlands
+
+AZ	Flagstaff
+
+PA	Pocono Pines
+
+TX	Houston
+
+KY	Georgetown
+
+NY	Goshen
+
+FL	Panama City Beach
+
+GA	Glennville
+
+CA	Dinuba
+
+FL	Bradenton
+
+FL	Tampa
+
+IN	New Albany
+
+UT	Tooele
+
+FL	Daytona Beach
+
+HI	KƒÅne‚Äòohe Bay
+
+MA	North Grafton
+
+NJ	Cinnaminson
+
+NY	Plainview
+
+AL	Hamilton
+
+WI	Osseo
+
+CA	Coachella Valley
+
+NY	Medina
+
+NC	Brookwood
+
+IL	Effingham
+
+PA	Pittsburgh
+
+WA	Orondo
+
+MI	Davison
+
+VA	Alexandria
+
+KY	Glasgow
+
+PA	West Lawn
+
+NJ	Township of Brick
+
+TX	Austin
+
+VA	Harrisonburg
+
+AR	Beebe
+
+PA	Ross Township
+
+PA	Butler
+
+TX	San Benito
+
+CA	Fairfield
+
+FL	Lake Worth
+
+TN	Brentwood
+
+NY	Patchogue
+
+PA	Middlesex
+
+KY	Grand Rivers
+
+CA	Fresno
+
+CA	Concord
+
+TX	Crockett
+
+WI	Emerald
+
+TX	Humble
+
+IL	Seneca
+
+NY	Henrietta
+
+OH	Cincinnati
+
+AL	Vance
+
+MO	Saint Joseph
+
+CA	Granada Hills
+
+NJ	Belle Mead
+
+NY	College Point
+
+ME	South Berwick
+
+AR	Harrison
+
+FL	Lynn Haven
+
+WA	Benton City
+
+FL	Coral Springs
+
+NY	Fairport
+
+MT	Bozeman
+
+MI	Marlette
+
+NY	Manhattan
+
+ID	Jackson
+
+TN	Cordova
+
+WA	Leavenworth
+
+AL	Courtland
+
+WA	Moses Lake
+
+CA	Los Angeles
+
+NC	Nags Head
+
+NY	Long Beach
+
+NC	Cary
+
+TX	Irving
+
+CO	Westminster
+
+PA	Claysville
+
+NV	Primm
+
+RI	Newport
+
+MO	Mexico
+
+MA	Attleboro Falls
+
+OH	Waverly
+
+NY	Flushing
+
+CA	Sacramento
+
+KS	Basehor
+
+TN	Palmyra
+
+IL	Wood River
+
+PA	North Warren
+
+WV	Logan
+
+MD	Laurel
+
+VA	Merrimack Park
+
+OH	Lyndhurst
+
+ID	Ammon
+
+NY	Catskill
+
+AZ	Scottsdale
+
+OR	Tualatin
+
+CA	La Quinta
+
+WA	Everett
+
+OK	Tulsa
+
+IN	Lebanon
+
+NJ	Fort Lee
+
+KS	Haysville
+
+NY	Goshen
+
+MD	Germantown
+
+CA	Simi Valley
+
+WA	White Salmon
+
+NY	Auburn
+
+MO	Affton
+
+TX	Aransas Pass
+
+IL	Chicago
+
+NY	Geneseo
+
+MI	Glennie
+
+MA	Boston
+
+NJ	Morris Plains
+
+VT	Colchester
+
+WV	Kingwood
+
+PA	Malvern
+
+AZ	Phoenix
+
+NJ	Wayne
+
+NJ	North Cape May
+
+TX	Oyster Creek
+
+IN	Lafayette
+
+CA	Yountville
+
+MN	Coon Rapids
+
+TN	Antioch
+
+NJ	Avalon
+
+ND	Bismarck
+
+NY	Webster
+
+OR	La Grande
+
+MN	Woodbury
+
+TN	Waverly
+
+NC	Salisbury
+
+AZ	Phoenix
+
+MA	Foxborough
+
+TX	Pittsburg
+
+IL	Lincolnwood
+
+MN	Saint Paul
+
+TN	Camden
+
+PA	Philadelphia
+
+MN	Lonsdale
+
+WV	Alderson
+
+TX	Copperas Cove
+
+MA	Marshfield
+
+TX	Clear Lake City
+
+GA	Tucker
+
+MI	Flushing
+
+MD	White Hall
+
+MA	Webster
+
+SC	Moncks Corner
+
+CA	Burbank
+
+GA	Robins AFB
+
+MA	Winchester
+
+NE	Omaha
+
+NY	Germantown
+
+OR	Portland
+
+CO	Commerce City
+
+PA	Philadelphia
+
+MI	Jackson
+
+IN	Foresman
+
+CA	San Diego
+
+CT	Torrington
+
+CO	Colorado Springs
+
+VT	Brattleboro
+
+WA	Ocean Shores
+
+PA	Mill Grove
+
+CA	Santa Ana
+
+KS	Spring Hill
+
+IN	Shelbyville
+
+MI	Rives Junction
+
+PA	New Hope
+
+VA	Bedford
+
+PA	Washington
+
+TX	Flowermound
+
+KS	Lawrence
+
+CA	Rancho Cucamonga
+
+PA	North East
+
+TX	Holland
+
+ME	Unity
+
+IA	Osceola
+
+NY	New York
+
+PA	Philadelphia
+
+MA	Mount Hermon
+
+MA	Haverhill
+
+KS	Topeka
+
+FL	Orlando
+
+TX	Azle
+
+OH	Carroll
+
+CO	Glendale
+
+IN	Daleville
+
+TX	Odessa
+
+NY	New York
+
+GA	Brunswick
+
+MN	Roseville
+
+CA	Berkeley
+
+NC	Cherryville
+
+PA	Newville
+
+GA	Stockbridge
+
+UT	Moab
+
+IL	Bloomington
+
+WA	Bellevue
+
+CA	Mira Loma
+
+CA	Toluca Lake
+
+MS	Liberty
+
+NY	Liberty
+
+ME	South Freeport
+
+MI	Richland
+
+PA	Tipton
+
+TX	Burton
+
+MN	Paynesville
+
+NY	Watkins Glen
+
+AR	Desha
+
+VT	Bellows Falls
+
+MI	Brighton
+
+NC	Chapel Hill
+
+TX	Almeda
+
+MD	Millersville
+
+OH	Albany
+
+TX	Austin
+
+TN	Jonesborough
+
+KS	Fort Scott
+
+OH	New Philadelphia
+
+NY	Rochester
+
+FL	DeLand
+
+WI	Appleton
+
+OK	Oklahoma City
+
+TN	Brentwood
+
+CA	Irvine
+
+NH	Northfield
+
+IL	Highland
+
+UT	Tooele
+
+MO	Bronaugh
+
+IA	West Liberty
+
+CA	Laguna Niguel
+
+NC	Wake Forest
+
+TX	Willis
+
+MT	Helena
+
+PA	Bethel Park
+
+IN	Tipton
+
+NC	Statesville
+
+OK	Jay
+
+VA	Richmond
+
+HI	Kamuela
+
+CO	Akron
+
+NY	Spencerport
+
+CT	Bristol
+
+MI	Flushing
+
+TX	Fort Worth
+
+WI	West Allis
+
+VA	Fairfax
+
+IL	Oregon
+
+NC	Colfax
+
+NY	Campbell Hall
+
+OK	Oklahoma City
+
+OR	Aurora
+
+MN	Brooklyn Park
+
+CO	Denver
+
+CT	Mystic
+
+CA	San Francisco
+
+NY	Watkins Glen
+
+WI	Irma
+
+MN	Saint Paul
+
+CA	Fillmore
+
+FL	Okeechobee
+
+GA	Jacksonville
+
+VA	Reedville
+
+NC	Winston-Salem
+
+KY	Shively
+
+WA	Bellevue
+
+MN	Minneapolis-Saint Paul
+
+UT	North Salt Lake
+
+FL	Key West
+
+IL	Chicago
+
+CA	Los Angeles
+
+ID	Rathdrum
+
+NC	Franklin
+
+NY	Clifton Springs
+
+IL	Casey
+
+VA	Short Pump
+
+NY	New York
+
+OR	Springfield
+
+CA	Weed
+
+IN	Lawrence
+
+OH	Columbus
+
+IN	Evansville
+
+PA	Chester Valley
+
+MN	Saint Paul
+
+NC	Wilmington
+
+NA	NA
+
+ME	Dixfield
+
+TN	Collierville
+
+MN	Dodge Center
+
+FL	Malabar
+
+TX	Lexington
+
+MI	Clarion
+
+PA	Fort Washington
+
+TX	Trinidad
+
+SC	Greenville
+
+PA	Gap
+
+PA	Hamburg
+
+PA	Natrona Heights
+
+NJ	Old Bridge
+
+NC	Franklin
+
+NJ	Township of Logan
+
+NY	Florida
+
+IL	Hyde Park
+
+TN	Collierville
+
+WI	Kimberly
+
+NH	Center Harbor
+
+WA	Lake Tapps
+
+MO	Kansas City
+
+CA	Garden Grove
+
+NY	Glen Oaks
+
+TN	Nashville
+
+NC	Franklinville
+
+AL	Safford
+
+NY	Garrison
+
+IL	Rockford
+
+MA	Worthington
+
+CO	Broomfield
+
+RI	Barrington
+
+RI	Smithfield
+
+OK	Poteau
+
+WI	Wisconsin Dells
+
+TX	Dallas-Fort Worth
+
+TX	Seguin
+
+WI	Milwaukee
+
+NV	Las Vegas
+
+DC	Washington
+
+CT	Salisbury
+
+MA	Deerfield
+
+NH	North Conway
+
+MA	Natick
+
+PA	Concordville
+
+MD	Baltimore
+
+MI	Lake Odessa
+
+CO	Loveland
+
+MI	Battle Creek
+
+VA	Dublin
+
+CA	Kearny Mesa
+
+GA	Atlanta
+
+TX	Dallas
+
+MO	Columbia
+
+NE	Champion
+
+WI	Reeseville
+
+CA	Lindsay
+
+GA	Savannah
+
+WA	Bainbridge Island
+
+TX	Humble
+
+CA	Goleta
+
+NY	Riverhead
+
+IA	Urbana
+
+TX	Port Lavaca
+
+CA	Antioch
+
+VA	Norfolk
+
+OH	Mason
+
+CA	Santa Fe Springs
+
+NY	New York
+
+ID	Coeur d'Alene
+
+FL	Navarre
+
+FL	Interlachen
+
+NY	Philmont
+
+PA	New Freedom
+
+NJ	Mount Olive
+
+CA	Lakewood
+
+NY	New Windsor
+
+FL	Fort Lauderdale
+
+NY	Manhattan
+
+IL	Blue Island
+
+TX	Dallas
+
+TX	Austin
+
+FL	Jacksonville
+
+IA	Middletown
+
+NC	Connellys Springs
+
+WI	Howard
+
+FL	Adventura
+
+IL	Carpentersville
+
+KY	Clarkson
+
+TX	El Paso
+
+NV	Reno
+
+GA	Union City
+
+CT	Newtown
+
+NJ	Keasbey
+
+WI	Milwaukee
+
+MA	Southborough
+
+AZ	Phoenix
+
+OR	Idanha
+
+KY	Clermont
+
+VA	Arlington
+
+MN	Coon Rapids
+
+AR	North Little Rock
+
+TX	Grapevine
+
+AR	Bearden
+
+PA	Lawrenceville
+
+AZ	Chandler
+
+TX	Austin
+
+IL	Deer Park
+
+MA	Cambridge
+
+TN	Bartlett
+
+CA	Vandenbrg AFB
+
+RI	Cumberland
+
+LA	Lacassine
+
+MT	Ennis
+
+MI	Dowagiac
+
+AZ	Phoenix
+
+GA	Sylvester
+
+NY	Jamestown
+
+FL	Archer
+
+PA	Harrisburg
+
+NY	Slingerlands
+
+NC	Statesville
+
+CA	Glendale
+
+CT	Essex
+
+NY	Smithtown
+
+CA	Lancaster
+
+WA	Bellevue
+
+IA	Chariton
+
+OH	Cincinnati
+
+GA	North Druid Hills
+
+TX	Humble
+
+IL	Hoopeston
+
+CA	San Diego
+
+TN	Knoxville
+
+MI	Wixom
+
+CA	Long Beach
+
+IN	Brazil
+
+FL	Key West
+
+WI	Appleton
+
+WI	Kenosha
+
+CA	Santa Cruz
+
+MA	Kingston
+
+NY	Hoosick Falls
+
+KY	Bowling Green
+
+SC	Orangeburg
+
+MN	Fulda
+
+KY	Independence
+
+PA	Washington Boro
+
+LA	Vinton
+
+MO	St. Louis
+
+FL	University Park
+
+PA	Downingtown
+
+IL	Oak Park
+
+OR	Fairview
+
+WA	Shelton
+
+WV	Smithburg
+
+ID	Sandpoint
+
+MI	Farmington Hills
+
+OH	Middleburg Heights
+
+NY	New York
+
+NC	Pleasant Garden
+
+NY	Baldwin
+
+UT	Ogden
+
+KY	Mount Sterling
+
+MI	Grand Blanc
+
+MI	Troy
+
+TX	Kingsville
+
+IA	Ames
+
+OH	Woodmere
+
+NY	Brooklyn
+
+MN	Pelican Rapids
+
+LA	Leesville
+
+FL	Pensacola
+
+NY	Dryden
+
+CA	Los Angeles
+
+UT	Vernal
+
+NJ	Hamburg
+
+TX	San Antonio
+
+IL	Carbondale
+
+NY	Fort Drum
+
+MO	Marshall
+
+GA	Atlanta
+
+MO	Cuba
+
+OH	Lakewood
+
+IL	Utica
+
+FL	Boca Grande
+
+FL	Mayport Naval Station
+
+MI	Lansing
+
+CO	Kittredge
+
+GA	Cleveland
+
+CA	Huntington Beach
+
+NC	Woodfin
+
+IL	Chicago
+
+WI	Green Bay
+
+NY	Melville
+
+WI	Conover
+
+NY	New York
+
+TX	Keller
+
+MN	Rushford
+
+AZ	Phoenix
+
+NY	New York
+
+IL	Pekin
+
+NC	Cary
+
+TX	Arlington
+
+CA	Patterson
+
+MN	Glenwood
+
+NJ	Old Bridge
+
+NJ	Egg Harbor Township
+
+CT	Harwinton
+
+NY	Woodmere
+
+AZ	Oro Valley
+
+FL	Coral Springs
+
+MA	Waltham
+
+TX	Austin
+
+OH	Urbana
+
+MI	Saginaw
+
+CO	Masonville
+
+MA	Attleboro
+
+MT	Ennis
+
+IN	East Chicago
+
+PA	Hershey
+
+AZ	Golden Valley
+
+OH	South Lebanon
+
+IN	Frankfort
+
+WA	Bellevue
+
+PA	Hadley
+
+IL	Naperville
+
+MA	Boston
+
+MO	Maryland Heights
+
+PA	New Alexandria
+
+MD	Timonium
+
+MN	Zumbro Falls
+
+AZ	Clarkdale
+
+MI	Rapid City
+
+CO	Parker
+
+WI	Saint Germain
+
+FL	Fort Myers
+
+KS	WaKeeney
+
+TX	Frisco
+
+PA	Reading
+
+NY	East Islip
+
+PA	Milton
+
+IN	Batesville
+
+ID	Shelley
+
+VA	South Boston
+
+OH	Copley
+
+CA	Woodland Hills
+
+ME	Falmouth
+
+WA	Vancouver
+
+SC	Gray Court
+
+PA	Newtown Square
+
+WA	Sammamish
+
+KY	Hebron
+
+PA	Wynnewood
+
+ME	Belfast
+
+GA	Acworth
+
+TX	Princeton
+
+CA	San Francisco
+
+CA	Piru
+
+MA	Easton
+
+GA	Madison
+
+NJ	Whiting
+
+KY	Louisville
+
+VT	North Springfield
+
+MS	Keesler AFB
+
+FL	Fort Lauderdale
+
+IL	Pleasant Hill
+
+CA	Burbank
+
+OH	Dayton
+
+TX	Dallas
+
+NY	Rush
+
+KY	Lexington
+
+GA	Winder
+
+SC	Greenville
+
+AZ	Tempe
+
+VA	Ruther Glen
+
+SC	Myrtle Beach
+
+TX	Seaman
+
+CA	Hoopa Valley
+
+KY	Robards
+
+PA	West Middlesex
+
+IN	Leo
+
+NC	Monroe
+
+WI	Milwaukee
+
+TN	Midway
+
+TX	Dallas
+
+IL	Lebanon
+
+NC	Connelly Springs
+
+TX	Midland
+
+PA	Pottstown
+
+AL	Crossville
+
+WI	Randolph
+
+TX	Mineola
+
+NC	Hope Mills
+
+NC	Henderson
+
+VA	King William
+
+VA	Massanutten
+
+NJ	Whiting
+
+MD	Brooklandville
+
+OH	Cadiz
+
+KY	Salyersville
+
+MI	Ann Arbor
+
+CA	Monterey
+
+AZ	Mesa
+
+IL	Aurora
+
+NH	Wilton
+
+FL	Geneva
+
+FL	Quincy
+
+IL	Westville
+
+RI	Narragansett
+
+IN	Middlebury
+
+AZ	Tempe
+
+PA	Wilkes-Barre
+
+NY	Brooklyn
+
+VA	Charlottesville
+
+TX	El Paso
+
+UT	Salt Lake City
+
+NJ	Little Falls
+
+NM	Grants
+
+MD	Ocean City
+
+CO	Colorado Springs
+
+IN	Nevada Mills
+
+CA	Indio
+
+NY	Southold
+
+LA	Opelousas
+
+NH	Peterborough
+
+IL	Gibson City
+
+KS	Caney
+
+WI	Franklin
+
+NC	Granite Falls
+
+NY	Manhattan
+
+CT	Somers
+
+FL	Winter Garden
+
+FL	Palm Bay
+
+LA	Zachary
+
+KY	Frankfort
+
+CA	Torrance
+
+OH	Fairfield
+
+TX	Oyster Creek
+
+VT	Rutland
+
+PA	Palmer
+
+TX	Lufkin
+
+WI	Shiocton
+
+NJ	Belmar
+
+ME	Bowdoin
+
+NJ	Freehold
+
+OH	Warsaw
+
+IA	Pleasant Hill
+
+WI	Ladysmith
+
+PA	Beavertown
+
+MN	Warroad
+
+MA	Boston
+
+OH	Sheffield Lake
+
+NY	Granville
+
+CA	Granada Hills
+
+KY	Fort Mitchell
+
+PA	Saint Clair
+
+WI	Elm Grove
+
+NY	New York
+
+TX	Weatherford
+
+NC	Lake Norman
+
+DE	Newark
+
+IL	Northfield
+
+CT	East Windsor
+
+PA	Burgettstown
+
+MI	Twin Lake
+
+FL	Jacksonville
+
+IL	Winfield
+
+MN	Saint Paul
+
+CT	Orange
+
+MN	Rogers
+
+MI	Prudenville
+
+MS	Picayune
+
+CA	Folsom
+
+PA	Southside
+
+VA	Rocky Mount
+
+MI	Hudsonville
+
+ME	Sanford
+
+TX	Austin
+
+AZ	Tucson
+
+NJ	Glen Gardner
+
+CO	Lakewood
+
+NY	Mohawk
+
+FL	Hollywood
+
+VA	Alexandria
+
+OH	Lima
+
+AL	Birmingham
+
+KY	Henderson
+
+SC	Walterboro
+
+MI	Grand Rapids
+
+FL	Sarasota
+
+CA	Irvine
+
+IL	Dwight
+
+TN	Millington
+
+AZ	Maryvale
+
+AL	Fort Rucker
+
+HI	Wailuku
+
+CA	San Diego
+
+PA	Rector
+
+MI	Lansing
+
+MN	Hopkins
+
+OH	Dalton
+
+MI	Allegan
+
+CA	New Cuyama
+
+OH	Canton
+
+WI	Mason
+
+MA	Braintree
+
+CA	Campbell
+
+AL	Opelika
+
+NC	Raleigh
+
+PA	Leesport
+
+AL	Moody
+
+PA	Devon
+
+MN	Baudette
+
+NC	Greensboro
+
+CA	Rocklin
+
+PA	Fredericksburg
+
+NY	Syracuse
+
+PA	New Kingstown
+
+MD	Oxon Hill
+
+CA	Norco
+
+MO	Bridgeton
+
+MD	Point of Rocks
+
+NY	Ballston Spa
+
+AR	Newport
+
+HI	Waikƒ´kƒ´
+
+ND	Gwinner
+
+NC	Marion
+
+WA	Steilacoom
+
+NC	Charlotte
+
+NV	Las Vegas
+
+CO	Colorado Springs
+
+KY	Robards
+
+CA	Carson
+
+MO	Joplin
+
+CA	Redding
+
+TX	El Paso
+
+AZ	Gilbert
+
+PA	Shenandoah
+
+NY	Ronkonkoma
+
+UT	Salt Lake City
+
+NE	Lavista
+
+MD	Patuxent
+
+TN	Nashville
+
+MA	Becket
+
+WA	Bremerton
+
+NJ	Wyckoff
+
+MA	Charlton
+
+PA	Hanover
+
+NJ	Camden
+
+NC	Greensboro
+
+TX	Beaumont
+
+MI	Troy
+
+UT	Mona
+
+CO	Edwards
+
+GA	Atlanta
+
+UT	Salt Lake City
+
+MD	Annapolis Junction
+
+MN	Mankato
+
+IL	Kingston
+
+AL	Troy
+
+IN	Brazil
+
+MA	Harwich Port
+
+NC	Butner
+
+UT	West Valley City
+
+TX	Temple
+
+GA	Acworth
+
+FL	Dunedin
+
+OH	Toledo
+
+FL	Pinellas Peninsula
+
+IA	Rock Rapids
+
+IL	Woodstock
+
+MI	Traverse City
+
+AR	Berryville
+
+MN	Minneapolis
+
+VT	West Fairlee
+
+WV	Belington
+
+VA	Bedford
+
+TX	Fabens
+
+CO	Pueblo West
+
+PA	Huntingdon
+
+MA	Freetown
+
+CA	Belmont
+
+OH	Botkins
+
+MN	Staples
+
+TN	Hickory Hollow
+
+FL	Ocoee
+
+FL	St Petersburg Beach
+
+CA	San Carlos
+
+NJ	Bridgewater
+
+PA	Freeport
+
+TX	San Antonio
+
+CA	Monterey Bay
+
+OH	Wellston
+
+TX	Houston
+
+IL	Olney
+
+IA	Walcott
+
+PA	Willow Grove
+
+CA	Highland
+
+OH	Moscow
+
+MO	Webster Groves
+
+CT	Westbrook
+
+FL	Clearwater
+
+NJ	Ramsey
+
+NC	Taylorsville
+
+MT	Belgrade
+
+NJ	Saddle Brook
+
+NJ	Moorestown
+
+LA	Abita Springs
+
+GA	Screven
+
+CA	Belmont
+
+CA	Carson
+
+CA	Martinez
+
+RI	Scituate
+
+FL	Fort Pierce
+
+PA	Dublin
+
+MI	Standish
+
+WI	Madison
+
+CO	Edgemont
+
+TX	Balch Springs
+
+OH	Canfield
+
+NC	Maggie Valley
+
+CA	San Francisco
+
+NE	Waverly
+
+MA	Fort Devens
+
+OH	New Albany
+
+AL	Steele
+
+IN	Madison
+
+NY	Bronxville
+
+VA	Winchester
+
+TX	Sealy
+
+KY	Greenup
+
+TX	Midland
+
+IA	Fort Dodge
+
+TX	Lamesa
+
+GA	Sharpsburg
+
+MS	Hurley
+
+CA	Los Angeles
+
+MA	Boston
+
+MT	Billings
+
+OH	Centerville
+
+IL	Oswego
+
+TX	Plano
+
+CA	Laguna Niguel
+
+CO	Poncha Springs
+
+NE	Seward
+
+MA	Scituate
+
+GA	LaFayette
+
+NY	Buffalo
+
+MN	Baudette
+
+AR	Salem
+
+WI	Cambridge
+
+GA	Toccoa
+
+PA	State College
+
+FL	Longwood
+
+OH	N Canton
+
+NY	Sterling
+
+KS	Quinby
+
+MO	Clinton
+
+GA	Atlanta
+
+NY	Moriches
+
+NY	Goldens Bridge
+
+NJ	Hamilton
+
+NY	Syracuse
+
+AL	Cook Springs
+
+MA	Bridgewater
+
+IN	Crane
+
+IA	Shell Rock
+
+TX	San Antonio
+
+OH	Dayton
+
+GA	Dalton
+
+MA	Fitchburg
+
+OH	Sardis
+
+WI	Plymouth
+
+OK	Jennings
+
+NY	New York
+
+PA	Greensburg
+
+MA	Westport
+
+OR	Portland
+
+MD	Severna Park
+
+TX	New Ulm
+
+CA	San Luis Obispo
+
+CO	Denver
+
+CA	Palo Alto
+
+NY	New York
+
+TX	Dallas
+
+MD	Boonsboro
+
+PA	Pine Grove
+
+PA	Camp Hill
+
+PA	Philadelphia
+
+GA	Atlanta
+
+CA	Lake Forest
+
+CA	Los Angeles
+
+MA	Boston
+
+CA	Coronado
+
+MA	Greenfield
+
+MD	Westover
+
+SD	Vermillion
+
+CT	New Milford
+
+CA	Rowland Heights
+
+PA	Souderton
+
+CA	Merced
+
+MN	Cokato
+
+CO	Pueblo West
+
+PA	Chambersburg
+
+WI	Madison
+
+OH	Steubenville
+
+PA	Marshalls Creek
+
+CA	Patterson
+
+SC	Indian Land
+
+FL	Plantation
+
+NC	Cary
+
+NY	Sodus
+
+ND	Valley City
+
+PA	Norwood
+
+IA	Eldora
+
+PA	Merion Station
+
+WI	Marinette
+
+WV	Naoma
+
+WI	Milwaukee
+
+NE	Crete
+
+WA	Kelso
+
+TX	Corsicana
+
+IN	Indianapolis
+
+TX	Plano
+
+MI	Royal Oak
+
+VT	Ludlow
+
+NJ	Lakewood
+
+NC	Charlotte
+
+IL	Macomb
+
+HI	Kapolei
+
+OH	Cincinnati
+
+AZ	Mesa
+
+TX	Austin
+
+WI	Kewaskum
+
+IN	Evansville
+
+OH	Chardon
+
+MO	Fair Grove
+
+OR	Portland
+
+NC	Fayetteville
+
+TX	Hamlin
+
+FL	Fort Mc Coy
+
+WV	Wheeling
+
+SC	North Charleston
+
+TX	Ingram Park
+
+MA	Dedham
+
+CA	Riverside
+
+HI	Princeville
+
+PA	Horsham
+
+NY	Paul Smiths
+
+TX	Dripping Springs
+
+WI	Milton
+
+IL	Niles
+
+CA	Belvedere
+
+MD	Potomac
+
+CA	Reseda
+
+MO	Fort Leonard Wood
+
+OK	Gotebo
+
+FL	Orlando
+
+IL	Norridge
+
+CA	Ramona
+
+MO	Saint Joseph
+
+CA	Westminster
+
+NC	Pisgah Forest
+
+FL	Miami
+
+CA	Cypress
+
+AR	Osceola
+
+IL	Richmond
+
+MN	Richfield
+
+CA	Bakersfield
+
+VA	Appomattox
+
+UT	Salt Lake City
+
+IL	Chicago
+
+WA	Bellingham
+
+NV	Fernley
+
+TX	Spring
+
+NC	Oxford
+
+FL	Tampa
+
+PA	Emmaus
+
+MI	Elk Rapids
+
+SC	Fort Mill
+
+OK	Wynnewood
+
+IN	Carmel
+
+TX	Grapevine
+
+CA	Lompoc
+
+AZ	Queen Creek
+
+KS	Smith Center
+
+WV	Newell
+
+GA	Atlanta
+
+TX	Lewisville
+
+MN	Minneapolis
+
+MI	Lakeside
+
+NC	Penders Crossroads
+
+CA	Milpitas
+
+NJ	Florham Park
+
+CA	Kearny Mesa
+
+LA	Metairie
+
+IN	Rochester
+
+MN	Saint Paul Park
+
+WA	Bellingham
+
+CA	Solana Beach
+
+IL	Stanford
+
+NC	Charlotte
+
+ME	China
+
+NY	Great River
+
+NC	Woodfin
+
+LA	Cote Blanche Island
+
+NY	Rochester
+
+VT	Winooski
+
+NY	Bardonia
+
+NY	Miller Place
+
+GA	Patterson
+
+KY	Pikeville
+
+MI	Clarkston
+
+IN	Greenwood
+
+CA	Long Beach
+
+CA	San Jose
+
+CA	Petaluma
+
+FL	Jacksonville
+
+IA	Davenport
+
+FL	Orlando
+
+AL	Montgomery
+
+NY	New York
+
+SC	Columbia
+
+TX	Big Springs
+
+SC	Horry
+
+WV	Terra Alta
+
+PA	Essington
+
+TX	Fort Worth
+
+AR	Greenbrier
+
+MI	Waterford
+
+WA	Kalama
+
+CO	Denver
+
+TX	Grand Prairie
+
+WI	Lakewood
+
+CT	West Hartford
+
+AL	Jasper
+
+IL	Lansing
+
+FL	Orlando
+
+IL	Saline
+
+ID	Ririe
+
+WV	Charleston
+
+WI	Altoona
+
+NH	Hooksett
+
+IL	Mendon
+
+MI	Oxford
+
+CA	Cool
+
+NY	Harlem
+
+FL	The Villages
+
+NJ	Keansburg
+
+AR	Pocahontas
+
+TX	Dallas
+
+OH	Mason
+
+CA	Rohnerville
+
+NJ	Madison
+
+TX	Oak Cliff
+
+CA	Davis
+
+NJ	Blackwood
+
+TX	Austin
+
+MI	Pontiac
+
+CA	Los Angeles
+
+VA	Chesapeake
+
+NY	Getzville
+
+IL	Skokie
+
+CA	Downey
+
+TX	Houston
+
+CA	San Carlos
+
+PA	Rector
+
+WI	Milwaukee
+
+MI	Hillsdale
+
+GA	Snellville
+
+IL	Pittsfield
+
+CA	Watts
+
+NC	Kernersville
+
+TN	Bluff City
+
+NY	Queens
+
+WI	Cashton
+
+IN	Franklin
+
+GA	Woodstock
+
+IL	Manhattan
+
+VA	Ashburn
+
+LA	Fenton
+
+VA	Fairfax
+
+VA	Haysi
+
+PR	Vega Baja
+
+NY	East Aurora
+
+MI	Brighton
+
+MP	Puerto Rico
+
+AZ	Phoenix
+
+WA	White Salmon
+
+NC	Charlotte
+
+PA	Philadelphia
+
+WA	Bellevue
+
+NY	Amherst
+
+TX	Dallas-Fort Worth
+
+MD	Lusby
+
+OH	Poland
+
+WI	Algoma
+
+OH	New Concord
+
+OH	Plymouth
+
+MN	La Crescent
+
+MS	Clinton
+
+NY	New York
+
+TX	Dallas-Fort Worth
+
+MA	Quincy
+
+NC	Durham
+
+OH	University of Dayton
+
+MI	Battle Creek
+
+OH	Kenton
+
+CA	Manhattan Beach
+
+PA	Philadelphia
+
+GA	Camilla
+
+SC	Hardeeville
+
+TX	San Antonio
+
+NY	Moravia
+
+KY	Ashland
+
+NC	Monroe
+
+CA	Valencia
+
+PA	Ambler
+
+MA	South Attleboro
+
+SC	Hilton Head Island
+
+SC	Bishopville
+
+IL	Stillman Valley
+
+MA	Salisbury
+
+NY	Albion
+
+SC	Bluffton
+
+CA	El Segundo
+
+FL	Jupiter
+
+WA	Lake Stevens
+
+IA	Des Moines
+
+NY	Water Mill
+
+NJ	Pemberton
+
+AZ	Cochise
+
+IL	Charleston
+
+FL	Casselberry
+
+AL	Birmingham
+
+TX	Dallas
+
+CA	Gardena
+
+NH	Exeter
+
+CO	Colorado Springs
+
+FL	Punta Gorda
+
+OH	Westville
+
+CA	San Diego
+
+TX	Glen Rose
+
+NE	Gibbon
+
+TN	Millington
+
+NY	South Fallsburg
+
+CA	Bonita
+
+NE	Bayard
+
+ND	Fargo
+
+FL	ChampionsGate
+
+DC	Washington
+
+MI	Otisville
+
+NY	Clay
+
+MD	Severn
+
+TX	San Antonio
+
+CA	Dunnigan
+
+LA	Saint Gabriel
+
+MI	Ann Arbor
+
+NA	NA
+
+CA	Ivanhoe
+
+KY	Louisville
+
+NJ	Brigantine
+
+CA	Los Angeles
+
+CO	Denver
+
+WI	Warrens
+
+OH	Dayton
+
+KS	Moundridge
+
+AL	Birmingham
+
+MI	Munising
+
+TX	Denton
+
+VA	Springfield
+
+MI	Kinderhook
+
+TX	Mount Pleasant
+
+KY	South Shore
+
+IL	O'Fallon
+
+CA	Rocklin
+
+WV	Shinnston
+
+MD	Largo
+
+MA	Medfield
+
+CA	Carlsbad
+
+WV	Nitro
+
+NY	Wayland
+
+ID	Kuna
+
+OH	North Ridgeville
+
+CA	Montrose
+
+IL	Oswego
+
+CA	Santa Rosa
+
+WI	Oconto
+
+PA	Middletown
+
+PA	Hanover
+
+WI	Milwaukee
+
+PA	Lancaster
+
+IL	Elmwood Park
+
+GA	Atlanta
+
+OH	Cleveland
+
+CA	South El Monte
+
+FL	Panama City
+
+CA	Redding
+
+PA	Renfrew
+
+MN	New Brighton
+
+GA	Alpharetta
+
+CO	Salida
+
+TN	White Pine
+
+WI	Elkhart Lake
+
+NJ	Ho-Ho-Kus
+
+NH	Sanbornton
+
+CA	Larkspur
+
+CA	Bakersfield
+
+CA	Costa Mesa
+
+NJ	Trenton
+
+TX	Hockley
+
+NY	New York
+
+WI	Milwaukee
+
+GA	Gainesville
+
+OR	Eugene
+
+OR	Eugene
+
+FL	Tampa
+
+MD	Baltimore
+
+NY	Melville
+
+NY	Florida
+
+TX	Houston
+
+IL	Burnham
+
+IA	Ackworth
+
+FL	Port Charlotte
+
+CA	Granada Hills
+
+NY	Malone
+
+ME	Bangor
+
+IL	Polo
+
+PA	Springfield
+
+NC	Kernersville
+
+MO	Cuba
+
+CA	Los Angeles
+
+NY	Long Island
+
+WI	Dakota
+
+TX	Dallas-Fort Worth
+
+CA	San Marcos
+
+AL	Foley
+
+WA	Woodinville
+
+AZ	Tucson
+
+MI	Charter Township of Orion
+
+MA	Hamilton
+
+VA	Glen Allen
+
+PA	Hopwood
+
+MN	Hanover
+
+CA	Stanford
+
+NE	Omaha
+
+TX	Jacksboro
+
+NY	Eden
+
+TX	Olden
+
+KS	Ottawa
+
+CA	Colusa
+
+MI	Belleville
+
+MA	Provincetown
+
+FL	Sarasota
+
+NY	Fulton
+
+TX	Port Aransas
+
+NJ	Cinnaminson
+
+TX	Oak Cliff
+
+GA	Atlanta
+
+IN	West Terre Haute
+
+MN	Westbrook
+
+TX	Marble Falls
+
+MS	Yazoo City
+
+MI	Southfield
+
+MI	Cheboygan
+
+PA	Lancaster
+
+CA	Monterey Park
+
+MN	Fulda
+
+NY	Calverton
+
+CA	Santa Clara
+
+WA	Pe Ell
+
+IL	Aurora
+
+WA	Washougal
+
+VA	Fredericksburg
+
+MS	Robinsonville
+
+CA	Irvine
+
+TX	Jonestown
+
+FL	Fort Lauderdale
+
+WI	West Allis
+
+MS	Port Gibson
+
+NY	Buffalo
+
+PA	Lenhartsville
+
+TN	Soddy-Daisy
+
+PA	Newton Hamilton
+
+MD	Laurel
+
+NE	Omaha
+
+CA	Big Bear City
+
+CT	North Haven
+
+PA	Trafford
+
+OR	Gladstone
+
+CT	Stafford Springs
+
+IL	Hammond
+
+CA	Brea
+
+MD	Forest Hill
+
+VA	Luray
+
+SC	Kingstree
+
+KS	Wichita
+
+AZ	Peoria
+
+CA	Sunol
+
+NC	Burnsville
+
+FL	Treasure Island
+
+AL	Greenville
+
+NC	Raleigh
+
+IL	Peoria
+
+TX	Ferris
+
+MN	Virginia
+
+IN	Wakarusa
+
+OK	Stillwater
+
+TX	Mount Vernon
+
+NY	Manhattan
+
+NJ	Jersey City
+
+MO	Kansas City
+
+NJ	Roselle Park
+
+TX	Muleshoe
+
+IL	Port Byron
+
+MD	Woodlawn
+
+TX	Irving
+
+CA	Ontario
+
+PA	Ephrata
+
+MA	Buzzards Bay
+
+TN	Lafayette
+
+UT	Helper
+
+MI	Hickory Corners
+
+MN	Klossner
+
+CA	Watsonville
+
+CA	Rancho Cucamonga
+
+KS	Junction City
+
+NH	Rochester
+
+IL	El Paso
+
+MA	Sterling
+
+OK	Harrah
+
+FL	Sunny Isles
+
+TX	Midland
+
+IL	Glenview
+
+IA	Riverside
+
+MA	Lowell
+
+IL	Gurnee
+
+MN	Crosby
+
+VA	Richmond
+
+NJ	Mount Laurel
+
+NM	Espanola
+
+IL	Springfield
+
+ND	Minot
+
+IL	Schaumburg
+
+CT	Lakeville
+
+IN	Mishawaka
+
+MA	Chestnut Hill
+
+PA	Wernersville
+
+LA	Central
+
+TX	Del Valle
+
+IN	Greensburg
+
+NY	Armonk
+
+NY	Carthage
+
+GA	Demorest
+
+MD	Belcamp
+
+TX	Richardson
+
+ID	Ketchum
+
+TX	Rio Grande City
+
+TN	Murfreesboro
+
+WI	Warrens
+
+AZ	Phoenix
+
+OH	Washington Court House
+
+TX	Eagle Mountain
+
+UT	Coalville
+
+WI	Brookfield
+
+FL	Tampa
+
+TN	Murfreesboro
+
+MA	Boston
+
+MA	Somerset
+
+MD	Baltimore
+
+CA	Pico Rivera
+
+IL	Rockford
+
+FL	Winter Haven
+
+HI	‚ÄòEwa Beach
+
+ME	Randolph
+
+NY	Hudson Falls
+
+OH	Warren
+
+TN	Kingsport
+
+CO	Denver
+
+LA	DeQuincy
+
+MD	Ocean City
+
+IL	Geneva
+
+MI	Wixom
+
+NY	Syracuse
+
+UT	Salt Lake City
+
+TN	Kingsport
+
+OR	Redmond
+
+NY	Hartsdale
+
+GA	Atlanta
+
+OK	Oklahoma City
+
+NH	Newfields
+
+IL	Fox River Grove
+
+KY	Paducah
+
+ID	Gooding
+
+PA	Boswell
+
+CA	Sonoma
+
+FL	Winter Springs
+
+NV	Summerlin
+
+IL	Ottawa
+
+CO	Colorado Springs
+
+CA	Foresthill
+
+OH	Cincinnati
+
+CA	Perris
+
+CA	Anaheim
+
+PA	Murrysville
+
+MS	New Albany
+
+OH	Akron
+
+SC	Goose Creek
+
+MN	Princeton
+
+NY	Armonk
+
+MS	Mendenhall
+
+ND	Dickinson
+
+NC	Nebo
+
+NY	Long Island City
+
+MS	Corinth
+
+PA	Berlin
+
+IN	Merrillville
+
+VA	Henrico
+
+MI	Ann Arbor
+
+OH	Wickliffe
+
+AL	Jackson
+
+NY	New York
+
+IN	Milford
+
+MI	Rockford
+
+TX	Dallas
+
+KS	Great Bend
+
+MI	Lansing
+
+TX	Bonham
+
+OH	Bridgeport
+
+NC	Erwin
+
+IL	Burr Ridge
+
+FL	Melbourne
+
+MS	Port Gibson
+
+ID	Blackfoot
+
+NC	Leland
+
+NA	NA
+
+MO	Kennett
+
+MO	Des Peres
+
+WI	Green Bay
+
+PA	Dalmatia
+
+PA	Gulph Mills
+
+NM	Farmington
+
+IN	North Liberty
+
+GA	Mableton
+
+MD	Arnold
+
+FL	Stuart
+
+DE	Seaford
+
+AR	Maumelle Station
+
+NC	Gastonia
+
+NC	Mills River
+
+NY	New York
+
+CA	Los Angeles
+
+OH	Waynesfield
+
+ME	Portland
+
+TN	Pigeon Forge
+
+FL	Hudson
+
+TX	San Antonio
+
+AZ	Tucson
+
+MA	Canton
+
+TX	Dallas
+
+WI	Webster
+
+NY	New York
+
+WI	Sun Prairie
+
+IN	Danville
+
+FL	Palm City
+
+CA	Los Gatos
+
+MA	Chestnut Hill
+
+NE	Omaha
+
+AL	Safford
+
+TX	Haltom City
+
+VA	Suffolk
+
+AL	Summerdale
+
+NY	Tannersville
+
+PA	Grove City
+
+ME	Freeport
+
+ID	Rathdrum
+
+GA	Jasper
+
+MA	Tyngsboro
+
+IL	Marshall
+
+NY	Oxford
+
+OH	Toledo
+
+PA	Township of Covington
+
+PA	Pittsburgh
+
+NJ	Township of Moorestown
+
+CA	Newport Beach
+
+GA	Sharpsburg
+
+IN	Milford
+
+WA	Puyallup
+
+NY	New York
+
+MA	Townsend
+
+CA	Riverside
+
+TX	New Baden
+
+TX	Houston
+
+NC	Wilmington
+
+CA	Los Angeles
+
+MD	Silver Spring
+
+GA	Atlanta
+
+PA	Township of Monroe
+
+NY	Newfane
+
+CA	San Diego
+
+OH	Burton
+
+NY	Rochester
+
+MI	Berrien Springs
+
+WA	Spokane
+
+TX	San Angelo
+
+IN	Evansville
+
+MI	Livonia
+
+OK	Clinton
+
+PA	Jonestown
+
+PA	Mount Bethel
+
+SC	Hilton Head
+
+CA	San Diego
+
+WI	New Franken
+
+NY	Manorville
+
+PA	Madison
+
+KS	Ness City
+
+CA	Los Angeles
+
+UT	Orem
+
+VA	Ladysmith
+
+DC	Washington
+
+MD	Easton
+
+VA	Rural Retreat
+
+CA	Santa Monica
+
+TX	Dallas-Fort Worth
+
+PA	Gratz
+
+NJ	Keasbey
+
+ND	Fargo
+
+NV	Las Vegas
+
+MD	Columbia
+
+SC	Columbia
+
+MS	Magnolia
+
+IA	Logan
+
+NY	Bellmore
+
+MO	Bonne Terre
+
+MI	Coleman
+
+CA	San Diego Naval Station
+
+IL	Chicago Heights
+
+TX	Dallas
+
+NY	Freeville
+
+LA	Carville
+
+PA	Thorndale
+
+SD	Yankton
+
+MI	Highland
+
+PA	Dallas
+
+KS	Smith Center
+
+WA	Seattle
+
+FL	Indiantown
+
+PA	Dixonville
+
+CO	Denver
+
+OR	Woodburn
+
+NY	Brooklyn
+
+ND	Watford City
+
+CA	San Leandro
+
+NY	Patchogue
+
+PA	Pittston
+
+CT	Hartford
+
+MI	Quinnesec
+
+OH	Lewis Center
+
+RI	Westerly
+
+TX	Mission
+
+IL	Oakland
+
+NE	Deshler
+
+TX	San Antonio
+
+MO	Lone Jack
+
+MO	De Soto
+
+NJ	West Milford
+
+TX	Dallas-Fort Worth
+
+MD	Frederick
+
+SC	Okatie
+
+MD	Rohrersville
+
+CT	Hartford
+
+MA	Ludlow
+
+NJ	Bayonne
+
+CA	Los Angeles
+
+IN	Garrett
+
+IL	Grayslake
+
+MI	Mears
+
+VA	Reston
+
+OH	Columbus
+
+FL	Tampa
+
+ME	Ogunquit
+
+KY	Middletown
+
+PA	Port Vue
+
+CT	Shelton
+
+SC	Walterboro
+
+VA	Fairfax
+
+CA	Calipatria
+
+NY	Pelham
+
+FL	Hollywood
+
+MO	Richmond Hts
+
+MN	Windom
+
+MO	Columbia
+
+MA	Ballardvale
+
+TX	Texarkana
+
+WA	Bremerton
+
+FL	Boca Raton
+
+CA	San Francisco
+
+NC	Catawba
+
+CT	Chaplin
+
+MO	Mount Vernon
+
+UT	Hyde Park
+
+CA	Carlsbad
+
+PA	Conneaut Lake
+
+TX	Graham
+
+IL	Hyde Park
+
+TX	Midland
+
+FL	Panama City
+
+AZ	Williams
+
+CA	San Francisco Bay Area
+
+CO	Loveland
+
+CT	Middletown
+
+CO	Grand Junction
+
+CA	Sacramento
+
+FL	Boca Raton
+
+CT	Stamford
+
+MN	Inver Grove Heights
+
+CA	Sacramento
+
+CO	Boulder
+
+CA	San Bruno
+
+TX	Luling
+
+WI	Appleton
+
+PA	Camp Hill
+
+CT	Kent
+
+CA	Lincoln
+
+NY	Mount Kisco
+
+NY	Rochester
+
+IN	Merrillville
+
+IL	Moline
+
+OH	South Euclid
+
+WI	Pound
+
+IL	Joliet
+
+UT	Salt Lake City
+
+NY	John F. Kennedy Airport
+
+IL	Chicago
+
+LA	Lake Charles
+
+IL	Chicago
+
+WA	Vancouver
+
+MA	Mattapoisett
+
+CO	Denver
+
+MO	City of Berkeley
+
+WI	Germantown
+
+WI	Waupun
+
+FL	Orlando
+
+NY	Friendship
+
+MA	Fall River
+
+MT	Fort Harrison
+
+WA	Cashmere
+
+KY	Franklin
+
+AZ	Phoenix
+
+MT	West Yellowstone
+
+TX	Salado
+
+VA	Chantilly
+
+MN	Cokato
+
+MI	Dearborn
+
+NC	Kernersville
+
+MI	Troy
+
+MI	Canton
+
+VT	Fair Haven
+
+FL	Tallahassee
+
+OH	Continental
+
+TX	Dallas-Fort Worth
+
+NC	Raleigh
+
+NY	Oswego
+
+OH	Marietta
+
+CT	Haddam
+
+HI	Kailua-Kona
+
+WY	Cheyenne
+
+IA	Wellman
+
+MN	Saint Charles
+
+NJ	Township of Delran
+
+OR	Wilsonville
+
+MI	Jackson
+
+PA	Township of Marple
+
+IL	Woodridge
+
+TX	Big Spring
+
+NY	Buffalo
+
+TX	Dallas-Fort Worth
+
+NJ	Allamuchy-Panther Valley
+
+KS	Baileyville
+
+CA	San Luis Obispo
+
+NJ	Middletown
+
+FL	Miami Gardens
+
+PA	Galeton
+
+OR	Beaverton
+
+PA	Whitehall Township
+
+MN	Saint Peter
+
+TX	San Elizario
+
+TX	Lewisville
+
+CA	San Diego
+
+IL	Manteno
+
+MD	Baltimore
+
+AZ	Tempe
+
+MI	Linwood
+
+AZ	Green Valley
+
+MA	Berkley
+
+WI	Milwaukee
+
+TX	Jacinto City
+
+MD	Baltimore
+
+IL	Streamwood
+
+NY	Le Roy
+
+MO	Holt
+
+IL	Chicago
+
+MD	Fort Washington
+
+MD	Lusby
+
+TX	Houston
+
+TN	Oakland
+
+NY	Coney Island
+
+WV	Fairmont
+
+UT	Clinton
+
+PA	South Hills
+
+NY	Hamlin
+
+CA	Monterey Bay
+
+NY	Ogdensburg
+
+IL	Western Springs
+
+MA	Walpole
+
+WI	West Bend
+
+MA	Weymouth
+
+VT	Burlington
+
+VA	Reston
+
+NC	Winston-Salem
+
+FL	Palm Bay
+
+WI	Madison
+
+MI	Bear Lake
+
+NY	Ballston Spa
+
+MI	Novi
+
+CA	Rancho Cordova
+
+TX	Hewitt
+
+IL	Manhattan
+
+SD	Lyons
+
+WI	Green Bay
+
+MN	Saint Josephs
+
+HI	Keaau
+
+MD	Mount Rainier
+
+OH	Pioneer
+
+IL	Evanston
+
+CA	Santa Ana
+
+CT	Hartford
+
+MA	Danvers
+
+TX	College Station
+
+WA	Union
+
+OK	Roland
+
+IL	Hodgkins
+
+TX	Dallas
+
+CT	Rocky Hill
+
+NH	Newbury
+
+CO	Denver
+
+PA	Clearfield
+
+MN	Minneapolis-Saint Paul
+
+MA	Boston
+
+NY	Brighton Beach
+
+IL	Waterman
+
+CA	Los Gatos
+
+NE	Milford
+
+CA	Lancaster
+
+FL	Hollywood
+
+NC	Cary
+
+ME	Blue Hill
+
+NJ	Morris
+
+CA	San Francisco
+
+PA	Pottstown
+
+SD	Mitchell
+
+NJ	Voorhees
+
+OH	Doylestown
+
+TX	San Marcos
+
+MD	Belcamp
+
+TN	Union City
+
+GA	Vinings
+
+NY	Mooers
+
+FL	Coral Springs
+
+OH	Holland
+
+AL	Luverne
+
+CA	Laguna Hills
+
+NC	Lexington
+
+AL	Birmingham
+
+TN	Spencer
+
+FL	Kissimmee
+
+IN	New Paris
+
+MA	Allston
+
+AR	Jacksonville
+
+PA	Bloomsburg
+
+TN	Covington
+
+MD	Lothian
+
+MD	Salisbury
+
+OK	Texola
+
+TN	Nashville
+
+CA	Carlsbad
+
+OH	Wickliffe
+
+CT	South Windham
+
+IL	Gurnee
+
+CA	Davis
+
+NE	Alma
+
+CA	Pacifica
+
+CA	Newport Beach
+
+IN	Knox
+
+GA	Griffin
+
+CA	Monrovia
+
+CA	Mill Valley
+
+AZ	Phoenix
+
+NC	Statesville
+
+CA	Petaluma
+
+NH	North Sutton
+
+IN	Syracuse
+
+VA	Woodstock
+
+NY	Irondequoit
+
+TN	Walland
+
+PA	Ligonier
+
+FL	Niceville
+
+NY	New York
+
+NC	Little Switzerland
+
+OK	Sapulpa
+
+GA	Macon
+
+IA	Mount Pleasant
+
+VA	Martinsville
+
+NV	Las Vegas
+
+ID	Boise
+
+OH	Martins Ferry
+
+NJ	Plainfield
+
+MD	Fallston
+
+IA	Decorah
+
+NY	Poughkeepsie
+
+IA	Sibley
+
+CA	Tulare
+
+MN	Stacy
+
+NY	Williamsburg
+
+MO	St. Louis
+
+CA	Simi Valley
+
+MS	Ruleville
+
+MN	Minneapolis
+
+MI	Schoolcraft
+
+MA	Middleboro
+
+NY	Long Island
+
+CA	Pasadena
+
+LA	Metairie
+
+NY	Jeffersonville
+
+TX	Austin
+
+CA	San Jose
+
+OH	Columbus
+
+MA	Chestnut Hill
+
+MT	Helena
+
+HI	Haleiwa
+
+CA	Mecca
+
+NJ	Hackettstown
+
+VA	Bridgewater
+
+RI	Warwick
+
+TX	El Paso
+
+VA	Alexandria
+
+IL	Lake in the Hills
+
+OH	Pioneer
+
+OH	Saint Paris
+
+IN	Edinburgh
+
+MN	Andover
+
+FL	Pensacola
+
+MI	Grand Rapids
+
+NJ	Middletown
+
+FL	Orlando
+
+OH	Greenwich
+
+PA	Conneaut Lake
+
+PA	Slatington
+
+PA	Mount Union
+
+IL	Chicago Ridge
+
+NY	Binghamton
+
+OR	Neskowin
+
+IA	Grimes
+
+NY	Manhasset
+
+OH	Navarre
+
+OH	Holland
+
+KY	Georgetown
+
+OH	De Graff
+
+PA	Bethel
+
+NJ	Pennington
+
+DC	Washington
+
+SD	Harrisburg
+
+TX	Providence Village
+
+NJ	Ewing
+
+AL	Madison
+
+TX	Rio Grande Valley
+
+FL	Port Charlotte
+
+NY	Lake Pleasant
+
+MI	Frankfort
+
+PA	Homestead
+
+CA	San Diego
+
+AL	Gardendale
+
+GA	Milledgeville
+
+PA	Drexel Hill
+
+AK	Fairbanks
+
+MO	Foristell
+
+IL	Salem
+
+CA	San Jose
+
+IL	Columbia
+
+FL	Lake Worth
+
+MN	Minneapolis
+
+NY	Yorktown Heights
+
+MI	Clinton
+
+PA	Upper St. Clair
+
+MN	Minneapolis
+
+MD	Union Bridge
+
+NY	New York
+
+IL	Caseyville
+
+IN	Wolcottville
+
+CA	Lennox
+
+CA	Rohnerville
+
+CO	Colorado Springs
+
+MI	New Haven
+
+MA	Pittsfield
+
+NM	Cedar Crest
+
+OH	Versailles
+
+CA	Mountain View
+
+MA	Somerset
+
+CT	Ivoryton
+
+IL	Sullivan
+
+GA	Buford
+
+MO	Neosho
+
+IN	Cedar Lake
+
+MN	Madison
+
+GA	Haddock
+
+WY	Casper
+
+WI	Dane
+
+MO	Lake Ozark
+
+WA	Richland
+
+CO	Eaton
+
+IA	Ankeny
+
+WI	Milwaukee
+
+WA	Seattle
+
+MI	Saginaw
+
+GA	Commerce
+
+AZ	Tempe
+
+CA	Santa Clara
+
+CA	Newport Beach
+
+SC	Mount Pleasant
+
+TX	Charlotte
+
+NJ	Mount Laurel
+
+OH	Worthington
+
+OH	Toledo
+
+MN	Bloomington
+
+TX	Santa Fe
+
+MN	Comfrey
+
+IN	Crawfordsville
+
+NY	Bronx
+
+NY	Southfields
+
+KY	Henderson
+
+WI	Wausau
+
+OH	Columbus
+
+WI	Kohler
+
+LA	Gramercy
+
+AZ	Kykotsmovi Village
+
+NC	Charlotte
+
+NJ	Moorestown
+
+WI	Port Edwards
+
+CT	Middletown
+
+TX	Sienna Plantation
+
+CA	San Jose
+
+MN	Blooming Prairie
+
+MN	Nicollet
+
+TX	San Antonio
+
+MN	Rosemount
+
+TX	Kenedy
+
+CA	Oceanside
+
+TX	China Grove
+
+NJ	Livingston
+
+AZ	San Tan Valley
+
+TX	Falfurrias
+
+FL	Lighthouse Point
+
+KY	Louisville
+
+WI	Trevor
+
+OH	Ashville
+
+WI	Chilton
+
+FL	Fort Pierce
+
+CO	Fort Collins
+
+MA	Lowell
+
+PA	Chester Springs
+
+NY	Madison
+
+FL	Miami Beach
+
+MA	Boylston
+
+SD	Sioux Falls
+
+AR	Prairie Grove
+
+NC	Winston-Salem
+
+WI	Chippewa Falls
+
+TX	Dickinson
+
+DE	Millsboro
+
+MN	Foley
+
+TN	Memphis
+
+MA	Hull
+
+MI	Ypsilanti
+
+CA	Reseda
+
+CA	Newark
+
+PR	Dorado
+
+OH	Cleveland
+
+OH	Munroe Falls
+
+GA	Buford
+
+IL	Western Springs
+
+CA	Tracy
+
+TX	Austin
+
+IN	Merrillville
+
+MT	Missoula
+
+SC	Columbia
+
+TX	Alamo Heights
+
+PA	Jefferson Hills
+
+WI	Barron
+
+NC	Hillsborough
+
+WI	Kaukauna
+
+TN	White Bluff
+
+MN	Hinckley
+
+TN	Chattanooga
+
+WA	Trinidad
+
+CA	San Diego
+
+OH	Struthers
+
+MN	Farmington
+
+OH	Zanesville
+
+CA	Sacramento
+
+TX	Killeen
+
+MI	Romeo
+
+CA	Los Angeles
+
+OK	McLoud
+
+CA	Lakewood
+
+TX	El Paso
+
+KS	Caney
+
+IL	Des Plaines
+
+VA	Richmond
+
+CA	Buena Park
+
+SC	Columbia
+
+OH	Saint Paris
+
+PA	Bentleyville
+
+OH	Cincinnati
+
+NY	Plainview
+
+MI	South Haven
+
+ME	Bowdoin
+
+AR	Bentonville
+
+NH	Rumney
+
+CA	Culver City
+
+AL	Vance
+
+HI	Honolulu
+
+CT	Greenwich
+
+NV	Crystal Bay
+
+GA	Buckhead
+
+TN	Nashville
+
+CT	Monroe
+
+TX	Austin
+
+MA	Northampton
+
+CT	Milldale
+
+MN	Falcon Heights
+
+MT	Missoula
+
+PA	Greensburg
+
+FL	Fort Lauderdale
+
+CA	San Diego
+
+VT	Springfield
+
+MA	Boston
+
+AZ	Flagstaff
+
+MO	Kansas City
+
+FL	West Palm Beach
+
+ME	Orland
+
+MD	Baltimore
+
+IL	Seneca
+
+NJ	West Freehold
+
+TX	Lufkin
+
+CT	Southington
+
+TX	Sweetwater
+
+NC	Pineville
+
+OH	Wright-Patterson AFB
+
+MD	Baltimore
+
+NC	Biscoe
+
+KY	New Haven
+
+NH	Nashua
+
+PA	Port Vue
+
+CA	San Diego
+
+NJ	Gloucester City
+
+NH	Suncook
+
+FL	Miami
+
+FL	Sarasota
+
+MO	Bridgeton
+
+OH	Solon
+
+MD	Silver Springs
+
+CA	Manhattan Beach
+
+AL	Point Clear
+
+NJ	Hopewell
+
+MD	Salisbury
+
+UT	Brigham City
+
+TX	Addison
+
+IL	Aurora
+
+TX	Southlake
+
+TX	Sienna Plantation
+
+NH	Rochester
+
+TX	Del Rio
+
+FL	Miami
+
+NY	Gouverneur
+
+DE	Milford
+
+VA	Luray
+
+TX	Pilot Point
+
+OR	Welches
+
+OK	Waynoka
+
+VA	Ivy
+
+MN	Baxter
+
+IL	Princeton
+
+TX	Shenandoah
+
+VA	Charlottesville
+
+CA	Maxwell
+
+AK	Juneau
+
+VT	Burlington
+
+NY	Farmingville
+
+MI	Detroit
+
+OK	Wynnewood
+
+MD	Baltimore
+
+OH	Boardman
+
+MN	Roseville
+
+GA	Atlanta
+
+CA	Menlo Park
+
+IL	Cary
+
+CT	Avon
+
+NC	Willow Spring
+
+MD	Columbia
+
+NV	Las Vegas
+
+CO	Greenwood Village
+
+IL	Maple Park
+
+CA	Angels Camp
+
+MA	Norton
+
+WA	Queen Anne
+
+CA	Redondo Beach
+
+VA	Woodstock
+
+NH	Merrimack
+
+GA	Marietta
+
+CA	Las Palmas
+
+NY	Brentwood
+
+OH	Walbridge
+
+ND	Williston
+
+NY	Ramapo
+
+IL	Spring Valley
+
+NY	Gowanda
+
+NJ	Manalapan
+
+OH	Cincinnati
+
+MA	Princeton
+
+WA	Tumwater
+
+FL	Lehigh Acres
+
+TX	Tulia
+
+CA	Irvine
+
+TX	Fort Worth
+
+PA	Pulaski
+
+NY	Hudson Falls
+
+OR	Portland
+
+NC	Pineville
+
+NE	Omaha
+
+SD	Box Elder
+
+NH	Brookline
+
+NH	Chesterfield
+
+OH	Bradford
+
+PA	Carnegie
+
+NY	Mastic Beach
+
+NY	New York
+
+TX	Trophy Club
+
+IL	Milan
+
+TX	Heights
+
+FL	Zephyrhills
+
+PA	Lewisburg
+
+MA	Littleton
+
+NY	Pleasantville
+
+HI	Honolulu
+
+NJ	Plainsboro
+
+OH	Troy
+
+MD	Fort Meade
+
+OK	Clayton
+
+AZ	Tempe
+
+OH	Nevada
+
+PA	Damascus
+
+NJ	Green Brook
+
+CA	Sacramento
+
+TN	Ripley
+
+CO	Pueblo
+
+PA	Delaware
+
+MA	Cambridge
+
+NC	Barnardsville
+
+TX	San Antonio
+
+KY	Erlanger
+
+IL	Bloomington
+
+AL	Odenville
+
+MD	Ijamsville
+
+PA	Forest Hills
+
+GA	Port Wentworth
+
+CA	Saratoga
+
+TN	Moscow
+
+NV	Las Vegas
+
+KY	Russellville
+
+OH	Jackson
+
+PA	Forest City
+
+GA	McDonough
+
+WI	Eau Claire
+
+PA	Lima
+
+MN	Hugo
+
+LA	Pineville
+
+TX	Houston
+
+CA	Ventura
+
+OH	Mason
+
+CA	Riverside
+
+NY	East Setauket
+
+PA	Moosic
+
+KY	Hanson
+
+TX	Kyle
+
+CA	Los Angeles
+
+MO	Boonville
+
+MD	Shady Side
+
+NA	NA
+
+MI	Brighton
+
+OH	Alliance
+
+PA	Cokeburg
+
+NJ	Union
+
+MN	Saint Paul Park
+
+NC	Harmony
+
+KY	Lexington
+
+WI	DeForest
+
+CT	Ansonia
+
+IA	Burlington
+
+IL	Sullivan
+
+MT	Twin Bridges
+
+TN	Murfreesboro
+
+CA	Los Angeles
+
+TX	Roanoke
+
+WA	Concrete
+
+RI	Portsmouth
+
+TX	Brenham
+
+OK	Skiatook
+
+CA	Livermore
+
+ME	Saco
+
+MI	Ann Arbor
+
+CA	Palo Alto
+
+CA	Huntington Park
+
+AL	Mobile
+
+PA	Harrisburg
+
+NJ	Burlington
+
+IL	Joliet
+
+PA	Lancaster
+
+CO	Lone Tree
+
+MA	Lexington
+
+FL	Orlando
+
+UT	Vernal
+
+MO	Concordia
+
+NH	Manchester
+
+NY	Queensbury
+
+PA	Norristown
+
+NY	New York
+
+MN	Moorhead
+
+FL	Tampa
+
+MI	National City
+
+PA	Wynnewood
+
+MA	Worcester
+
+NY	New York
+
+NY	Little Falls
+
+GA	Columbus
+
+MA	Medford
+
+NJ	Stanhope
+
+MS	Bay Saint Louis
+
+CA	Petaluma
+
+WI	Ellsworth
+
+UT	Daybreak
+
+LA	Baton Rouge
+
+NY	Valley Stream
+
+ME	North Windham
+
+TX	Rose City
+
+CA	Monterey Park
+
+CA	Milpitas
+
+MI	Royal Oak
+
+NJ	Lafayette
+
+NJ	Cream Ridge
+
+NJ	Old Tappan
+
+TN	LaFollette
+
+MN	Oak Park Heights
+
+NY	Saint James
+
+WA	Yakima Valley
+
+TX	San Antonio
+
+KS	Mulvane
+
+NM	Alamogordo
+
+IA	Camanche
+
+NJ	Vineland
+
+OK	Noble
+
+IA	Des Moines
+
+DE	Lewes and Rehoboth Hundred
+
+CO	Centennial
+
+IL	Port Byron
+
+CA	Irvine
+
+NC	Raleigh
+
+IL	Calumet Park
+
+NC	Charlotte
+
+FL	Saint Johns
+
+NY	Wappingers Falls
+
+KY	Brandenburg
+
+CA	Jurupa
+
+IL	Benton
+
+GA	Atlanta
+
+NJ	Totowa
+
+VT	Poultney
+
+IN	Carmel
+
+AZ	Phoenix
+
+PA	Levittown
+
+NY	New York
+
+KS	Hillsboro
+
+MO	St. Louis
+
+IA	Lawler
+
+GA	Bainbridge
+
+GA	Bloomingdale
+
+MI	Bloomfield Hills
+
+CA	Palos Verdes Estates
+
+OK	Geary
+
+NC	Conover
+
+MA	Mansfield
+
+MN	Clarkfield
+
+CO	Oak Creek
+
+MO	Blue Springs
+
+WA	Pierce
+
+WI	Oshkosh
+
+WI	Menomonee Falls
+
+OH	Alliance
+
+CO	Gardner
+
+TN	Jackson
+
+IN	Bloomington
+
+MD	Calverton
+
+WI	Milwaukee
+
+NY	Dansville
+
+HI	Kapolei
+
+WI	Oconomowoc
+
+FL	Pasadena
+
+FL	Pensacola
+
+UT	North Ogden
+
+CT	West Hartford
+
+GA	Norcross
+
+CT	Stratford
+
+ME	Newport
+
+AL	Prattville
+
+NH	Tilton
+
+OH	Elyria
+
+FL	Delray Beach
+
+PA	Scenery Hill
+
+OH	Dalton
+
+NC	Connellys Springs
+
+IL	Niles
+
+CA	Petaluma
+
+NJ	Summit
+
+RI	West Warwick
+
+OH	Paulding
+
+GA	Sugar Hill
+
+ME	Newport
+
+MS	Brookhaven
+
+UT	Davis
+
+NM	San Lorenzo
+
+NJ	Hillsborough
+
+TX	Rockwall
+
+MO	Clayton
+
+MA	Franklin
+
+MD	New Market
+
+WV	Welch
+
+PA	Pittsburgh
+
+NY	Brooklyn
+
+NY	Patchogue
+
+TN	Memphis
+
+IN	New Carlisle
+
+NC	Statesville
+
+OH	Wellston
+
+WA	Seattle
+
+MN	Eagan
+
+GA	Atlanta
+
+IL	Mundelein
+
+FL	Pompano Beach
+
+GA	Sandy Springs
+
+IN	Franklin
+
+SC	Myrtle Beach
+
+KS	Cimarron
+
+IN	Rensselaer
+
+MI	Detroit
+
+CA	Irvine
+
+TX	Dallas
+
+MN	Highland Park
+
+MD	Towson
+
+NY	Horseheads
+
+OH	Newark
+
+LA	Mamou
+
+PA	Croydon
+
+VA	Martinsville
+
+WI	Madison
+
+NY	Syracuse
+
+AR	Lake City
+
+CA	Tulare
+
+TX	Shoreacres
+
+PA	United
+
+FL	Aventura
+
+GA	Augusta
+
+ND	Gwinner
+
+NY	Staten Island
+
+TX	Corsicana
+
+NA	NA
+
+PA	Aston
+
+WA	Seattle
+
+ID	Meridian
+
+NH	Manchester
+
+OH	Brook Park
+
+MA	Quincy
+
+NJ	Warren Point
+
+MO	Ellisville
+
+CO	Rifle
+
+LA	New Orleans
+
+PA	Sligo
+
+NY	Gravesend
+
+NY	Castleton-on-Hudson
+
+MI	Allendale
+
+CA	Los Angeles
+
+IA	Janesville
+
+CA	Anderson
+
+NY	Marcy
+
+GA	Commerce
+
+NJ	Paulsboro
+
+FL	Atlantis
+
+CA	Winchester
+
+VA	Lynchburg
+
+TX	Houston
+
+WI	Ashland
+
+GA	Alpharetta
+
+LA	New Orleans
+
+FL	Manatee
+
+MN	Holdingford
+
+VA	Troy
+
+KY	Paducah
+
+WV	Culloden
+
+AZ	Tucson
+
+RI	North Providence
+
+PA	Tarentum
+
+NY	Syracuse
+
+KY	Corbin
+
+NY	Woodside
+
+NJ	Edison
+
+NJ	Township of Burlington
+
+CO	Glendale
+
+CA	Fresno
+
+NC	Raleigh
+
+CA	Corona
+
+MI	South Haven
+
+CA	Taylorsville
+
+TX	Laredo
+
+TX	Corinth
+
+MN	Saint Paul
+
+IA	Avoca
+
+NA	NA
+
+SC	Hopkins
+
+OH	Medina
+
+MI	Novi
+
+IN	Crawfordsville
+
+KY	Edgewood
+
+IL	Litchfield
+
+CA	San Jose
+
+NM	Deming
+
+MO	Osborn
+
+FL	Sarasota
+
+ME	Oakland
+
+TX	Ballinger
+
+TX	Austin
+
+RI	Warwick
+
+CA	Monterey
+
+CA	National City
+
+NC	Charlotte
+
+TX	Lamesa
+
+ND	Fargo
+
+OH	Delaware
+
+VA	Charlottesville
+
+MA	Lowell
+
+MN	Buhl
+
+MO	Osborn
+
+TX	Austin
+
+NA	NA
+
+FL	Jacksonville
+
+FL	Dunedin
+
+KS	Mulvane
+
+TX	San Antonio
+
+MI	Flint
+
+NY	Sharon Station
+
+PA	Limerick
+
+CO	Keystone
+
+MO	Kansas City
+
+ME	Auburn
+
+WA	Tacoma
+
+NY	Tonawanda
+
+LA	Baton Rouge
+
+OR	Albany
+
+IL	Chicago
+
+CO	Palisade
+
+PA	Meadow Lands
+
+NV	Henderson
+
+CA	San Jacinto
+
+WV	Chester
+
+CA	Auburn
+
+CA	Orange
+
+NH	Goffstown
+
+NY	Buffalo
+
+VA	Richmond
+
+OH	Columbus
+
+VA	Charlottesville
+
+MD	Newburg
+
+WI	Markesan
+
+MI	Lansing
+
+TX	San Antonio
+
+CA	Pioneertown
+
+CA	Lake Forest
+
+IL	Chicago
+
+DC	Washington
+
+CA	San Diego
+
+CA	Irvine
+
+TX	South Lake
+
+NY	Seneca Falls
+
+TX	Austin
+
+NY	Plattsburgh
+
+MI	Detroit
+
+CA	Petaluma
+
+NH	Hanover
+
+CO	Divide
+
+MA	Danvers
+
+NJ	Glen Ridge
+
+WY	Alpine
+
+OH	Marysville
+
+CA	San Quentin
+
+WA	Richland
+
+GA	Dublin
+
+NY	Maybrook
+
+MO	Weatherby
+
+CO	Pueblo
+
+OH	Kent
+
+CT	New Haven
+
+NC	Asheville
+
+OH	Walnut Creek
+
+NY	Rochester
+
+CA	Modesto
+
+FL	Fort Myers
+
+PA	New Columbia
+
+MI	McBain
+
+DC	Washington
+
+KS	Overland Park
+
+PA	Akron
+
+KS	Olathe
+
+TX	San Antonio
+
+PA	Philadelphia
+
+FL	Royal Palm Beach
+
+IN	Greentown
+
+MI	Stanton
+
+MN	Shorewood
+
+CA	Fresno
+
+SC	Marlborough
+
+TN	Knoxville
+
+WI	Owen
+
+NH	Pike
+
+NY	New York
+
+CA	Los Angeles
+
+TX	San Antonio
+
+NY	Tonawanda
+
+IN	Indianapolis
+
+MI	Ovid
+
+CA	Brea
+
+AL	Athens
+
+FL	Silver Springs
+
+CA	Los Angeles
+
+TX	Sienna Plantation
+
+VA	Lynchburg
+
+PA	Reedsville
+
+VT	Winooski
+
+OH	Cleveland Heights
+
+CA	San Jose
+
+IL	Gurnee
+
+FL	Key Biscayne
+
+MI	Carleton
+
+IA	Ogden
+
+KS	Rossville
+
+FL	Vero Beach
+
+GA	Blairsville
+
+NY	New Rochelle
+
+TN	Nashville
+
+FL	Pensacola
+
+NH	West Lebanon
+
+FL	Orlando
+
+PA	Lansdale
+
+WV	Clarksburg
+
+VA	Colonial Heights
+
+NC	Raleigh
+
+NY	Duanesburg
+
+IL	Buffalo Grove
+
+MA	Boston
+
+NJ	Freehold
+
+OH	Cincinnati
+
+OH	Chagrin Falls
+
+MO	Warrensburg
+
+PA	Dillsburg
+
+FL	Jacksonville
+
+WA	Auburn
+
+MI	Erie
+
+WV	Chapmanville
+
+DE	Newark
+
+NJ	Runnemede
+
+CA	Sacramento
+
+MS	Clarksdale
+
+MN	Ramsey
+
+MI	Baraga
+
+AZ	Fort Defiance
+
+NJ	Pennsauken
+
+NC	Salisbury
+
+PA	Fort Washington
+
+TN	Hixson
+
+VA	Vinton
+
+WI	Glendale
+
+NA	NA
+
+HI	Lihue
+
+FL	Anastasia State Park
+
+MI	Iron River
+
+PA	Schnecksville
+
+IA	Janesville
+
+OK	Durant
+
+OR	Hillsboro
+
+MN	Greely
+
+NJ	Edison
+
+NC	Peachland
+
+FL	Callahan
+
+WA	Amboy
+
+NY	East Greenbush
+
+NJ	Cherry Hill
+
+FL	Pembroke
+
+CA	Porterville
+
+KS	Fort Leavenworth
+
+NM	Roswell
+
+SC	Taylors
+
+IL	Du Quoin
+
+CA	Sonoma
+
+NE	Offutt AFB
+
+UT	Ogden
+
+NJ	Succasunna
+
+IN	Howe
+
+KS	Ashland
+
+MA	Springfield
+
+FL	Pensacola
+
+CA	Monterey Park
+
+PA	Pittsburgh
+
+AL	Rainsville
+
+MI	Boyne Falls
+
+ND	Grand Forks
+
+CA	San Mateo
+
+MI	Dexter
+
+FL	Miami
+
+NC	Greensboro
+
+MA	Milford
+
+NY	Sheepshead Bay
+
+CT	Somers
+
+MS	Olive Branch
+
+WA	Puget Sound
+
+IL	Brighton
+
+NC	Sealevel
+
+MA	Sagamore
+
+WI	Eleva
+
+KS	Hays
+
+PA	McConnellsburg
+
+CA	San Francisco
+
+SC	Liberty
+
+PA	Loretto
+
+CT	Clinton
+
+IL	Spring Valley
+
+TX	Richland Hills
+
+PA	Danboro
+
+MD	Dickerson
+
+CA	Avila Beach
+
+PA	Reading
+
+OR	Portland
+
+MI	Auburn Hills
+
+IA	Clarion
+
+NC	Wilmington
+
+CO	Lone Tree
+
+WA	Mercer Island
+
+PA	Reading
+
+OH	Medina
+
+MI	Farmington
+
+NC	Charlotte
+
+MA	Nahant
+
+PA	Red Lion
+
+OR	Aumsville
+
+CO	Denver
+
+IN	Crawfordsville
+
+AZ	Glendale
+
+DE	Millsboro
+
+NJ	Park Ridge
+
+MA	S Yarmouth
+
+NY	New York
+
+CA	Woodland Hills
+
+WI	Mazomanie
+
+SC	Greenville
+
+VA	Richmond
+
+NC	Sealevel
+
+CA	Lemon Grove
+
+MA	Plainville
+
+KS	North Newton
+
+PA	Lewisburg
+
+LA	Lake Charles
+
+MI	Warren
+
+MO	Bowling Green
+
+NC	Gastonia
+
+OH	Cincinnati
+
+IL	Hazel Crest
+
+MI	Troy
+
+NA	NA
+
+NY	Batavia
+
+PA	Port Vue
+
+TN	North Knoxville
+
+PA	Delta
+
+CO	Commerce City
+
+TN	Nashville
+
+CA	San Francisco Bay Area
+
+VA	Riner
+
+NH	Swanzey
+
+GA	Bartow
+
+NY	Manhattan
+
+MN	Bloomington
+
+MN	Champlin
+
+AR	Lowell
+
+VT	Vergennes
+
+SD	Webster
+
+PA	Gladwyne
+
+WA	Benton City
+
+IN	Haubstadt
+
+AZ	Phoenix
+
+ID	Twin Falls
+
+PA	Brogue
+
+IA	Story City
+
+NY	Geneva
+
+CA	Citrus Heights
+
+FL	Jacksonville
+
+KY	Verona
+
+IA	Forest City
+
+NC	Pineville
+
+CA	Sunnyvale
+
+NY	New York
+
+FL	Sarasota
+
+NY	Forest Hills
+
+CO	Denver
+
+TX	Junction
+
+MO	Maryland Hts
+
+VT	Winooski
+
+MO	Sullivan
+
+LA	Covington
+
+PA	Bloomsburg
+
+CA	San Francisco
+
+OH	Raymond
+
+NE	Red Cloud
+
+MA	Northampton
+
+CA	Los Angeles
+
+FL	Lighthouse Point
+
+WA	Federal Way
+
+TN	Troy
+
+VA	Fairfax Station
+
+WV	Hurricane
+
+PA	Mountville
+
+CA	Orange
+
+TX	Round Rock
+
+NC	Charlotte
+
+MO	Bonne Terre
+
+VA	Charlottesville
+
+CA	San Francisco
+
+NY	Hobart
+
+TX	Humble
+
+PA	Tullytown
+
+MD	Sykesville
+
+NY	Amsterdam
+
+CA	Hayward
+
+PA	Orwigsburg
+
+CA	Santa Monica
+
+MI	Township of Macomb
+
+AL	Dothan
+
+VA	Richmond
+
+TN	Columbia
+
+PA	Scranton
+
+TX	Flatonia
+
+MI	Flushing
+
+CA	Sacramento
+
+MD	Grasonville
+
+ME	East Waterboro
+
+NH	West Lebanon
+
+MD	Fort Meade
+
+IA	Clarion
+
+CA	San Leandro
+
+NY	New York
+
+TX	Lago Vista
+
+VA	Bedford
+
+WI	Waukesha
+
+NC	Raleigh
+
+NY	Ithaca
+
+NH	Conway
+
+NY	Uniondale
+
+TX	Austin
+
+NY	Long Island City
+
+NH	Wolfeboro
+
+TX	Sherman
+
+LA	Baton Rouge
+
+OH	Fremont
+
+FL	Miami
+
+MO	Waynesville
+
+WA	Everett
+
+NY	West Hempstead
+
+NY	Jackson Heights
+
+NE	Bridgeport
+
+IA	Clive
+
+NJ	Carlstadt
+
+NY	New York
+
+NC	Claremont
+
+WI	Madison
+
+WA	Quincy
+
+NY	New York
+
+NY	New York
+
+OH	Concord Twp
+
+IA	West Des Moines
+
+MD	Hagerstown
+
+TX	Adkins
+
+GA	Cartersville
+
+OH	Mansfield
+
+NC	Browns Summit
+
+NJ	Delran
+
+PA	Breinigsville
+
+TN	Chattanooga
+
+IL	Paris
+
+IA	Montezuma
+
+MD	Frostburg
+
+TX	Clayton
+
+WA	Cashmere
+
+HI	Kamuela
+
+GA	Leesburg
+
+LA	Jeanerette
+
+TX	San Antonio
+
+PA	Fleetwood
+
+IN	Fort Wayne
+
+NJ	Robinsville
+
+IL	Wood River
+
+NY	New York
+
+MN	Faribault
+
+MN	Sartell
+
+AZ	Phoenix
+
+IN	New Albany
+
+WI	Curtiss
+
+OH	Etna
+
+NY	Palmyra
+
+UT	Cache Valley
+
+KY	Jackson
+
+NY	Smithtown
+
+GA	Atlanta
+
+IL	Northbrook
+
+FL	Baker
+
+IL	Des Plaines
+
+CA	Piedmont
+
+NY	Baldwin
+
+NJ	Allenhurst
+
+VA	Quantico
+
+FL	Stuart
+
+MD	Severna Park
+
+FL	Boynton Beach
+
+MD	Silver Spring
+
+ME	Strong
+
+PA	Scranton
+
+VA	Cape Charles
+
+GA	Martinez
+
+NY	Delmar
+
+CA	San Jose
+
+MP	Saipan
+
+OH	Columbus
+
+NY	Long Island
+
+FL	Lakewood Ranch
+
+MT	Ennis
+
+ID	Shoshone
+
+NC	McLeansville
+
+OH	Malvern
+
+IL	Aurora
+
+NV	Primm
+
+MN	Shoreview
+
+TX	Forest Hill
+
+IL	Chicago
+
+WV	New Haven
+
+TX	Mission
+
+PA	Kirkwood
+
+IA	Centerville
+
+OH	Dayton
+
+TX	Baytown
+
+CA	Van Nuys
+
+UT	Mona
+
+IN	Wabash
+
+CA	Encino
+
+MA	Devens
+
+CA	Victorville
+
+FL	Boca Raton
+
+WA	Seattle
+
+NJ	Paramus
+
+NC	Wilkesboro
+
+IL	Utica
+
+CA	Sacramento
+
+NY	Clinton
+
+OH	Galena
+
+MO	Lee's Summit
+
+FL	Riviera Beach
+
+NY	East Windsor
+
+IL	Midlothian
+
+GA	Cobb
+
+NY	New York
+
+MN	Deerwood
+
+PA	Mifflinburg
+
+NJ	Lyndhurst
+
+FL	Ocala
+
+NC	Kings Mountain
+
+KS	Rossville
+
+MI	Bark River
+
+MD	Lanham
+
+CO	Mancos
+
+NC	Weddington
+
+IL	Morton
+
+OH	Columbus
+
+CO	Carbondale
+
+MI	Romulus
+
+NC	Franklinville
+
+WA	Auburn
+
+TX	Houston
+
+TN	North Knoxville
+
+ID	Meridian
+
+MD	Chevy Chase
+
+CO	Denver
+
+TX	Harker Heights
+
+FL	Bristol
+
+NH	Bridgewater
+
+NH	Temple
+
+WI	Milwaukee
+
+NJ	Bridgewater
+
+GA	Lumpkin
+
+GA	Conyers
+
+WI	Racine
+
+WY	Kaycee
+
+WA	Kent
+
+MI	Otisville
+
+MN	Saint Paul
+
+NC	Gastonia
+
+NJ	Cedar Grove
+
+PA	Silverdale
+
+IL	Greenfield
+
+PA	Mount Union
+
+MD	Mount Rainier
+
+PA	Knoxville
+
+OH	Cambridge
+
+ID	Payette
+
+VA	Dublin
+
+CA	West Hills
+
+WI	Wisconsin Rapids
+
+OR	Gales Creek
+
+KY	Bowling Green
+
+MD	Myersville
+
+IA	Knoxville
+
+GA	Suwanee
+
+PA	South Greensburg
+
+NJ	Jersey City
+
+GA	Fort Stewart
+
+NE	Alliance
+
+OR	Coos Bay
+
+CO	Lakewood
+
+GA	Decatur
+
+NY	Armonk
+
+CA	Burbank
+
+MN	Edina
+
+GA	Smyrna
+
+NM	Tularosa
+
+NY	Rhinebeck
+
+CA	Cold Springs
+
+TX	Kyle
+
+MI	Westland
+
+CA	Sacramento
+
+VA	Honaker
+
+IL	Schiller Park
+
+MA	Boston
+
+CA	San Diego
+
+SD	Lyons
+
+IN	Greenwood
+
+ID	Lewiston
+
+OK	Okmulgee
+
+CA	Carmel-by-the-Sea
+
+NY	Brooklyn
+
+WI	Sullivan
+
+CA	Irvine
+
+HI	O‚Äòahu
+
+PA	Clarion
+
+TN	Clinton
+
+MO	Chamois
+
+CA	San Fernando Valley
+
+LA	Harahan
+
+NY	Schenectady
+
+MI	Auburn Hills
+
+CA	Santa Barbara
+
+TN	Pegram
+
+NJ	Newark
+
+WI	Appleton
+
+WA	Bellingham
+
+NY	New York
+
+MN	Sauk Rapids
+
+PA	Wellsboro
+
+MI	Harper Woods
+
+NY	New York
+
+FL	Crescent City
+
+IL	Amboy
+
+NY	Ithaca
+
+NY	New York
+
+IL	Elwood
+
+DE	Frankford
+
+NE	Gibbon
+
+NJ	Edison
+
+IA	Marengo
+
+AL	Cherokee
+
+TX	Houston
+
+CO	Monument
+
+LA	Mamou
+
+NY	Pelham
+
+MI	Cheboygan
+
+MI	Mount Pleasant
+
+HI	Waianae
+
+MD	Cockeysville
+
+NY	Islandia
+
+NY	Saugerties
+
+CA	San Jose
+
+OR	Portland
+
+UT	Providence
+
+MA	Boston
+
+IA	Des Moines
+
+MD	Hughesville
+
+WI	Plum City
+
+MI	Algonac
+
+IL	Park Ridge
+
+IN	Geneva
+
+VA	Dulles
+
+ME	Searsport
+
+WV	Madison
+
+MA	Hudson
+
+FL	Key Biscayne
+
+NJ	Woodbury
+
+PA	Barnesville
+
+IL	Havana
+
+NY	White Plains
+
+TX	Port Isabel
+
+WV	Indore
+
+VA	Henrico
+
+MT	Columbia Falls
+
+NC	Monroe
+
+TN	Blountville
+
+NY	Stuyvesant
+
+TX	The Woodlands
+
+PA	Fredericksburg
+
+CO	Timnath
+
+CA	Beverly Hills
+
+WA	Bellingham
+
+HI	Honolulu
+
+FL	Kissimmee
+
+VA	Leesburg
+
+NC	Durham
+
+GA	Nashville
+
+OH	Uniontown
+
+MD	Germantown
+
+LA	Ferriday
+
+IA	Cedar Rapids
+
+FL	Miami
+
+TX	Live Oak
+
+CA	Prunedale
+
+OH	Reynoldsburg
+
+NY	Diamond Point
+
+NA	NA
+
+CT	Rocky Hill
+
+OH	Cleveland
+
+NJ	Princeton
+
+IN	Indianapolis
+
+OH	Berea
+
+TX	Taylor
+
+PA	Lancaster
+
+NC	Stedman
+
+VA	Forest
+
+NJ	Denville
+
+CA	Angels Camp
+
+OH	Shaker Heights
+
+MN	Nicollet
+
+OH	Ironton
+
+IN	French Lick
+
+PA	Butler
+
+MO	Vanduser
+
+WA	Steilacoom
+
+TX	Houston
+
+OH	Avon Lake
+
+CT	Danbury
+
+KS	Claflin
+
+WI	Oshkosh
+
+NC	Cary
+
+VA	Richmond
+
+FL	Cape Coral
+
+CA	Glendale
+
+PA	Monroeville
+
+FL	Hollywood
+
+MO	Vanduser
+
+TX	Irving
+
+IA	Vincent
+
+AZ	Phoenix
+
+KY	Verona
+
+NE	Loup City
+
+NY	New York
+
+AR	Cave City
+
+TN	Cleveland
+
+CT	Southport
+
+IL	Orland Park
+
+FL	Hilliard
+
+OH	New Holland
+
+GA	Atlanta
+
+OK	Hammon
+
+IN	Fort Wayne
+
+IA	Moscow
+
+CA	Point Arena
+
+TX	Irving
+
+AZ	Chandler
+
+CO	Mack
+
+MI	Taylor
+
+NC	Hope Mills
+
+NJ	Millburn
+
+FL	Jacksonville
+
+PA	West Elizabeth
+
+DC	Washington
+
+IL	Campus
+
+DC	Washington
+
+IL	Staunton
+
+NY	New York
+
+GA	Griffin
+
+AL	Guntersville
+
+HI	Honolulu
+
+LA	Baton Rouge
+
+CA	El Centro
+
+TX	Dallas-Fort Worth
+
+CA	Colusa
+
+NY	New York
+
+ME	Cumberland Center
+
+AL	Toney
+
+CA	Brisbane
+
+CA	San Ramon
+
+NH	Exeter
+
+AL	Florence
+
+PA	Pittsburgh
+
+TX	Fort Worth
+
+FL	Longwood
+
+CT	Sterling
+
+OH	Cincinnati
+
+MI	Iron River
+
+VA	Leesburg
+
+NY	East Aurora
+
+HI	Laie
+
+CA	Hopland
+
+IL	Champaign
+
+MI	Spring Arbor
+
+NY	Purchase
+
+PA	West Elizabeth
+
+NC	Cleveland
+
+OH	Dublin
+
+MA	Spencer
+
+GA	Vienna
+
+ND	Watford City
+
+NY	Bloomfield
+
+PA	Valley Forge
+
+TX	Dallas
+
+NY	Tonawanda
+
+KS	El Dorado
+
+GA	Doraville
+
+PA	Pittsburgh
+
+CA	Point Mugu
+
+OH	Landen
+
+OH	Columbus
+
+MA	Sagamore
+
+MT	Billings
+
+MN	Richfield
+
+IA	Burlington
+
+NJ	Morristown
+
+MD	Laurel
+
+CA	Vacaville
+
+MS	Clinton
+
+MA	Boston
+
+NC	Asheville
+
+PA	King of Prussia
+
+MA	Andover
+
+CA	San Francisco
+
+MI	Bloomingdale
+
+SC	Daniel Island
+
+FL	Tampa
+
+FL	Altamonte Springs
+
+OR	Gresham
+
+VA	Virginia Beach
+
+IL	Round Lake
+
+CA	Los Angeles
+
+TN	Mount Juliet
+
+PA	Muncy
+
+NJ	Hoboken
+
+IN	Milford
+
+NJ	Caldwell
+
+MI	Eastpointe
+
+IL	Hines
+
+VA	Stafford
+
+NA	NA
+
+PA	Throop
+
+VA	Woodbridge
+
+VA	Floyd
+
+IN	Fort Wayne
+
+UT	Farmington
+
+AZ	Deer Valley
+
+PA	Aldan
+
+TX	Fort Worth
+
+NM	San Pedro
+
+NJ	Aberdeen
+
+PA	Auburn
+
+VA	Warrenton
+
+MD	Boonsboro
+
+NC	Winterville
+
+CA	Monterey Bay
+
+AZ	Phoenix
+
+CO	Milliken
+
+NC	Locust
+
+CA	South Lake Tahoe
+
+ID	Twin Falls
+
+WI	Waukesha
+
+CA	Tracy
+
+TX	Austin
+
+TN	Monterey
+
+PA	New Berlin
+
+MD	Towson
+
+GA	Canton
+
+NY	New York
+
+TN	Brentwood
+
+PA	Ivyland
+
+PA	Trafford
+
+SC	Loris
+
+NY	Flushing
+
+FL	Miami
+
+NY	Frewsburg
+
+OH	Springboro
+
+WI	Elroy
+
+TN	Carthage
+
+CA	Oakland
+
+WA	Seattle
+
+CA	Moffett Field
+
+CA	Pleasanton
+
+NA	NA
+
+TX	Houston
+
+IL	Midlothian
+
+IL	Midlothian
+
+ID	Meridian
+
+AZ	Tempe
+
+MD	Capitol Heights
+
+OR	Remote
+
+VA	Reston
+
+PA	Patton
+
+CA	Gardena
+
+TN	Ethridge
+
+MN	White Bear Lake
+
+AZ	Nogales
+
+WI	Brown Deer
+
+MA	West Bridgewater
+
+AR	Conway
+
+OH	West Portsmouth
+
+MI	Ann Arbor
+
+LA	Honore
+
+OH	Upper Arlington
+
+CA	Cupertino
+
+GA	Clayton
+
+CA	Irvine
+
+AL	Oxford
+
+FL	Leesburg
+
+NE	Lincoln
+
+FL	Miami
+
+NJ	Mount
+
+NJ	Lake Hopatcong
+
+TX	Austin
+
+AZ	Coolidge
+
+NC	Camp Lejeune
+
+TN	Erin
+
+NY	Claverack
+
+MN	Nisswa
+
+MI	Petersburg
+
+MI	Detroit
+
+MI	Iron River
+
+KS	Edwardsville
+
+CA	Southgate
+
+KY	Lexington
+
+IA	Sioux City
+
+KY	Louisville
+
+FL	Tampa
+
+MT	Hamilton
+
+NH	Londonderry
+
+GA	Hogansville
+
+AZ	San Tan Valley
+
+AL	Oxford
+
+CA	Los Angeles
+
+SC	Mount Pleasant
+
+TN	Cane Ridge
+
+OH	Akron
+
+CA	San Diego
+
+VA	Fairfax
+
+CA	Foresthill
+
+DE	Greenville
+
+MD	Jessup
+
+SC	Georgetown
+
+NC	Nags Head
+
+PA	Pittsburgh
+
+IA	Pomeroy
+
+TX	Houston
+
+IN	Farmland
+
+TN	Elizabethton
+
+TX	San Antonio
+
+NY	New York
+
+WI	Mount Pleasant
+
+NC	Middlesex
+
+NY	New York
+
+VA	Shawsville
+
+TX	Cypress
+
+MD	Ellicott City
+
+MI	Crystal Falls
+
+MD	Denton
+
+MI	Southfield
+
+MA	Franklin
+
+OH	Beavercreek
+
+MI	Manchester
+
+CA	Panorama City
+
+MN	Comfrey
+
+CA	Tustin
+
+TN	Louisville
+
+NC	Angier
+
+CA	Tulare
+
+MO	Warrenton
+
+NY	Manhattan
+
+NY	New York
+
+TX	League City
+
+NY	Putnam Valley
+
+MI	Shelby
+
+CA	Menlo Park
+
+CT	Rocky Hill
+
+TN	Drummonds
+
+IL	Homer Glen
+
+MA	North Billerica
+
+NC	Chadbourn
+
+NY	Astoria
+
+NY	Peconic
+
+OR	Island City
+
+AZ	Avondale
+
+NJ	Butler
+
+NC	Mills River
+
+TX	Dallas
+
+CA	Clovis
+
+IL	Evanston
+
+CA	West Covina
+
+IN	Mauckport
+
+IL	Capron
+
+MI	Pontiac
+
+NC	Plymouth
+
+CA	Los Angeles
+
+NJ	Towaco
+
+IL	Mundelein
+
+NC	Raleigh
+
+ME	Auburn
+
+MN	Burnsville
+
+MA	Cambridge
+
+HI	Kekaha
+
+MI	Hopkins
+
+MO	Kansas City
+
+IL	Bedford Park
+
+OH	Cleveland
+
+ME	Sanford
+
+NJ	Vineland
+
+OH	Malinta
+
+NV	City of Las Vegas
+
+ID	Saint Maries
+
+MI	Hopkins
+
+WI	Madison
+
+FL	Sarasota
+
+IL	Chester
+
+MI	Hastings
+
+PA	Jeffersonville
+
+OH	Kenton
+
+IA	Pocahontas
+
+FL	Pensacola
+
+VA	Virginia Beach
+
+TX	Baytown
+
+IL	Chicago
+
+NJ	Ramsey
+
+WI	Milwaukee
+
+MI	Grosse Pointe Woods
+
+FL	Winter Park
+
+SC	Charleston
+
+TX	Houston
+
+CA	Topanga Canyon
+
+WA	Seattle
+
+AR	Ozark
+
+AZ	Gilbert
+
+NJ	Newark
+
+PA	Equinunk
+
+MO	Kansas City
+
+CA	New Cuyama
+
+MS	Kosciusko
+
+PA	Stroudsburg
+
+LA	Lacombe
+
+MI	Saint Clair Shores
+
+IN	South Bend
+
+WI	Menomonie
+
+LA	Lacassine
+
+TX	Hamlin
+
+OH	Toronto
+
+IA	Milford
+
+NH	Tamworth
+
+KY	Lexington
+
+LA	Lafayette
+
+WA	Seattle
+
+NY	Ghent
+
+MO	Valley Park
+
+CA	Toluca Lake
+
+KY	Louisville
+
+NV	Las Vegas
+
+CA	Thousand Oaks
+
+SC	Charleston
+
+OK	Kingston
+
+NC	Newland
+
+TX	La Vernia
+
+TX	Dallas
+
+WI	West Bend
+
+WY	Jackson
+
+KY	Independence
+
+MA	Pembroke
+
+NC	Fletcher
+
+OH	Cincinnati
+
+PA	Norristown
+
+WI	Eau Claire
+
+NJ	Marlboro
+
+KS	Baileyville
+
+NY	New York
+
+TX	Conroe
+
+FL	West Palm Beach
+
+NC	Durham
+
+NC	Raeford
+
+WI	Milwaukee
+
+IA	Durant
+
+OH	Urbancrest
+
+NY	Yorkville
+
+OK	Poteau
+
+MA	Great Barrington
+
+MO	Moscow Mills
+
+FL	Gulfport
+
+CA	South El Monte
+
+TX	Dallas-Fort Worth
+
+PA	Dallas
+
+KY	Paintsville
+
+CO	Greenwood Village
+
+AR	Little Rock
+
+PA	Yardley
+
+HI	Lihue
+
+UT	Salt Lake City
+
+NC	Dunn
+
+CA	Santa Ana
+
+MI	Saline
+
+CA	Anaheim
+
+GA	Trenton
+
+SC	Charleston
+
+NH	Waterville Valley
+
+CT	North Haven
+
+WI	Waukesha
+
+CA	Cordelia
+
+NC	Monroe
+
+MO	St. Louis
+
+TX	Euless
+
+ME	Kennebunk
+
+NY	Brooklyn
+
+CA	Los Angeles
+
+LA	Lafayette
+
+NY	Hunter
+
+KS	Coldwater
+
+OH	Tiffin
+
+NY	Plainview
+
+TN	Lawrenceburg
+
+MA	Waltham
+
+TX	San Antonio
+
+OH	Cincinnati
+
+IL	Cary
+
+NY	New York
+
+WI	Chippewa Falls
+
+PA	Saxonburg
+
+MI	Bridgeport
+
+GA	Atlanta
+
+NY	New York
+
+MD	Middle River
+
+IL	Lakeview
+
+CA	Fair Oaks
+
+FL	Delray Beach
+
+GA	Atlanta
+
+NJ	Jersey City
+
+NC	Harrisburg
+
+TX	Fort Worth
+
+NA	NA
+
+MN	Chaska
+
+MN	Center City
+
+VA	Charlottesville
+
+WA	Issaquah
+
+SD	Pierre
+
+WA	Camas
+
+MA	Boston
+
+PA	McVeytown
+
+MD	Largo
+
+MI	Lansing
+
+MA	Sturbridge
+
+OH	Oregon
+
+TX	Midland
+
+NY	Champlain
+
+NJ	Moonachie
+
+MA	Norwood
+
+VT	Goshen
+
+UT	Moab
+
+CA	Moreno Valley
+
+CA	Sun Valley
+
+ID	Pocatello
+
+WI	Eau Claire
+
+NY	Selden
+
+PA	Lehigh Valley
+
+TX	Greenville
+
+TX	Sulphur Springs
+
+VA	Ashland
+
+CA	Tarzana
+
+SC	Lugoff
+
+CA	Sacramento
+
+IL	Elmhurst
+
+MD	Salisbury
+
+NJ	Mount Laurel
+
+MI	Wixom
+
+WV	Moundsville
+
+PA	McCandless Township
+
+WI	Fox Point
+
+MI	Howell
+
+NJ	Orange
+
+OK	Comanche
+
+TN	Palmyra
+
+IA	Ames
+
+NY	New York
+
+GA	Warner Robins
+
+MD	Cambridge
+
+CA	Highland
+
+CA	San Diego
+
+TX	Taylor
+
+AZ	Phoenix
+
+IL	Pana
+
+CA	San Fernando Valley
+
+PA	Canonsburg
+
+MA	Norwood
+
+GA	Toccoa
+
+IL	Montgomery
+
+ND	Fargo
+
+MA	Sudbury
+
+ME	Madison
+
+FL	Pembroke Pines
+
+FL	Tampa
+
+MI	Grand Rapids
+
+NY	New York
+
+PA	Karns City
+
+TX	Benbrook
+
+TX	Rusk
+
+OH	Springfield
+
+WI	Mukwonago
+
+PA	York New Salem
+
+TN	Charleston
+
+CO	Pueblo
+
+MA	Manchester by the Sea
+
+TX	Lockney
+
+MA	New Bedford
+
+MD	Landover
+
+IN	South Bend
+
+MN	Arden Hills
+
+NJ	Newark
+
+PA	Bridgeport
+
+WI	Butler
+
+MI	Detroit
+
+VA	Hayes
+
+FL	Orlando
+
+OH	Strasburg
+
+AZ	Maricopa
+
+RI	Tiverton
+
+DC	Washington
+
+MI	Lake Linden
+
+CA	San Diego
+
+FL	Punta Gorda
+
+IL	Chicago
+
+WA	Whidbey Island
+
+FL	Saint Petersburg
+
+MI	Buena Vista
+
+CT	Hartford
+
+AL	Argo
+
+SC	Pageland
+
+GA	Folkston
+
+MO	Maryland Heights
+
+TX	Friendswood
+
+IN	Rushville
+
+FL	Patrick Afb
+
+NJ	Port Republic
+
+TX	Port Arthur
+
+NJ	Palisades Park
+
+TX	Round Rock
+
+FL	Jacksonville
+
+VA	Richmond
+
+OK	Midwest City
+
+CO	Westcliffe
+
+TX	Tyler
+
+WI	Wisconsin Rapids
+
+IL	Fairview Heights
+
+IL	Norridge
+
+VA	Nellysford
+
+AZ	Scottsdale
+
+PA	Narvon
+
+PA	Pottstown
+
+NJ	Sewell
+
+MA	Framingham
+
+TX	San Antonio
+
+CO	Denver
+
+CA	Santa Rosa
+
+AZ	Tempe
+
+GA	Union City
+
+IA	Decorah
+
+WA	Auburn
+
+GA	Experiment
+
+AL	Columbia
+
+FL	Miami
+
+FL	Clearwater
+
+PA	North Warren
+
+NJ	Fords
+
+CA	Saint Helena
+
+MA	Sagamore Beach
+
+NY	Bay Ridge
+
+CO	Yuma
+
+MO	Carthage
+
+NJ	Cliffwood
+
+PA	York
+
+PA	Mechanicsburg
+
+SD	Lyons
+
+FL	Orlando
+
+OH	Calcutta
+
+TX	Salado
+
+CA	Rowland Heights
+
+OH	Frazeysburg
+
+PA	Bethel Park
+
+PA	Smithfield
+
+NV	Reno
+
+FL	Summerfield
+
+KY	Frankfort
+
+TX	New Braunfels
+
+NC	Chapel Hill
+
+NC	Goldsboro
+
+GA	Sharpsburg
+
+TX	Tyler
+
+TX	McAllen
+
+MO	St. Louis
+
+RI	Bristol
+
+MD	Bethesda
+
+WA	Bremerton
+
+CA	San Mateo
+
+MS	Magnolia
+
+KS	Caney
+
+PA	Hershey
+
+MA	Danvers
+
+MA	Marlborough
+
+NY	Astoria
+
+IA	Burlington
+
+FL	Ocala
+
+NV	Ely
+
+KY	Louisville
+
+CA	San Diego
+
+NC	Fletcher
+
+NJ	Township of Lakewood
+
+UT	Crescent Junction
+
+MN	Fridley
+
+KS	Topeka
+
+TX	Schertz
+
+GA	Atlanta
+
+GA	Martinez
+
+WI	Eau Claire
+
+FL	Sarasota
+
+MD	Baltimore
+
+CA	Palm Springs
+
+TX	Big Springs
+
+OK	McAlester
+
+CA	San Francisco
+
+OH	South Bloomfield
+
+OH	Woodville
+
+IN	Batesville
+
+WI	Cambridge
+
+MO	Kansas City
+
+TN	West Hills
+
+WI	Waterford
+
+AL	Tuscumbia
+
+PA	Gratz
+
+ND	Galesburg
+
+GA	Lithonia
+
+MD	Willards
+
+AZ	Williams
+
+OH	Westchester
+
+CA	Tarzana
+
+TX	Prosper
+
+KY	Lancaster
+
+FL	West Palm Beach
+
+CA	Sacramento
+
+CA	Fremont
+
+CA	Vacaville
+
+TX	Del Rio
+
+WI	Crawford Crossing
+
+TX	Highland Park
+
+OH	East Liberty
+
+PA	Marcus Hook
+
+WA	Tacoma
+
+TX	Alton
+
+OK	Newcastle
+
+FL	Oldsmar
+
+WI	Kewaskum
+
+MI	Bellaire
+
+TX	Rotan
+
+TN	Woodlawn
+
+NY	Binghamton
+
+VA	Langley AFB
+
+IA	Waverly
+
+NE	Millard
+
+NY	Kings Park
+
+HI	Honolulu
+
+PA	Emigsville
+
+ID	Post Falls
+
+FL	Captiva Island
+
+MI	Jasper
+
+NJ	Caldwell
+
+NC	Charlotte
+
+SC	Spartanburg
+
+MI	Monroe
+
+MD	Bel Alton
+
+CA	Coronado
+
+IL	Chicago
+
+WA	Northgate
+
+MA	Cambridge
+
+WV	Berkeley Springs
+
+IL	Hartford
+
+NY	Grand Island
+
+NY	Kent
+
+GA	Gainesville
+
+FL	Gainesville
+
+WV	Moundsville
+
+AZ	Gilbert
+
+IN	McCordsville
+
+TN	Chattanooga
+
+IL	Schaumburg
+
+CA	Corte Madera
+
+CA	Winters
+
+PA	Camp Hill
+
+MD	North Bethesda
+
+PA	Hershey
+
+NY	Oneida
+
+OR	La Grande
+
+NJ	Teterboro
+
+MI	Charter Township of Harrison
+
+NC	Star
+
+AZ	Glendale
+
+PA	Mattawana
+
+LA	New Roads
+
+MD	Indian Head
+
+TX	Forney
+
+IL	Des Plaines
+
+MN	Bloomington
+
+GA	Glennville
+
+MA	Billerica
+
+SC	Greer
+
+CA	Santa Rosa
+
+IL	Stoneyville
+
+TX	Aldine
+
+CA	San Francisco Bay Area
+
+WI	Laona
+
+OK	Chickasha
+
+OR	Philomath
+
+CA	Mountain View
+
+NJ	Keasbey
+
+PA	Kittanning
+
+FL	Hialeah
+
+PA	Robesonia
+
+MO	St. Louis
+
+MS	Pass Christian
+
+PA	Forksville
+
+WA	Carnation
+
+GA	Columbus
+
+UT	South Ogden
+
+FL	Tampa
+
+FL	Pembroke Pines
+
+TX	Houston
+
+NA	NA
+
+MD	Bowie
+
+IL	Creve Coeur
+
+AR	Gravette
+
+NA	NA
+
+GA	Buckhead
+
+TX	North Richland Hills
+
+CO	Greenwood Village
+
+TX	Marion
+
+IN	Knox
+
+SC	Central
+
+CA	Ontario
+
+PA	Cheyney
+
+VA	Amissville
+
+FL	Brooksville
+
+PA	Leechburg
+
+MN	Eagan
+
+GA	Douglasville
+
+MI	Midland
+
+NJ	Berlin
+
+PA	Southampton
+
+GA	Woodstock
+
+NC	Pinehurst
+
+CA	Tustin
+
+OH	Cleveland
+
+IA	Dyersville
+
+IN	Indianapolis
+
+CA	Victorville
+
+CO	Colorado Springs
+
+OH	Jackson
+
+TN	Hixon
+
+FL	Melbourne
+
+TN	Oak Ridge
+
+NM	Grants
+
+WI	Randolph
+
+OK	Fargo
+
+WI	Columbus
+
+NY	Long Island
+
+MD	Salisbury
+
+MO	Manchester
+
+FL	South Florida
+
+NY	Port Byron
+
+PR	Manat√≠ Zona Urbana
+
+TX	Euless
+
+MS	Pass Christian
+
+UT	Provo
+
+KS	Wichita
+
+PA	Scranton
+
+NY	New York
+
+VA	Hallsboro
+
+MI	Clinton Township
+
+GA	Cusseta
+
+FL	Sarasota
+
+NY	Gouverneur
+
+KY	Mount Olivet
+
+ME	Belfast
+
+TN	La Vergne
+
+WV	Milton
+
+FL	Holmes Beach
+
+CO	Lone Tree
+
+KY	Prospect
+
+NY	Rochester
+
+WI	Doylestown
+
+NY	Brewster
+
+CA	Placerville
+
+OH	Batavia
+
+OH	Maumee
+
+MA	Gardner
+
+UT	Salt Lake City
+
+MN	Mounds View
+
+AZ	Gilbert
+
+OH	Bluffton
+
+MA	Westford
+
+NY	Valley Stream
+
+AZ	Tempe
+
+PA	Erie
+
+ME	Pittsfield
+
+PA	Blue Bell
+
+WI	Arcadia
+
+GA	Acworth
+
+CA	Terra Bella
+
+MI	Pigeon
+
+NY	Delmar
+
+MI	Manchester
+
+TN	Munford
+
+CT	Cheshire
+
+IL	Elgin
+
+IL	Aviston
+
+NC	Raleigh-Durham
+
+PA	Ambler
+
+NJ	Shrewsbury
+
+MO	Raymore
+
+TX	Dallas
+
+CA	San Jose
+
+CA	Mountain View
+
+TX	Fort Worth
+
+NJ	Ringoes
+
+NY	Palmyra
+
+VA	Manassas
+
+MO	St. Louis
+
+TX	Longview
+
+CA	Fort Rosecrans
+
+PA	Wexford
+
+IL	Lake in the Hills
+
+NY	Brooklyn
+
+CA	San Bruno
+
+FL	Largo
+
+NE	Fremont
+
+TN	Ooltewah
+
+GA	Fort Benning
+
+TN	South Fulton
+
+GA	Dahlonega
+
+TX	Bedford
+
+MA	Georgetown
+
+CA	Anaheim
+
+NC	Franklin
+
+WA	Vancouver
+
+WI	Shawano
+
+PA	Lancaster
+
+LA	Monroe
+
+MO	Eureka
+
+NY	North Salem
+
+CA	San Francisco
+
+CA	Goleta
+
+VA	Norfolk
+
+DE	Selbyville
+
+CA	Bloomington
+
+TX	Laredo
+
+MO	Florissant
+
+FL	Ocala
+
+ID	Meridian
+
+GA	Brunswick
+
+NY	Mattituck
+
+PA	Temple
+
+PA	Harborcreek
+
+DC	Washington
+
+MO	Manchester
+
+VA	Roanoke
+
+MD	Damascus
+
+OH	Pandora
+
+CA	Monterey
+
+TN	Millington
+
+FL	Miami
+
+TX	San Antonio
+
+NY	Albany
+
+TX	Central
+
+VA	Winchester
+
+OH	Loveland
+
+IL	Chicago
+
+IN	West Lafayette
+
+MD	Lexington Park
+
+NY	Cheektowaga
+
+MO	Blue Springs
+
+TX	Irving
+
+AL	Hanceville
+
+OH	Maumee
+
+MI	Grand Rapids
+
+PA	Rockledge
+
+NC	Roxboro
+
+NJ	Park Ridge
+
+DC	Washington
+
+MN	Mankato
+
+IL	Aurora
+
+NC	North Topsail Beach
+
+NJ	Farmingdale
+
+TX	Dallas
+
+NC	Davidson
+
+CA	San Mateo
+
+NC	Charlotte
+
+OH	Saint Paris
+
+TX	Oak Ridge North
+
+IN	Daleville
+
+NY	Jamaica
+
+WI	Madison
+
+AL	Talladega Springs
+
+ID	Boise
+
+UT	Brigham City
+
+TX	Freeport
+
+VA	Stephens City
+
+AR	Earle
+
+CA	Fair Oaks
+
+OH	Strasburg
+
+FL	Seminole
+
+NC	Penders Crossroads
+
+MI	Detroit
+
+NY	Great River
+
+NY	West Camp
+
+FL	High Springs
+
+ME	Bar Harbor
+
+WI	Windsor
+
+CA	Temecula
+
+IA	Moscow
+
+FL	Palm Bay
+
+NC	Clinton
+
+TX	Hallsville
+
+MN	New Brighton
+
+VA	Vienna
+
+PA	Mifflintown
+
+MA	Woburn
+
+GA	Douglasville
+
+NJ	Newport
+
+NC	Knightdale
+
+NJ	Bayville
+
+WI	Hazel Green
+
+OH	Cincinnati
+
+DC	Washington
+
+OR	Biggs Junction
+
+CT	Weatogue
+
+GA	Roswell
+
+MD	Jessup
+
+TX	Cedar Park
+
+NC	Raleigh
+
+WV	Martinsburg
+
+MI	Traverse City
+
+NY	Arverne
+
+OH	Bolivar
+
+PA	Abington
+
+NE	Waverly
+
+FL	Orlando
+
+NA	NA
+
+CO	Keystone
+
+VA	Manassas
+
+TN	Spring City
+
+FL	Pompano Beach
+
+NY	New York
+
+CT	Hampton
+
+ID	Kuna
+
+AL	Florence
+
+CO	Cortez
+
+OH	Holland
+
+WV	Clay
+
+AL	Clio
+
+NY	Niagara Falls ARS
+
+TX	Powderly
+
+MD	Dundalk
+
+MN	Blue Earth
+
+WI	Denmark
+
+AZ	Nogales
+
+VA	Crozet
+
+WA	Seattle
+
+MA	Lenox
+
+CO	Akron
+
+IL	Westmont
+
+WV	Morgantown
+
+OR	La Grande
+
+MN	Kasson
+
+WI	Athens
+
+MA	Tyngsborough
+
+NY	Valhalla
+
+CA	Long Beach
+
+OH	Cadiz
+
+CA	Danville
+
+NY	Ridge
+
+FL	Spring Hill
+
+TX	Pecos
+
+TX	Mesquite
+
+IA	Decorah
+
+KY	Louisville
+
+OH	Cleveland
+
+FL	Miami
+
+HI	Kaneohe
+
+TX	Austin
+
+NY	Syracuse
+
+PA	Pipersville
+
+TN	Piperton
+
+OH	Somerton
+
+MS	Burnsville
+
+WY	Riverton
+
+CT	Bristol
+
+CO	Gardner
+
+SC	Kingstree
+
+VA	Fincastle
+
+IL	Frankfort
+
+WY	Lovell
+
+NA	NA
+
+CA	Penn Valley
+
+TX	Lone Star
+
+DE	Camden
+
+GA	Atlanta
+
+MI	Ypsilanti
+
+VA	Chesapeake
+
+IA	Sioux City
+
+TX	Waco
+
+IL	Elk Grove Village
+
+NY	Gasport
+
+OR	Riverside
+
+MA	Sudbury
+
+MO	Manchester
+
+VA	Chesapeake
+
+IA	Keystone
+
+WI	Kewaunee
+
+PA	Tafton
+
+NJ	Norwood
+
+MN	West Saint Paul
+
+SC	Rock Hill
+
+DE	New Castle
+
+MA	Deerfield
+
+OH	Cleveland
+
+SC	Columbia
+
+NV	Reno
+
+CA	Placerville
+
+KS	Shawnee
+
+OH	Columbus
+
+CO	Englewood
+
+TX	Uvalde
+
+CT	Naugatuck
+
+PA	Hatfield
+
+NY	Syracuse
+
+MI	Allegan
+
+AR	Mountain View
+
+RI	Central Falls
+
+PA	Greensburg
+
+ME	Westbrook
+
+NJ	Englewood
+
+CA	Los Angeles
+
+ME	Sebago
+
+NY	Elmont
+
+AR	Fayetteville
+
+MD	Beltsville
+
+NY	Ulster Park
+
+ID	Burley
+
+WI	Franklin
+
+AR	Paris
+
+OK	Heavener
+
+MA	Marlborough
+
+MA	Salem
+
+OH	Pickerington
+
+NJ	Elmwood Park
+
+NC	Wake Forest
+
+CA	Apple Valley
+
+NC	Outer Banks
+
+IL	Bartlett
+
+VA	Richmond
+
+NE	Hebron
+
+AL	Gadsden
+
+TX	Laredo
+
+FL	Sky Lake
+
+LA	Bastrop
+
+CA	Santa Monica
+
+CA	Duarte
+
+WA	Chewelah
+
+PA	Blakeslee
+
+TX	Houston
+
+ID	McCall
+
+IL	Quincy
+
+MI	East Lansing
+
+WI	Johnson Creek
+
+NY	New York
+
+TN	Walland
+
+KS	Junction City
+
+TX	San Antonio
+
+OR	Portland
+
+CA	San Diego
+
+IN	North Liberty
+
+PA	Washington Boro
+
+TX	McKinney
+
+PA	Marietta
+
+MD	Baltimore
+
+MS	Burnsville
+
+FL	Margate
+
+GA	Bloomingdale
+
+NJ	Stanhope
+
+MD	Silver Spring
+
+MS	Greenville
+
+OH	New Albany
+
+CO	Denver
+
+IL	Hennepin
+
+VA	Crewe
+
+AZ	Tucson
+
+TN	Bulls Gap
+
+MD	Woodstock
+
+DC	Washington
+
+GA	Alpharetta
+
+KS	Lewis
+
+MA	Orange
+
+ND	Bowman
+
+UT	Salt Lake City
+
+RI	Hope Valley
+
+FL	Orlando
+
+FL	Lake Mary
+
+ME	Gray
+
+WI	Schofield
+
+NC	Shallotte
+
+ME	Randolph
+
+NC	Matthews
+
+IL	Apple River
+
+GA	Milledgeville
+
+NH	Loudon
+
+IL	Kankakee
+
+NY	University Heights
+
+MD	White Marsh
+
+MN	Hibbing
+
+IL	Sycamore
+
+CO	Divide
+
+IL	Urbana
+
+OK	Vinita
+
+NH	Milford橆ꓢ䡟暂㤅籧
