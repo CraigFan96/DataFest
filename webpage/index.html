@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Mapping with D3</title>
+	<script src="http://d3js.org/d3.v4.js" charset="utf-8"></script>
+	<script src="https://d3js.org/d3-zoom.v1.min.js"></script>
+	<style>
+		body {
+    position: absolute;
+    font-family: "Proxima Nova", "Montserrat", sans-serif;
+		}
+		h1, h2 {
+		    position: absolute;
+		    left: 10px;
+		    font-size: 1.3em;
+		    font-weight: 100;
+		}
+		h2 {
+		    top: 30px;
+		    font-size: 1em;
+		}
+		.fillBlue{
+			fill: steelblue;
+		}
+		.hover{
+			fill: yellow;
+		}
+		#sliderContainer {
+		    text-align: center;
+		    position: relative;
+		    top: 300px;
+		}
+		.background{
+			fill: white;
+		}
+		.incident{
+			fill: steelblue;
+		}
+		.fillGray{
+			fill: gray;
+		}
+	</style>
+	
+</head>
+<p>This is where we find the data</p>
+<body>
+
+	<!-- Page elements and content go here. -->
+	<script>
+
+
+		d3.csv("the data", function(data){
+			console.log(data[0])
+		});
+
+		/*
+		Used to keep track of the current value the user is on and the array for labels of the slider
+		*/
+	</script>	
+</body>
+</html>
