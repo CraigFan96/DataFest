@@ -22,7 +22,7 @@ csvfile = open(file, 'r', encoding = "utf-8")
 reader = csv.reader(csvfile)
 
 
-count = 0 
+count = 0
 for row in reader:
 	count += 1
 	if len(row) == 0:
@@ -30,7 +30,7 @@ for row in reader:
 	if count % 2 == 0:
 		continue
 	else:
-		print(row)
+		print(row[0])
 
 
 
