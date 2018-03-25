@@ -2,10 +2,12 @@ from tqdm import tqdm
 import numpy as np
 import csv
 
-def sample_10000():
+
+
+def sample(n):
 	file = "..\\data.csv"
 	f = open(file, 'r', encoding = "utf-8")
-	#Max size = 10000
+	#Max size = n
 	reservior = []
 
 	fields = None
@@ -16,15 +18,15 @@ def sample_10000():
 			fields = line
 			first = False
 
-		if len(reservior) < 10000:
+		if len(reservior) < n:
 			# reservior.append(line.encode("utf-8"))
 			encoded = [x.encode("utf-8") for x in line.split(",")]
 			# reservior.append(encoded)
 			reservior.append(line.split(","))
 
 		else:
-			rand = np.random.randint(0, 10000)
-			if rand < 10000:
+			rand = np.random.randint(0, n)
+			if rand < n:
 				encoded = [x.encode("utf-8") for x in line.split(",")]
 				# reservior[rand] = encoded
 				reservior[rand] = line.split(",")
@@ -47,4 +49,5 @@ def sample_10000():
 				build_dict[fields[j]] = str(reservior[i][j])
 			writer.writerow(build_dict)
 if __name__ == "__main__":
-	sample_10000()		
+	n = 500000
+	sample(n)		
