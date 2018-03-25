@@ -10,19 +10,24 @@ from sklearn.linear_model import LinearRegression
 from sklearn import linear_model
 from sklearn.model_selection import GridSearchCV
 from sklearn import svm
+from sklearn import tree
 from sklearn.linear_model import Ridge
+from sklearn.naive_bayes import GaussianNB
 from math import sqrt
 from sklearn.metrics import make_scorer, mean_absolute_error
 from tqdm import tqdm
 import csv
 import numpy as np
 from sklearn.model_selection import train_test_split
+from sklearn.neural_network import MLPClassifier
 
-file = "temp.csv"
+# file = "temp.csv"
+file = "labelscomplete_firstrowdeleted.csv"
+
 csvfile = open(file, 'r', encoding = "utf-8")
 reader = csv.reader(csvfile)
 
-cutOff = 8500
+cutOff = 425000
 
 trainData = []
 labels = []
@@ -38,11 +43,15 @@ for row in reader:
 		labels.append(row[-1])
 
 
-clf = RandomForestClassifier()
+# clf = RandomForestClassifier()
+clf = MLPClassifier(solver='sgd', hidden_layer_sizes=(5, 2), random_state=1)
+# clf = svm.SVC(verbose = True)
+# clf = GaussianNB()
+# clf = tree.DecisionTreeClassifier(max_depth=300)
 #clf.fit(trainData,labels)
 
 
-file1 = "temp.csv"
+file1 = "labelscomplete_firstrowdeleted.csv"
 csvfile1 = open(file1, 'r', encoding = "utf-8")
 reader1 = csv.reader(csvfile1)
 newCount = 0
@@ -50,6 +59,7 @@ testData = []
 answers = []
 for row in reader1:
 	newCount += 1
+
 	if len(row) == 0:
 		continue
 	if newCount >= cutOff:
@@ -70,3 +80,15 @@ X_train, X_test, y_train, y_test = train_test_split(trainData, labels, test_size
 clf.fit(X_train, y_train)
 print(clf.score(X_test, y_test))
 
+"""
+Results:
+
+Random Forest Classification:
+With n = 10,000 and cross-validation of 85%/15% split, we received an accuracy
+of about 5%
+With n = 500,000 and cross-validation of 85%/15% split, we received an accuracy
+of about 10%
+
+SVM
+
+"""
